@@ -1,0 +1,3571 @@
+2011-12-01_20.22.33     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.22.33     Starting scrape for bbl_flows
+2011-12-01_20.22.33     Scrape completed successfully.
+2011-12-01_20.22.33     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_20.23.38     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.23.38     Starting scrape for bbl_flows
+2011-12-01_20.23.41     Scrape completed successfully.
+2011-12-01_20.23.41     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_20.24.57     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.24.57     Starting scrape for bbl_flows
+2011-12-01_20.24.57     Scrape completed successfully.
+2011-12-01_20.24.57     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_20.29.55     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.29.55     Starting scrape for bbl_flows
+2011-12-01_20.29.56     Scrape completed successfully.
+2011-12-01_20.29.56     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_20.30.08     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.30.08     Starting scrape for bbl_flows
+2011-12-01_20.44.47     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.44.47     Starting scrape for bbl_flows
+2011-12-01_20.44.49     ERROR: Link not found at sites/bbl_flows.pm line 38
+
+
+2011-12-01_20.45.39     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.45.39     Starting scrape for bbl_flows
+2011-12-01_20.45.39     ERROR: Link not found at sites/bbl_flows.pm line 38
+
+
+2011-12-01_20.45.44     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.45.44     Starting scrape for bbl_flows
+2011-12-01_20.45.45     ERROR: Link not found at sites/bbl_flows.pm line 38
+
+
+2011-12-01_20.46.27     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.46.27     Starting scrape for bbl_flows
+2011-12-01_20.46.27     ERROR: Link not found at sites/bbl_flows.pm line 38
+
+
+2011-12-01_20.47.03     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.47.03     Starting scrape for bbl_flows
+2011-12-01_20.50.53     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.50.53     Starting scrape for bbl_flows
+2011-12-01_20.51.20     Scrape completed successfully.
+2011-12-01_20.51.20     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_20.51.42     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.51.42     Starting scrape for bbl_flows
+2011-12-01_20.51.43     ERROR: Error GETing javascript:__doPostBack('ctl00$ctl06','sFlow%20Information'): Protocol scheme 'javascript' is not supported at sites/bbl_flows.pm line 38
+
+
+2011-12-01_20.56.33     SCRIPT bbl_flows has been INVOKED
+2011-12-01_20.56.33     Starting scrape for bbl_flows
+2011-12-01_21.10.55     SCRIPT bbl_flows has been INVOKED
+2011-12-01_21.10.55     Starting scrape for bbl_flows
+2011-12-01_21.12.14     SCRIPT bbl_flows has been INVOKED
+2011-12-01_21.12.14     Starting scrape for bbl_flows
+2011-12-01_21.12.17     Scrape completed successfully.
+2011-12-01_21.12.17     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_21.12.59     SCRIPT bbl_flows has been INVOKED
+2011-12-01_21.12.59     Starting scrape for bbl_flows
+2011-12-01_21.13.03     Scrape completed successfully.
+2011-12-01_21.13.03     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_21.16.37     SCRIPT bbl_flows has been INVOKED
+2011-12-01_21.16.37     Starting scrape for bbl_flows
+2011-12-01_21.16.40     Scrape completed successfully.
+2011-12-01_21.16.40     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_21.58.16     SCRIPT bbl_flows has been INVOKED
+2011-12-01_21.58.16     Starting scrape for bbl_flows
+2011-12-01_21.58.19     ERROR: No such field 'ctl00_cphFilter_UCDataFilter_ddlTimebase' at /Library/Perl/5.10.0/WWW/Mechanize.pm line 1537
+
+
+2011-12-01_21.59.20     SCRIPT bbl_flows has been INVOKED
+2011-12-01_21.59.20     Starting scrape for bbl_flows
+2011-12-01_21.59.25     Scrape completed successfully.
+2011-12-01_21.59.25     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_22.12.38     SCRIPT bbl_flows has been INVOKED
+2011-12-01_22.12.38     Starting scrape for bbl_flows
+2011-12-01_22.12.43     Scrape completed successfully.
+2011-12-01_22.12.43     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_22.24.58     SCRIPT bbl_flows has been INVOKED
+2011-12-01_22.24.58     Starting scrape for bbl_flows
+2011-12-01_22.25.02     ERROR: No such field 'ctl00$cphFilter$UCDataFilter$lbShowTable' at /Library/Perl/5.10.0/WWW/Mechanize.pm line 1537
+
+
+2011-12-01_22.55.59     SCRIPT bbl_flows has been INVOKED
+2011-12-01_22.55.59     Starting scrape for bbl_flows
+2011-12-01_22.56.05     Scrape completed successfully.
+2011-12-01_22.56.05     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_22.56.20     SCRIPT bbl_flows has been INVOKED
+2011-12-01_22.56.20     Starting scrape for bbl_flows
+2011-12-01_22.57.11     SCRIPT bbl_flows has been INVOKED
+2011-12-01_22.57.11     Starting scrape for bbl_flows
+2011-12-01_22.57.36     SCRIPT bbl_flows has been INVOKED
+2011-12-01_22.57.36     Starting scrape for bbl_flows
+2011-12-01_22.57.40     Scrape completed successfully.
+2011-12-01_22.57.40     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.07.09     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.07.09     Starting scrape for bbl_flows
+2011-12-01_23.07.12     ERROR: No such field 'ctl00$cphFilter$UCDataFilter$lbShowTable' at /Library/Perl/5.10.0/WWW/Mechanize.pm line 1537
+
+
+2011-12-01_23.11.32     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.11.32     Starting scrape for bbl_flows
+2011-12-01_23.11.41     Scrape completed successfully.
+2011-12-01_23.11.41     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.14.02     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.14.02     Starting scrape for bbl_flows
+2011-12-01_23.14.11     Scrape completed successfully.
+2011-12-01_23.14.11     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.21.24     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.21.24     Starting scrape for bbl_flows
+2011-12-01_23.21.32     Scrape completed successfully.
+2011-12-01_23.21.32     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.22.27     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.22.27     Starting scrape for bbl_flows
+2011-12-01_23.22.37     Scrape completed successfully.
+2011-12-01_23.22.37     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.23.11     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.23.11     Starting scrape for bbl_flows
+2011-12-01_23.23.20     Scrape completed successfully.
+2011-12-01_23.23.20     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.24.51     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.24.51     Starting scrape for bbl_flows
+2011-12-01_23.25.01     Scrape completed successfully.
+2011-12-01_23.25.01     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.26.49     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.26.49     Starting scrape for bbl_flows
+2011-12-01_23.26.59     Scrape completed successfully.
+2011-12-01_23.26.59     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.48.34     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.48.34     Starting scrape for bbl_flows
+2011-12-01_23.48.43     ERROR: Can't locate object method "new" via package "HTML::HTMLContentParser" (perhaps you forgot to load "HTML::HTMLContentParser"?) at sites/bbl_flows.pm line 78.
+
+
+2011-12-01_23.49.17     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.49.17     Starting scrape for bbl_flows
+2011-12-01_23.49.26     Scrape completed successfully.
+2011-12-01_23.49.26     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.49.41     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.49.41     Starting scrape for bbl_flows
+2011-12-01_23.49.50     Scrape completed successfully.
+2011-12-01_23.49.50     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.50.08     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.50.08     Starting scrape for bbl_flows
+2011-12-01_23.50.17     Scrape completed successfully.
+2011-12-01_23.50.17     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-01_23.56.01     SCRIPT bbl_flows has been INVOKED
+2011-12-01_23.56.01     Starting scrape for bbl_flows
+2011-12-01_23.56.10     Scrape completed successfully.
+2011-12-01_23.56.10     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_00.44.04     SCRIPT bbl_flows has been INVOKED
+2011-12-02_00.44.04     Starting scrape for bbl_flows
+2011-12-02_00.44.13     Scrape completed successfully.
+2011-12-02_00.44.13     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_00.44.53     SCRIPT bbl_flows has been INVOKED
+2011-12-02_00.44.53     Starting scrape for bbl_flows
+2011-12-02_00.45.02     Scrape completed successfully.
+2011-12-02_00.45.02     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_00.47.20     SCRIPT bbl_flows has been INVOKED
+2011-12-02_00.47.20     Starting scrape for bbl_flows
+2011-12-02_00.47.29     Scrape completed successfully.
+2011-12-02_00.47.29     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_12.19.46     SCRIPT bbl_flows has been INVOKED
+2011-12-02_12.19.46     Starting scrape for bbl_flows
+2011-12-02_12.19.55     Scrape completed successfully.
+2011-12-02_12.19.55     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_14.34.57     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.34.57     Starting scrape for bbl_flows
+2011-12-02_14.35.07     ERROR: Not a HASH reference at sites/bbl_flows.pm line 88.
+
+
+2011-12-02_14.36.25     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.36.25     Starting scrape for bbl_flows
+2011-12-02_14.36.34     Scrape completed successfully.
+2011-12-02_14.36.34     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_14.44.21     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.44.21     Starting scrape for bbl_flows
+2011-12-02_14.44.30     Scrape completed successfully.
+2011-12-02_14.44.30     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_14.48.51     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.48.51     Starting scrape for bbl_flows
+2011-12-02_14.49.00     ERROR: Not a HASH reference at sites/bbl_flows.pm line 87.
+
+
+2011-12-02_14.49.35     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.49.35     Starting scrape for bbl_flows
+2011-12-02_14.49.45     ERROR: Not a HASH reference at sites/bbl_flows.pm line 87.
+
+
+2011-12-02_14.50.05     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.50.05     Starting scrape for bbl_flows
+2011-12-02_14.50.15     ERROR: Not a HASH reference at sites/bbl_flows.pm line 88.
+
+
+2011-12-02_14.50.38     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.50.38     Starting scrape for bbl_flows
+2011-12-02_14.50.47     Scrape completed successfully.
+2011-12-02_14.50.47     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_14.52.22     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.52.22     Starting scrape for bbl_flows
+2011-12-02_14.52.30     Scrape completed successfully.
+2011-12-02_14.52.30     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_14.54.02     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.54.02     Starting scrape for bbl_flows
+2011-12-02_14.54.12     Scrape completed successfully.
+2011-12-02_14.54.12     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_14.56.52     SCRIPT bbl_flows has been INVOKED
+2011-12-02_14.56.52     Starting scrape for bbl_flows
+2011-12-02_14.57.00     Scrape completed successfully.
+2011-12-02_14.57.00     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_15.22.22     SCRIPT bbl_flows has been INVOKED
+2011-12-02_15.22.22     Starting scrape for bbl_flows
+2011-12-02_15.22.31     Scrape completed successfully.
+2011-12-02_15.22.31     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_15.25.04     SCRIPT bbl_flows has been INVOKED
+2011-12-02_15.25.04     Starting scrape for bbl_flows
+2011-12-02_15.26.08     ERROR: Error POSTing http://info.bblcompany.com//HistoricalFlow.aspx: Can't connect to info.bblcompany.com:80 (Bad hostname) at sites/bbl_flows.pm line 63
+
+
+2011-12-02_15.26.53     SCRIPT bbl_flows has been INVOKED
+2011-12-02_15.26.53     Starting scrape for bbl_flows
+2011-12-02_16.40.58     SCRIPT bbl_flows has been INVOKED
+2011-12-02_16.40.58     Starting scrape for bbl_flows
+2011-12-02_16.41.13     Scrape completed successfully.
+2011-12-02_16.41.13     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-02_21.50.43     SCRIPT bbl_flows has been INVOKED
+2011-12-02_21.50.43     Starting scrape for bbl_flows
+2011-12-02_21.50.52     ERROR: Undefined subroutine &Site::bbl_flows::Dumper called at sites/bbl_flows.pm line 85.
+
+
+2011-12-02_21.51.36     SCRIPT bbl_flows has been INVOKED
+2011-12-02_21.51.36     Starting scrape for bbl_flows
+2011-12-02_21.51.46     Scrape completed successfully.
+2011-12-02_21.51.46     SCRIPT bbl_flows has FINISHED OK
+
+2011-12-07_20.57.24     SCRIPT enagas_monthly has been INVOKED
+2011-12-07_20.57.24     Starting scrape for enagas_monthly
+2011-12-07_20.57.27     Scrape completed successfully.
+2011-12-07_20.57.27     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-07_20.58.06     SCRIPT enagas_monthly has been INVOKED
+2011-12-07_20.58.06     Starting scrape for enagas_monthly
+2011-12-07_20.58.06     Scrape completed successfully.
+2011-12-07_20.58.06     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-07_21.15.31     SCRIPT enagas_monthly has been INVOKED
+2011-12-07_21.15.31     Starting scrape for enagas_monthly
+2011-12-07_21.15.34     Scrape completed successfully.
+2011-12-07_21.15.34     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_22.01.04     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_22.01.04     Starting scrape for enagas_monthly
+2011-12-08_22.01.09     Scrape completed successfully.
+2011-12-08_22.01.09     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_22.10.29     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_22.10.29     Starting scrape for enagas_monthly
+2011-12-08_22.10.32     Scrape completed successfully.
+2011-12-08_22.10.32     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_22.11.26     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_22.11.26     Starting scrape for enagas_monthly
+2011-12-08_22.11.32     ERROR: Illegal value '111' for field 'idCombo2' at /Library/Perl/5.10.0/WWW/Mechanize.pm line 1504
+
+
+2011-12-08_22.12.46     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_22.12.46     Starting scrape for enagas_monthly
+2011-12-08_22.12.53     Scrape completed successfully.
+2011-12-08_22.12.53     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_22.42.21     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_22.42.21     Starting scrape for enagas_monthly
+2011-12-08_22.58.10     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_22.58.10     Starting scrape for enagas_monthly
+2011-12-08_22.58.23     Scrape completed successfully.
+2011-12-08_22.58.23     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.11.24     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.11.24     Starting scrape for enagas_monthly
+2011-12-08_23.11.32     Scrape completed successfully.
+2011-12-08_23.11.32     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.13.27     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.13.27     Starting scrape for enagas_monthly
+2011-12-08_23.13.30     Scrape completed successfully.
+2011-12-08_23.13.30     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.15.59     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.15.59     Starting scrape for enagas_monthly
+2011-12-08_23.16.01     Scrape completed successfully.
+2011-12-08_23.16.01     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.24.18     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.24.18     Starting scrape for enagas_monthly
+2011-12-08_23.24.26     Scrape completed successfully.
+2011-12-08_23.24.26     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.25.27     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.25.27     Starting scrape for enagas_monthly
+2011-12-08_23.25.29     Scrape completed successfully.
+2011-12-08_23.25.29     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.26.20     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.26.20     Starting scrape for enagas_monthly
+2011-12-08_23.26.23     Scrape completed successfully.
+2011-12-08_23.26.23     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.27.18     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.27.18     Starting scrape for enagas_monthly
+2011-12-08_23.27.20     Scrape completed successfully.
+2011-12-08_23.27.20     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.28.10     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.28.10     Starting scrape for enagas_monthly
+2011-12-08_23.28.12     Scrape completed successfully.
+2011-12-08_23.28.12     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.30.00     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.30.00     Starting scrape for enagas_monthly
+2011-12-08_23.30.03     Scrape completed successfully.
+2011-12-08_23.30.03     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.47.06     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.47.06     Starting scrape for enagas_monthly
+2011-12-08_23.47.22     Scrape completed successfully.
+2011-12-08_23.47.22     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-08_23.51.48     SCRIPT enagas_monthly has been INVOKED
+2011-12-08_23.51.48     Starting scrape for enagas_monthly
+2011-12-08_23.51.57     Scrape completed successfully.
+2011-12-08_23.51.57     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-09_14.11.23     SCRIPT enagas_monthly has been INVOKED
+2011-12-09_14.11.23     Starting scrape for enagas_monthly
+2011-12-09_14.11.38     Scrape completed successfully.
+2011-12-09_14.11.38     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-09_14.21.14     SCRIPT enagas_monthly has been INVOKED
+2011-12-09_14.21.14     Starting scrape for enagas_monthly
+2011-12-09_14.21.25     Scrape completed successfully.
+2011-12-09_14.21.25     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-09_14.34.35     SCRIPT enagas_monthly has been INVOKED
+2011-12-09_14.34.35     Starting scrape for enagas_monthly
+2011-12-09_14.36.15     Scrape completed successfully.
+2011-12-09_14.36.15     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-09_14.36.42     SCRIPT enagas_monthly has been INVOKED
+2011-12-09_14.36.42     Starting scrape for enagas_monthly
+2011-12-09_14.38.15     Scrape completed successfully.
+2011-12-09_14.38.15     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_15.45.17     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_15.45.17     Starting scrape for enagas_monthly
+2011-12-10_15.45.40     Scrape completed successfully.
+2011-12-10_15.45.40     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_15.46.56     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_15.46.56     Starting scrape for enagas_monthly
+2011-12-10_15.47.18     Scrape completed successfully.
+2011-12-10_15.47.18     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_15.50.25     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_15.50.25     Starting scrape for enagas_monthly
+2011-12-10_15.50.40     Scrape completed successfully.
+2011-12-10_15.50.40     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.08.57     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.08.57     Starting scrape for enagas_monthly
+2011-12-10_16.09.02     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.09.02     Starting scrape for enagas_monthly
+2011-12-10_16.09.18     Scrape completed successfully.
+2011-12-10_16.09.18     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.10.21     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.10.21     Starting scrape for enagas_monthly
+2011-12-10_16.10.35     Scrape completed successfully.
+2011-12-10_16.10.35     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.14.27     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.14.27     Starting scrape for enagas_monthly
+2011-12-10_16.14.36     Scrape completed successfully.
+2011-12-10_16.14.36     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.19.20     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.19.20     Starting scrape for enagas_monthly
+2011-12-10_16.19.40     Scrape completed successfully.
+2011-12-10_16.19.40     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.20.07     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.20.07     Starting scrape for enagas_monthly
+2011-12-10_16.20.17     Scrape completed successfully.
+2011-12-10_16.20.17     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.25.12     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.25.12     Starting scrape for enagas_monthly
+2011-12-10_16.25.23     Scrape completed successfully.
+2011-12-10_16.25.23     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.25.44     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.25.44     Starting scrape for enagas_monthly
+2011-12-10_16.25.57     Scrape completed successfully.
+2011-12-10_16.25.57     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-10_16.26.09     SCRIPT enagas_monthly has been INVOKED
+2011-12-10_16.26.09     Starting scrape for enagas_monthly
+2011-12-10_16.26.19     Scrape completed successfully.
+2011-12-10_16.26.19     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_11.52.50     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_11.52.50     Starting scrape for enagas_monthly
+2011-12-11_11.53.50     ERROR: Error GETing http://www.enagas.es/cs/Satellite?cid=1146233000618&language=en&pagename=ENAGAS%2FPage%2FENAG_listadoComboDoble: Can't connect to www.enagas.es:80 (Bad hostname) at sites/enagas_monthly.pm line 43
+
+
+2011-12-11_11.57.34     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_11.57.34     Starting scrape for enagas_monthly
+2011-12-11_11.58.00     Scrape completed successfully.
+2011-12-11_11.58.00     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_12.43.07     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_12.43.07     Starting scrape for enagas_monthly
+2011-12-11_12.43.22     Scrape completed successfully.
+2011-12-11_12.43.22     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_12.57.09     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_12.57.09     Starting scrape for enagas_monthly
+2011-12-11_12.57.32     Scrape completed successfully.
+2011-12-11_12.57.32     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_12.57.59     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_12.57.59     Starting scrape for enagas_monthly
+2011-12-11_12.58.17     Scrape completed successfully.
+2011-12-11_12.58.17     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_14.06.42     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_14.06.42     Starting scrape for enagas_monthly
+2011-12-11_14.06.58     Scrape completed successfully.
+2011-12-11_14.06.58     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_15.58.12     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_15.58.12     Starting scrape for enagas_monthly
+2011-12-11_15.58.27     Scrape completed successfully.
+2011-12-11_15.58.27     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_17.17.39     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_17.17.39     Starting scrape for enagas_monthly
+2011-12-11_17.17.53     Scrape completed successfully.
+2011-12-11_17.17.53     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_18.47.59     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_18.47.59     Starting scrape for enagas_monthly
+2011-12-11_18.49.25     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_18.49.25     Starting scrape for enagas_monthly
+2011-12-11_18.49.46     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_18.49.46     Starting scrape for enagas_monthly
+2011-12-11_18.50.08     Scrape completed successfully.
+2011-12-11_18.50.08     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-11_19.10.20     SCRIPT enagas_monthly has been INVOKED
+2011-12-11_19.10.20     Starting scrape for enagas_monthly
+2011-12-11_19.10.35     Scrape completed successfully.
+2011-12-11_19.10.35     SCRIPT enagas_monthly has FINISHED OK
+
+2011-12-12_18.28.15     SCRIPT japan_lng has been INVOKED
+2011-12-12_18.28.15     Starting scrape for japan_lng
+2011-12-12_18.28.16     Scrape completed successfully.
+2011-12-12_18.28.16     SCRIPT japan_lng has FINISHED OK
+
+2011-12-13_12.49.45     SCRIPT japan_lng has been INVOKED
+2011-12-13_12.49.45     Starting scrape for japan_lng
+2011-12-13_12.49.47     Scrape completed successfully.
+2011-12-13_12.49.47     SCRIPT japan_lng has FINISHED OK
+
+2011-12-13_12.54.02     SCRIPT japan_lng has been INVOKED
+2011-12-13_12.54.02     Starting scrape for japan_lng
+2011-12-13_12.54.04     Scrape completed successfully.
+2011-12-13_12.54.04     SCRIPT japan_lng has FINISHED OK
+
+2011-12-13_14.04.54     SCRIPT japan_lng has been INVOKED
+2011-12-13_14.04.54     Starting scrape for japan_lng
+2011-12-13_14.04.56     Scrape completed successfully.
+2011-12-13_14.04.56     SCRIPT japan_lng has FINISHED OK
+
+2011-12-13_14.26.38     SCRIPT japan_lng has been INVOKED
+2011-12-13_14.26.38     Starting scrape for japan_lng
+2011-12-13_14.26.39     Scrape completed successfully.
+2011-12-13_14.26.39     SCRIPT japan_lng has FINISHED OK
+
+2011-12-14_10.54.57     SCRIPT japan_lng has been INVOKED
+2011-12-14_10.54.57     Starting scrape for japan_lng
+2011-12-14_10.54.59     Scrape completed successfully.
+2011-12-14_10.54.59     SCRIPT japan_lng has FINISHED OK
+
+2011-12-14_11.02.11     SCRIPT japan_lng has been INVOKED
+2011-12-14_11.02.11     Starting scrape for japan_lng
+2011-12-14_11.02.13     Scrape completed successfully.
+2011-12-14_11.02.13     SCRIPT japan_lng has FINISHED OK
+
+2011-12-16_14.15.03     SCRIPT synergrid has been INVOKED
+2011-12-16_14.15.03     Starting scrape for synergrid
+2011-12-16_14.15.04     Scrape completed successfully.
+2011-12-16_14.15.04     SCRIPT synergrid has FINISHED OK
+
+2011-12-16_14.15.42     SCRIPT synergrid has been INVOKED
+2011-12-16_14.15.42     Starting scrape for synergrid
+2011-12-16_14.15.42     Scrape completed successfully.
+2011-12-16_14.15.42     SCRIPT synergrid has FINISHED OK
+
+2011-12-16_15.37.52     SCRIPT synergrid has been INVOKED
+2011-12-16_15.37.52     Starting scrape for synergrid
+2011-12-16_15.37.55     Scrape completed successfully.
+2011-12-16_15.37.55     SCRIPT synergrid has FINISHED OK
+
+2011-12-16_15.45.26     SCRIPT synergrid has been INVOKED
+2011-12-16_15.45.26     Starting scrape for synergrid
+2011-12-16_15.45.28     Scrape completed successfully.
+2011-12-16_15.45.28     SCRIPT synergrid has FINISHED OK
+
+2011-12-16_15.51.36     SCRIPT synergrid has been INVOKED
+2011-12-16_15.51.36     Starting scrape for synergrid
+2011-12-16_15.51.39     Scrape completed successfully.
+2011-12-16_15.51.39     SCRIPT synergrid has FINISHED OK
+
+2011-12-16_15.55.40     SCRIPT synergrid has been INVOKED
+2011-12-16_15.55.40     Starting scrape for synergrid
+2011-12-16_15.55.42     Scrape completed successfully.
+2011-12-16_15.55.42     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_18.56.24     SCRIPT synergrid has been INVOKED
+2011-12-17_18.56.24     Starting scrape for synergrid
+2011-12-17_18.57.02     Scrape completed successfully.
+2011-12-17_18.57.02     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_18.58.47     SCRIPT synergrid has been INVOKED
+2011-12-17_18.58.47     Starting scrape for synergrid
+2011-12-17_19.00.01     ERROR: Error GETing http://www.synergrid.be/index.cfm?PageID=18214&language_code=NED: Can't connect to www.synergrid.be:80 (Operation timed out) at sites/synergrid.pm line 34
+
+
+2011-12-17_19.22.47     SCRIPT synergrid has been INVOKED
+2011-12-17_19.22.47     Starting scrape for synergrid
+2011-12-17_19.22.51     Scrape completed successfully.
+2011-12-17_19.22.51     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_19.24.16     SCRIPT synergrid has been INVOKED
+2011-12-17_19.24.16     Starting scrape for synergrid
+2011-12-17_19.25.52     SCRIPT synergrid has been INVOKED
+2011-12-17_19.25.52     Starting scrape for synergrid
+2011-12-17_19.25.54     Scrape completed successfully.
+2011-12-17_19.25.54     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_19.27.32     SCRIPT synergrid has been INVOKED
+2011-12-17_19.27.33     Starting scrape for synergrid
+2011-12-17_19.27.35     Scrape completed successfully.
+2011-12-17_19.27.35     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_19.42.06     SCRIPT synergrid has been INVOKED
+2011-12-17_19.42.06     Starting scrape for synergrid
+2011-12-17_19.42.09     Scrape completed successfully.
+2011-12-17_19.42.09     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_19.42.47     SCRIPT synergrid has been INVOKED
+2011-12-17_19.42.47     Starting scrape for synergrid
+2011-12-17_19.42.50     Scrape completed successfully.
+2011-12-17_19.42.50     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_19.44.25     SCRIPT synergrid has been INVOKED
+2011-12-17_19.44.25     Starting scrape for synergrid
+2011-12-17_19.44.27     Scrape completed successfully.
+2011-12-17_19.44.27     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_19.47.29     SCRIPT synergrid has been INVOKED
+2011-12-17_19.47.29     Starting scrape for synergrid
+2011-12-17_19.47.32     Scrape completed successfully.
+2011-12-17_19.47.32     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_20.03.04     SCRIPT synergrid has been INVOKED
+2011-12-17_20.03.04     Starting scrape for synergrid
+2011-12-17_20.03.06     Scrape completed successfully.
+2011-12-17_20.03.06     SCRIPT synergrid has FINISHED OK
+
+2011-12-17_20.52.47     SCRIPT synergrid has been INVOKED
+2011-12-17_20.52.47     Starting scrape for synergrid
+2011-12-17_20.52.50     Scrape completed successfully.
+2011-12-17_20.52.50     SCRIPT synergrid has FINISHED OK
+
+2011-12-27_16.04.44     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.04.44     Starting scrape for canada_lng
+2011-12-27_16.04.48     Scrape completed successfully.
+2011-12-27_16.04.48     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.13.34     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.13.34     Starting scrape for canada_lng
+2011-12-27_16.13.37     Scrape completed successfully.
+2011-12-27_16.13.37     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.18.19     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.18.19     Starting scrape for canada_lng
+2011-12-27_16.18.22     Scrape completed successfully.
+2011-12-27_16.18.22     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.20.23     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.20.23     Starting scrape for canada_lng
+2011-12-27_16.20.25     Scrape completed successfully.
+2011-12-27_16.20.25     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.25.12     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.25.13     Starting scrape for canada_lng
+2011-12-27_16.25.15     Scrape completed successfully.
+2011-12-27_16.25.15     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.29.17     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.29.17     Starting scrape for canada_lng
+2011-12-27_16.29.20     Scrape completed successfully.
+2011-12-27_16.29.20     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.38.45     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.38.45     Starting scrape for canada_lng
+2011-12-27_16.38.48     Scrape completed successfully.
+2011-12-27_16.38.48     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.45.28     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.45.28     Starting scrape for canada_lng
+2011-12-27_16.45.31     Scrape completed successfully.
+2011-12-27_16.45.31     SCRIPT canada_lng has FINISHED OK
+
+2011-12-27_16.47.53     SCRIPT canada_lng has been INVOKED
+2011-12-27_16.47.53     Starting scrape for canada_lng
+2011-12-27_16.47.56     Scrape completed successfully.
+2011-12-27_16.47.56     SCRIPT canada_lng has FINISHED OK
+
+2011-12-28_16.41.04     SCRIPT chile_lng has been INVOKED
+2011-12-28_16.41.04     Starting scrape for chile_lng
+2011-12-28_16.41.06     Scrape completed successfully.
+2011-12-28_16.41.06     SCRIPT chile_lng has FINISHED OK
+
+2011-12-28_16.41.47     SCRIPT chile_lng has been INVOKED
+2011-12-28_16.41.47     Starting scrape for chile_lng
+2011-12-28_16.41.48     Scrape completed successfully.
+2011-12-28_16.41.48     SCRIPT chile_lng has FINISHED OK
+
+2011-12-28_18.48.39     SCRIPT chile_lng has been INVOKED
+2011-12-28_18.48.39     Starting scrape for chile_lng
+2011-12-28_18.48.41     Scrape completed successfully.
+2011-12-28_18.48.41     SCRIPT chile_lng has FINISHED OK
+
+2011-12-28_18.54.43     SCRIPT chile_lng has been INVOKED
+2011-12-28_18.54.43     Starting scrape for chile_lng
+2011-12-28_18.54.45     ERROR: Error POSTing javascript:BuscarGlosa();: Protocol scheme 'javascript' is not supported at sites/chile_lng.pm line 38
+
+
+2011-12-28_19.47.20     SCRIPT chile_lng has been INVOKED
+2011-12-28_19.47.20     Starting scrape for chile_lng
+2011-12-28_19.47.21     ERROR: Error GETing http://200.72.160.89/estacomex/asp/ConsItemPais.asp?sistema=2Glosa=27111100&Tipo=1: Internal Server Error at sites/chile_lng.pm line 38
+
+
+2011-12-28_19.48.15     SCRIPT chile_lng has been INVOKED
+2011-12-28_19.48.15     Starting scrape for chile_lng
+2011-12-28_19.48.17     Scrape completed successfully.
+2011-12-28_19.48.17     SCRIPT chile_lng has FINISHED OK
+
+2011-12-28_19.50.58     SCRIPT chile_lng has been INVOKED
+2011-12-28_19.50.58     Starting scrape for chile_lng
+2011-12-28_19.50.59     Scrape completed successfully.
+2011-12-28_19.50.59     SCRIPT chile_lng has FINISHED OK
+
+2012-01-05_11.20.15     SCRIPT chile_lng has been INVOKED
+2012-01-05_11.20.15     Starting scrape for chile_lng
+2012-01-05_11.20.24     Scrape completed successfully.
+2012-01-05_11.20.24     SCRIPT chile_lng has FINISHED OK
+
+2012-01-05_11.22.24     SCRIPT chile_lng has been INVOKED
+2012-01-05_11.22.24     Starting scrape for chile_lng
+2012-01-05_11.22.25     Scrape completed successfully.
+2012-01-05_11.22.25     SCRIPT chile_lng has FINISHED OK
+
+2012-01-05_11.26.41     SCRIPT chile_lng has been INVOKED
+2012-01-05_11.26.41     Starting scrape for chile_lng
+2012-01-05_11.26.43     Scrape completed successfully.
+2012-01-05_11.26.43     SCRIPT chile_lng has FINISHED OK
+
+2012-01-05_11.26.55     SCRIPT chile_lng has been INVOKED
+2012-01-05_11.26.55     Starting scrape for chile_lng
+2012-01-05_11.26.58     Scrape completed successfully.
+2012-01-05_11.26.58     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_19.35.05     SCRIPT chile_lng has been INVOKED
+2012-01-08_19.35.05     Starting scrape for chile_lng
+2012-01-08_19.35.11     Scrape completed successfully.
+2012-01-08_19.35.11     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_19.36.25     SCRIPT chile_lng has been INVOKED
+2012-01-08_19.36.25     Starting scrape for chile_lng
+2012-01-08_19.36.27     Scrape completed successfully.
+2012-01-08_19.36.27     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_20.56.19     SCRIPT chile_lng has been INVOKED
+2012-01-08_20.56.19     Starting scrape for chile_lng
+2012-01-08_20.56.26     Scrape completed successfully.
+2012-01-08_20.56.26     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_20.56.33     SCRIPT chile_lng has been INVOKED
+2012-01-08_20.56.33     Starting scrape for chile_lng
+2012-01-08_20.56.35     Scrape completed successfully.
+2012-01-08_20.56.35     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.01.45     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.01.45     Starting scrape for chile_lng
+2012-01-08_21.01.47     Scrape completed successfully.
+2012-01-08_21.01.47     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.02.26     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.02.26     Starting scrape for chile_lng
+2012-01-08_21.02.28     Scrape completed successfully.
+2012-01-08_21.02.28     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.04.41     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.04.41     Starting scrape for chile_lng
+2012-01-08_21.04.44     Scrape completed successfully.
+2012-01-08_21.04.44     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.15.30     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.15.30     Starting scrape for chile_lng
+2012-01-08_21.15.32     Scrape completed successfully.
+2012-01-08_21.15.32     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.25.01     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.25.01     Starting scrape for chile_lng
+2012-01-08_21.25.02     Scrape completed successfully.
+2012-01-08_21.25.02     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.25.52     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.25.52     Starting scrape for chile_lng
+2012-01-08_21.25.54     Scrape completed successfully.
+2012-01-08_21.25.54     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.28.37     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.28.37     Starting scrape for chile_lng
+2012-01-08_21.28.39     Scrape completed successfully.
+2012-01-08_21.28.39     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.32.43     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.32.43     Starting scrape for chile_lng
+2012-01-08_21.32.45     Scrape completed successfully.
+2012-01-08_21.32.45     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.35.15     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.35.15     Starting scrape for chile_lng
+2012-01-08_21.35.17     ERROR: Can't locate object method "field" via package "Site::chile_lng" at sites/chile_lng.pm line 45.
+
+
+2012-01-08_21.35.40     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.35.41     Starting scrape for chile_lng
+2012-01-08_21.35.42     Scrape completed successfully.
+2012-01-08_21.35.42     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.38.44     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.38.44     Starting scrape for chile_lng
+2012-01-08_21.38.45     ERROR: Error POSTing ResumenItemPais.asp?Glosa=27111100&Buscar=B&sistema=2: URL must be absolute at sites/chile_lng.pm line 47
+
+
+2012-01-08_21.40.36     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.40.36     Starting scrape for chile_lng
+2012-01-08_21.40.37     ERROR: Error POSTing http://200.72.160.89/estacomex/asp/ResumenItemPais.asp?Glosa=27111100&Buscar=B&sistema=2: Can't locate object method "host" via package "URI::_foreign" at sites/chile_lng.pm line 49
+
+
+2012-01-08_21.43.50     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.43.50     Starting scrape for chile_lng
+2012-01-08_21.43.51     ERROR: Can't call method "can" on unblessed reference at /Library/Perl/5.10.0/HTTP/Request.pm line 70.
+
+
+2012-01-08_21.47.46     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.47.46     Starting scrape for chile_lng
+2012-01-08_21.47.52     Scrape completed successfully.
+2012-01-08_21.47.52     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_21.55.19     SCRIPT chile_lng has been INVOKED
+2012-01-08_21.55.19     Starting scrape for chile_lng
+2012-01-08_21.55.23     Scrape completed successfully.
+2012-01-08_21.55.23     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_22.00.30     SCRIPT chile_lng has been INVOKED
+2012-01-08_22.00.30     Starting scrape for chile_lng
+2012-01-08_22.00.33     Scrape completed successfully.
+2012-01-08_22.00.33     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_22.01.13     SCRIPT chile_lng has been INVOKED
+2012-01-08_22.01.13     Starting scrape for chile_lng
+2012-01-08_22.01.17     Scrape completed successfully.
+2012-01-08_22.01.17     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_22.01.48     SCRIPT chile_lng has been INVOKED
+2012-01-08_22.01.48     Starting scrape for chile_lng
+2012-01-08_22.01.52     Scrape completed successfully.
+2012-01-08_22.01.52     SCRIPT chile_lng has FINISHED OK
+
+2012-01-08_22.49.09     SCRIPT chile_lng has been INVOKED
+2012-01-08_22.49.09     Starting scrape for chile_lng
+2012-01-08_22.49.20     Scrape completed successfully.
+2012-01-08_22.49.20     SCRIPT chile_lng has FINISHED OK
+
+2012-01-11_22.52.29     SCRIPT bafa has been INVOKED
+2012-01-11_22.52.29     Starting scrape for bafa
+2012-01-11_22.52.30     ERROR: Can't call method "content" on an undefined value at sites/bafa.pm line 35.
+
+
+2012-01-11_22.52.46     SCRIPT bafa has been INVOKED
+2012-01-11_22.52.46     Starting scrape for bafa
+2012-01-11_22.52.46     Scrape completed successfully.
+2012-01-11_22.52.46     SCRIPT bafa has FINISHED OK
+
+2012-01-15_19.00.02     SCRIPT bafa has been INVOKED
+2012-01-15_19.00.02     Starting scrape for bafa
+2012-01-15_19.00.03     Scrape completed successfully.
+2012-01-15_19.00.03     SCRIPT bafa has FINISHED OK
+
+2012-01-15_19.40.04     SCRIPT bafa has been INVOKED
+2012-01-15_19.40.04     Starting scrape for bafa
+2012-01-15_19.40.05     Scrape completed successfully.
+2012-01-15_19.40.05     SCRIPT bafa has FINISHED OK
+
+2012-01-15_19.40.58     SCRIPT bafa has been INVOKED
+2012-01-15_19.40.58     Starting scrape for bafa
+2012-01-15_19.40.59     Scrape completed successfully.
+2012-01-15_19.40.59     SCRIPT bafa has FINISHED OK
+
+2012-01-15_20.02.35     SCRIPT bafa has been INVOKED
+2012-01-15_20.02.35     Starting scrape for bafa
+2012-01-15_20.02.36     Scrape completed successfully.
+2012-01-15_20.02.36     SCRIPT bafa has FINISHED OK
+
+2012-01-15_20.03.07     SCRIPT bafa has been INVOKED
+2012-01-15_20.03.07     Starting scrape for bafa
+2012-01-15_20.03.08     Scrape completed successfully.
+2012-01-15_20.03.08     SCRIPT bafa has FINISHED OK
+
+2012-01-15_20.30.59     SCRIPT bafa has been INVOKED
+2012-01-15_20.30.59     Starting scrape for bafa
+2012-01-15_20.31.00     Scrape completed successfully.
+2012-01-15_20.31.00     SCRIPT bafa has FINISHED OK
+
+2012-01-16_19.35.20     SCRIPT bafa has been INVOKED
+2012-01-16_19.35.20     Starting scrape for bafa
+2012-01-16_19.35.21     Scrape completed successfully.
+2012-01-16_19.35.21     SCRIPT bafa has FINISHED OK
+
+2012-01-16_19.42.01     SCRIPT bafa has been INVOKED
+2012-01-16_19.42.01     Starting scrape for bafa
+2012-01-16_19.42.02     Scrape completed successfully.
+2012-01-16_19.42.02     SCRIPT bafa has FINISHED OK
+
+2012-01-16_19.43.59     SCRIPT bafa has been INVOKED
+2012-01-16_19.43.59     Starting scrape for bafa
+2012-01-16_19.44.00     Scrape completed successfully.
+2012-01-16_19.44.00     SCRIPT bafa has FINISHED OK
+
+2012-01-16_20.51.32     SCRIPT bafa has been INVOKED
+2012-01-16_20.51.32     Starting scrape for bafa
+2012-01-16_20.51.33     Scrape completed successfully.
+2012-01-16_20.51.33     SCRIPT bafa has FINISHED OK
+
+2012-01-16_20.52.43     SCRIPT bafa has been INVOKED
+2012-01-16_20.52.43     Starting scrape for bafa
+2012-01-16_20.52.44     Scrape completed successfully.
+2012-01-16_20.52.44     SCRIPT bafa has FINISHED OK
+
+2012-01-16_20.55.07     SCRIPT bafa has been INVOKED
+2012-01-16_20.55.07     Starting scrape for bafa
+2012-01-16_20.55.09     Scrape completed successfully.
+2012-01-16_20.55.09     SCRIPT bafa has FINISHED OK
+
+2012-01-16_20.56.08     SCRIPT bafa has been INVOKED
+2012-01-16_20.56.08     Starting scrape for bafa
+2012-01-16_20.56.09     Scrape completed successfully.
+2012-01-16_20.56.09     SCRIPT bafa has FINISHED OK
+
+2012-01-16_20.57.04     SCRIPT bafa has been INVOKED
+2012-01-16_20.57.04     Starting scrape for bafa
+2012-01-16_20.57.05     Scrape completed successfully.
+2012-01-16_20.57.05     SCRIPT bafa has FINISHED OK
+
+2012-01-16_21.04.31     SCRIPT bafa has been INVOKED
+2012-01-16_21.04.31     Starting scrape for bafa
+2012-01-16_21.04.33     ERROR: Can't call method "value" on an undefined value at sites/bafa.pm line 166.
+
+
+2012-01-16_21.08.01     SCRIPT bafa has been INVOKED
+2012-01-16_21.08.01     Starting scrape for bafa
+2012-01-16_21.08.02     Scrape completed successfully.
+2012-01-16_21.08.02     SCRIPT bafa has FINISHED OK
+
+2012-01-16_21.30.04     SCRIPT korea_lng has been INVOKED
+2012-01-16_21.30.04     Starting scrape for korea_lng
+2012-01-16_21.30.06     Scrape completed successfully.
+2012-01-16_21.30.06     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_21.32.43     SCRIPT korea_lng has been INVOKED
+2012-01-16_21.32.43     Starting scrape for korea_lng
+2012-01-16_21.32.46     Scrape completed successfully.
+2012-01-16_21.32.46     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_21.53.26     SCRIPT korea_lng has been INVOKED
+2012-01-16_21.53.26     Starting scrape for korea_lng
+2012-01-16_21.53.28     Scrape completed successfully.
+2012-01-16_21.53.28     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_21.54.12     SCRIPT korea_lng has been INVOKED
+2012-01-16_21.54.12     Starting scrape for korea_lng
+2012-01-16_21.54.15     Scrape completed successfully.
+2012-01-16_21.54.15     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_21.55.46     SCRIPT korea_lng has been INVOKED
+2012-01-16_21.55.46     Starting scrape for korea_lng
+2012-01-16_21.55.48     Scrape completed successfully.
+2012-01-16_21.55.48     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_21.58.48     SCRIPT korea_lng has been INVOKED
+2012-01-16_21.58.48     Starting scrape for korea_lng
+2012-01-16_21.58.50     Scrape completed successfully.
+2012-01-16_21.58.50     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_22.05.14     SCRIPT korea_lng has been INVOKED
+2012-01-16_22.05.14     Starting scrape for korea_lng
+2012-01-16_22.05.16     Scrape completed successfully.
+2012-01-16_22.05.16     SCRIPT korea_lng has FINISHED OK
+
+2012-01-16_22.05.24     SCRIPT korea_lng has been INVOKED
+2012-01-16_22.05.24     Starting scrape for korea_lng
+2012-01-16_22.05.28     Scrape completed successfully.
+2012-01-16_22.05.28     SCRIPT korea_lng has FINISHED OK
+
+2012-01-17_19.24.15     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_19.24.15     Starting scrape for south_korea_lng
+2012-01-17_19.24.18     Scrape completed successfully.
+2012-01-17_19.24.18     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_19.24.53     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_19.24.53     Starting scrape for south_korea_lng
+2012-01-17_19.24.55     Scrape completed successfully.
+2012-01-17_19.24.56     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_20.28.40     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_20.28.40     Starting scrape for south_korea_lng
+2012-01-17_20.28.43     Scrape completed successfully.
+2012-01-17_20.28.43     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_20.30.22     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_20.30.22     Starting scrape for south_korea_lng
+2012-01-17_20.30.24     Scrape completed successfully.
+2012-01-17_20.30.24     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_21.04.59     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_21.04.59     Starting scrape for south_korea_lng
+2012-01-17_21.05.01     Scrape completed successfully.
+2012-01-17_21.05.01     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_21.05.55     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_21.05.55     Starting scrape for south_korea_lng
+2012-01-17_21.05.57     Scrape completed successfully.
+2012-01-17_21.05.57     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_21.06.41     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_21.06.41     Starting scrape for south_korea_lng
+2012-01-17_21.06.44     Scrape completed successfully.
+2012-01-17_21.06.44     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_21.16.41     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_21.16.41     Starting scrape for south_korea_lng
+2012-01-17_21.16.44     Scrape completed successfully.
+2012-01-17_21.16.44     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_21.45.56     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_21.45.56     Starting scrape for south_korea_lng
+2012-01-17_21.45.59     Scrape completed successfully.
+2012-01-17_21.45.59     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-17_22.44.06     SCRIPT south_korea_lng has been INVOKED
+2012-01-17_22.44.06     Starting scrape for south_korea_lng
+2012-01-17_22.44.10     Scrape completed successfully.
+2012-01-17_22.44.10     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_19.49.38     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_19.49.38     Starting scrape for south_korea_lng
+2012-01-18_19.49.45     Scrape completed successfully.
+2012-01-18_19.49.45     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_19.50.46     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_19.50.46     Starting scrape for south_korea_lng
+2012-01-18_19.50.51     Scrape completed successfully.
+2012-01-18_19.50.51     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_19.51.08     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_19.51.08     Starting scrape for south_korea_lng
+2012-01-18_19.51.12     Scrape completed successfully.
+2012-01-18_19.51.12     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_20.00.30     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_20.00.30     Starting scrape for south_korea_lng
+2012-01-18_20.00.34     Scrape completed successfully.
+2012-01-18_20.00.34     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_20.53.14     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_20.53.14     Starting scrape for south_korea_lng
+2012-01-18_20.56.19     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_20.56.19     Starting scrape for south_korea_lng
+2012-01-18_20.56.54     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_20.56.54     Starting scrape for south_korea_lng
+2012-01-18_20.56.58     Scrape completed successfully.
+2012-01-18_20.56.58     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_20.58.29     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_20.58.29     Starting scrape for south_korea_lng
+2012-01-18_20.58.35     Scrape completed successfully.
+2012-01-18_20.58.35     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_21.03.47     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_21.03.47     Starting scrape for south_korea_lng
+2012-01-18_21.03.54     Scrape completed successfully.
+2012-01-18_21.03.54     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_21.07.04     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_21.07.04     Starting scrape for south_korea_lng
+2012-01-18_21.07.11     Scrape completed successfully.
+2012-01-18_21.07.11     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-18_21.08.58     SCRIPT south_korea_lng has been INVOKED
+2012-01-18_21.08.58     Starting scrape for south_korea_lng
+2012-01-18_21.09.04     Scrape completed successfully.
+2012-01-18_21.09.04     SCRIPT south_korea_lng has FINISHED OK
+
+2012-01-24_19.53.40     SCRIPT us_monthly_lng has been INVOKED
+2012-01-24_19.53.40     Starting scrape for us_monthly_lng
+2012-01-24_19.53.41     Scrape completed successfully.
+2012-01-24_19.53.41     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-24_20.21.28     SCRIPT us_monthly_lng has been INVOKED
+2012-01-24_20.21.28     Starting scrape for us_monthly_lng
+2012-01-24_20.21.29     ERROR: Can't call method "worksheet" on an undefined value at sites/us_monthly_lng.pm line 49.
+
+
+2012-01-24_20.22.03     SCRIPT us_monthly_lng has been INVOKED
+2012-01-24_20.22.03     Starting scrape for us_monthly_lng
+2012-01-24_20.22.05     Scrape completed successfully.
+2012-01-24_20.22.05     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-24_20.31.06     SCRIPT us_monthly_lng has been INVOKED
+2012-01-24_20.31.06     Starting scrape for us_monthly_lng
+2012-01-24_20.31.07     Scrape completed successfully.
+2012-01-24_20.31.07     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-24_21.12.46     SCRIPT canada_monthly_lng has been INVOKED
+2012-01-24_21.12.46     Starting scrape for canada_monthly_lng
+2012-01-24_21.12.48     Scrape completed successfully.
+2012-01-24_21.12.48     SCRIPT canada_monthly_lng has FINISHED OK
+
+2012-01-25_20.49.53     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_20.49.53     Starting scrape for us_monthly_lng
+2012-01-25_20.49.56     Scrape completed successfully.
+2012-01-25_20.49.56     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_21.11.18     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.11.18     Starting scrape for us_monthly_lng
+2012-01-25_21.11.19     ERROR: Undefined subroutine &Site::us_monthly_lng::ExcelLocalTime called at sites/us_monthly_lng.pm line 63.
+
+
+2012-01-25_21.12.56     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.12.56     Starting scrape for us_monthly_lng
+2012-01-25_21.12.57     ERROR: Undefined subroutine &Site::us_monthly_lng::fprintf called at sites/us_monthly_lng.pm line 66.
+
+
+2012-01-25_21.16.21     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.16.21     Starting scrape for us_monthly_lng
+2012-01-25_21.16.22     Scrape completed successfully.
+2012-01-25_21.16.22     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_21.17.07     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.17.07     Starting scrape for us_monthly_lng
+2012-01-25_21.17.07     Scrape completed successfully.
+2012-01-25_21.17.07     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_21.18.40     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.18.40     Starting scrape for us_monthly_lng
+2012-01-25_21.18.41     ERROR: Can't call method "value" on an undefined value at sites/us_monthly_lng.pm line 79.
+
+
+2012-01-25_21.43.36     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.43.36     Starting scrape for us_monthly_lng
+2012-01-25_21.43.38     ERROR: Can't call method "value" on an undefined value at sites/us_monthly_lng.pm line 91.
+
+
+2012-01-25_21.47.41     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.47.41     Starting scrape for us_monthly_lng
+2012-01-25_21.47.42     Scrape completed successfully.
+2012-01-25_21.47.42     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_21.50.58     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_21.50.58     Starting scrape for us_monthly_lng
+2012-01-25_21.50.59     Scrape completed successfully.
+2012-01-25_21.50.59     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_22.06.24     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_22.06.24     Starting scrape for us_monthly_lng
+2012-01-25_22.06.25     Scrape completed successfully.
+2012-01-25_22.06.25     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_22.09.36     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_22.09.36     Starting scrape for us_monthly_lng
+2012-01-25_22.09.37     Scrape completed successfully.
+2012-01-25_22.09.37     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_22.10.17     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_22.10.17     Starting scrape for us_monthly_lng
+2012-01-25_22.10.18     Scrape completed successfully.
+2012-01-25_22.10.18     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_22.13.33     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_22.13.33     Starting scrape for us_monthly_lng
+2012-01-25_22.13.37     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_22.13.37     Starting scrape for us_monthly_lng
+2012-01-25_22.13.37     Scrape completed successfully.
+2012-01-25_22.13.37     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_22.14.21     SCRIPT us_monthly_lng has been INVOKED
+2012-01-25_22.14.21     Starting scrape for us_monthly_lng
+2012-01-25_22.14.22     Scrape completed successfully.
+2012-01-25_22.14.22     SCRIPT us_monthly_lng has FINISHED OK
+
+2012-01-25_22.29.52     SCRIPT canada_monthly_lng has been INVOKED
+2012-01-25_22.29.52     Starting scrape for canada_monthly_lng
+2012-01-25_22.29.54     Scrape completed successfully.
+2012-01-25_22.29.54     SCRIPT canada_monthly_lng has FINISHED OK
+
+2012-02-01_20.29.47     SCRIPT tigf has been INVOKED
+2012-02-01_20.29.47     Starting scrape for tigf
+2012-02-01_20.29.49     Scrape completed successfully.
+2012-02-01_20.29.49     SCRIPT tigf has FINISHED OK
+
+2012-02-01_21.02.01     SCRIPT tigf has been INVOKED
+2012-02-01_21.02.01     Starting scrape for tigf
+2012-02-01_21.02.02     Scrape completed successfully.
+2012-02-01_21.02.02     SCRIPT tigf has FINISHED OK
+
+2012-02-03_19.17.18     SCRIPT tigf has been INVOKED
+2012-02-03_19.17.18     Starting scrape for tigf
+2012-02-03_19.17.19     Scrape completed successfully.
+2012-02-03_19.17.19     SCRIPT tigf has FINISHED OK
+
+2012-02-03_19.18.43     SCRIPT tigf has been INVOKED
+2012-02-03_19.18.43     Starting scrape for tigf
+2012-02-03_19.18.44     Scrape completed successfully.
+2012-02-03_19.18.44     SCRIPT tigf has FINISHED OK
+
+2012-02-05_18.53.01     SCRIPT tigf has been INVOKED
+2012-02-05_18.53.02     Starting scrape for tigf
+2012-02-05_18.53.03     Scrape completed successfully.
+2012-02-05_18.53.03     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.03.31     SCRIPT tigf has been INVOKED
+2012-02-05_19.03.31     Starting scrape for tigf
+2012-02-05_19.03.32     ERROR: Can't call method "File::Temp" on an undefined value at sites/tigf.pm line 61.
+
+
+2012-02-05_19.03.50     SCRIPT tigf has been INVOKED
+2012-02-05_19.03.50     Starting scrape for tigf
+2012-02-05_19.03.50     Scrape completed successfully.
+2012-02-05_19.03.50     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.14.47     SCRIPT tigf has been INVOKED
+2012-02-05_19.14.47     Starting scrape for tigf
+2012-02-05_19.14.48     Scrape completed successfully.
+2012-02-05_19.14.48     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.15.17     SCRIPT tigf has been INVOKED
+2012-02-05_19.15.17     Starting scrape for tigf
+2012-02-05_19.15.17     Scrape completed successfully.
+2012-02-05_19.15.17     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.16.34     SCRIPT tigf has been INVOKED
+2012-02-05_19.16.34     Starting scrape for tigf
+2012-02-05_19.16.35     Scrape completed successfully.
+2012-02-05_19.16.35     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.20.57     SCRIPT tigf has been INVOKED
+2012-02-05_19.20.57     Starting scrape for tigf
+2012-02-05_19.20.57     Scrape completed successfully.
+2012-02-05_19.20.57     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.28.07     SCRIPT tigf has been INVOKED
+2012-02-05_19.28.07     Starting scrape for tigf
+2012-02-05_19.28.08     Scrape completed successfully.
+2012-02-05_19.28.08     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.30.31     SCRIPT tigf has been INVOKED
+2012-02-05_19.30.31     Starting scrape for tigf
+2012-02-05_19.30.32     Scrape completed successfully.
+2012-02-05_19.30.32     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.31.25     SCRIPT tigf has been INVOKED
+2012-02-05_19.31.25     Starting scrape for tigf
+2012-02-05_19.31.25     Scrape completed successfully.
+2012-02-05_19.31.25     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.33.01     SCRIPT tigf has been INVOKED
+2012-02-05_19.33.01     Starting scrape for tigf
+2012-02-05_19.33.02     Scrape completed successfully.
+2012-02-05_19.33.02     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.35.22     SCRIPT tigf has been INVOKED
+2012-02-05_19.35.22     Starting scrape for tigf
+2012-02-05_19.35.24     Scrape completed successfully.
+2012-02-05_19.35.24     SCRIPT tigf has FINISHED OK
+
+2012-02-05_19.56.08     SCRIPT thailand_lng has been INVOKED
+2012-02-05_19.56.08     Starting scrape for thailand_lng
+2012-02-05_19.56.11     ERROR: Undefined subroutine &Site::thailand_lng::content called at sites/thailand_lng.pm line 37.
+
+
+2012-02-05_19.56.36     SCRIPT thailand_lng has been INVOKED
+2012-02-05_19.56.36     Starting scrape for thailand_lng
+2012-02-05_19.56.38     Scrape completed successfully.
+2012-02-05_19.56.38     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_19.56.47     SCRIPT thailand_lng has been INVOKED
+2012-02-05_19.56.47     Starting scrape for thailand_lng
+2012-02-05_19.56.49     Scrape completed successfully.
+2012-02-05_19.56.49     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.00.19     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.00.19     Starting scrape for thailand_lng
+2012-02-05_20.00.22     Scrape completed successfully.
+2012-02-05_20.00.22     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.13.36     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.13.36     Starting scrape for thailand_lng
+2012-02-05_20.13.39     Scrape completed successfully.
+2012-02-05_20.13.39     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.38.51     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.38.52     Starting scrape for thailand_lng
+2012-02-05_20.38.55     Scrape completed successfully.
+2012-02-05_20.38.55     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.39.14     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.39.14     Starting scrape for thailand_lng
+2012-02-05_20.39.16     Scrape completed successfully.
+2012-02-05_20.39.16     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.46.14     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.46.14     Starting scrape for thailand_lng
+2012-02-05_20.46.17     Scrape completed successfully.
+2012-02-05_20.46.17     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.47.57     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.47.57     Starting scrape for thailand_lng
+2012-02-05_20.48.01     Scrape completed successfully.
+2012-02-05_20.48.01     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.48.27     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.48.27     Starting scrape for thailand_lng
+2012-02-05_20.48.30     Scrape completed successfully.
+2012-02-05_20.48.30     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_20.57.37     SCRIPT thailand_lng has been INVOKED
+2012-02-05_20.57.37     Starting scrape for thailand_lng
+2012-02-05_20.57.42     Scrape completed successfully.
+2012-02-05_20.57.42     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_21.03.26     SCRIPT thailand_lng has been INVOKED
+2012-02-05_21.03.26     Starting scrape for thailand_lng
+2012-02-05_21.03.31     Scrape completed successfully.
+2012-02-05_21.03.31     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.44.17     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.44.17     Starting scrape for thailand_lng
+2012-02-05_22.44.23     Scrape completed successfully.
+2012-02-05_22.44.23     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.47.59     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.47.59     Starting scrape for thailand_lng
+2012-02-05_22.48.03     Scrape completed successfully.
+2012-02-05_22.48.03     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.48.19     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.48.19     Starting scrape for thailand_lng
+2012-02-05_22.48.57     Scrape completed successfully.
+2012-02-05_22.48.57     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.50.22     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.50.22     Starting scrape for thailand_lng
+2012-02-05_22.50.44     Scrape completed successfully.
+2012-02-05_22.50.44     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.51.08     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.51.08     Starting scrape for thailand_lng
+2012-02-05_22.51.11     Scrape completed successfully.
+2012-02-05_22.51.11     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.51.43     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.51.43     Starting scrape for thailand_lng
+2012-02-05_22.51.46     Scrape completed successfully.
+2012-02-05_22.51.46     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.58.02     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.58.02     Starting scrape for thailand_lng
+2012-02-05_22.58.06     Scrape completed successfully.
+2012-02-05_22.58.06     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.59.19     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.59.19     Starting scrape for thailand_lng
+2012-02-05_22.59.24     Scrape completed successfully.
+2012-02-05_22.59.24     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_22.59.59     SCRIPT thailand_lng has been INVOKED
+2012-02-05_22.59.59     Starting scrape for thailand_lng
+2012-02-05_23.00.02     Scrape completed successfully.
+2012-02-05_23.00.02     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.00.21     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.00.21     Starting scrape for thailand_lng
+2012-02-05_23.00.24     Scrape completed successfully.
+2012-02-05_23.00.24     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.01.09     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.01.09     Starting scrape for thailand_lng
+2012-02-05_23.01.44     Scrape completed successfully.
+2012-02-05_23.01.44     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.02.08     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.02.08     Starting scrape for thailand_lng
+2012-02-05_23.02.25     Scrape completed successfully.
+2012-02-05_23.02.25     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.03.44     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.03.44     Starting scrape for thailand_lng
+2012-02-05_23.03.56     Scrape completed successfully.
+2012-02-05_23.03.56     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.04.33     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.04.33     Starting scrape for thailand_lng
+2012-02-05_23.04.43     Scrape completed successfully.
+2012-02-05_23.04.43     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.05.27     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.05.27     Starting scrape for thailand_lng
+2012-02-05_23.05.39     Scrape completed successfully.
+2012-02-05_23.05.39     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.06.35     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.06.35     Starting scrape for thailand_lng
+2012-02-05_23.06.46     Scrape completed successfully.
+2012-02-05_23.06.46     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.07.14     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.07.14     Starting scrape for thailand_lng
+2012-02-05_23.07.27     Scrape completed successfully.
+2012-02-05_23.07.27     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-05_23.07.57     SCRIPT thailand_lng has been INVOKED
+2012-02-05_23.07.57     Starting scrape for thailand_lng
+2012-02-05_23.08.16     Scrape completed successfully.
+2012-02-05_23.08.16     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.40.44     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.40.44     Starting scrape for thailand_lng
+2012-02-06_19.41.15     Scrape completed successfully.
+2012-02-06_19.41.15     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.42.46     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.42.46     Starting scrape for thailand_lng
+2012-02-06_19.42.50     Scrape completed successfully.
+2012-02-06_19.42.50     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.44.13     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.44.13     Starting scrape for thailand_lng
+2012-02-06_19.44.29     Scrape completed successfully.
+2012-02-06_19.44.29     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.46.41     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.46.41     Starting scrape for thailand_lng
+2012-02-06_19.46.45     Scrape completed successfully.
+2012-02-06_19.46.45     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.47.22     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.47.22     Starting scrape for thailand_lng
+2012-02-06_19.47.25     Scrape completed successfully.
+2012-02-06_19.47.25     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.48.57     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.48.57     Starting scrape for thailand_lng
+2012-02-06_19.49.01     Scrape completed successfully.
+2012-02-06_19.49.01     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.56.31     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.56.31     Starting scrape for thailand_lng
+2012-02-06_19.56.40     Scrape completed successfully.
+2012-02-06_19.56.40     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.57.09     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.57.09     Starting scrape for thailand_lng
+2012-02-06_19.57.22     Scrape completed successfully.
+2012-02-06_19.57.22     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_19.59.23     SCRIPT thailand_lng has been INVOKED
+2012-02-06_19.59.23     Starting scrape for thailand_lng
+2012-02-06_19.59.35     Scrape completed successfully.
+2012-02-06_19.59.35     SCRIPT thailand_lng has FINISHED OK
+
+2012-02-06_20.37.21     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_20.37.21     Starting scrape for canada_monthly_lng
+2012-02-06_20.37.22     ERROR: Failed to connect to , problem connecting to "localhost", port 4242: Connection refused at /Library/Perl/5.12/MozRepl/Client.pm line 144
+
+
+2012-02-06_20.37.43     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_20.37.43     Starting scrape for canada_monthly_lng
+2012-02-06_20.37.43     ERROR: Failed to connect to , problem connecting to "localhost", port 4242: Connection refused at /Library/Perl/5.12/MozRepl/Client.pm line 144
+
+
+2012-02-06_20.37.55     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_20.37.55     Starting scrape for canada_monthly_lng
+2012-02-06_20.37.55     ERROR: Failed to connect to , problem connecting to "localhost", port 4242: Connection refused at /Library/Perl/5.12/MozRepl/Client.pm line 144
+
+
+2012-02-06_21.50.02     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_21.50.02     Starting scrape for canada_monthly_lng
+2012-02-06_21.50.07     ERROR: Failed to connect to , problem connecting to "localhost", port 4242: Connection refused at /Library/Perl/5.12/MozRepl/Client.pm line 144
+
+
+2012-02-06_21.50.36     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_21.50.36     Starting scrape for canada_monthly_lng
+2012-02-06_21.50.45     Scrape completed successfully.
+2012-02-06_21.50.45     SCRIPT canada_monthly_lng has FINISHED OK
+
+2012-02-06_21.52.01     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_21.52.01     Starting scrape for canada_monthly_lng
+2012-02-06_21.52.06     Scrape completed successfully.
+2012-02-06_21.52.06     SCRIPT canada_monthly_lng has FINISHED OK
+
+2012-02-06_21.54.59     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-06_21.54.59     Starting scrape for canada_monthly_lng
+2012-02-06_21.55.03     Scrape completed successfully.
+2012-02-06_21.55.03     SCRIPT canada_monthly_lng has FINISHED OK
+
+2012-02-07_18.21.15     SCRIPT canada_monthly_lng has been INVOKED
+2012-02-07_18.21.15     Starting scrape for canada_monthly_lng
+2012-02-07_18.21.25     ERROR: No elements found for '//a[@onclick]' at sites/canada_monthly_lng.pm line 42
+
+
+2012-02-15_19.12.46     SCRIPT italian_storage has been INVOKED
+2012-02-15_19.12.46     Starting scrape for italian_storage
+2012-02-15_19.12.49     Scrape completed successfully.
+2012-02-15_19.12.49     SCRIPT italian_storage has FINISHED OK
+
+2012-02-15_19.13.36     SCRIPT italian_storage has been INVOKED
+2012-02-15_19.13.36     Starting scrape for italian_storage
+2012-02-15_19.13.37     Scrape completed successfully.
+2012-02-15_19.13.37     SCRIPT italian_storage has FINISHED OK
+
+2012-02-15_19.44.38     SCRIPT italian_storage has been INVOKED
+2012-02-15_19.44.38     Starting scrape for italian_storage
+2012-02-15_19.44.47     Scrape completed successfully.
+2012-02-15_19.44.47     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_12.09.33     SCRIPT italian_storage has been INVOKED
+2012-02-16_12.09.33     Starting scrape for italian_storage
+2012-02-16_12.09.46     Scrape completed successfully.
+2012-02-16_12.09.46     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_12.10.35     SCRIPT italian_storage has been INVOKED
+2012-02-16_12.10.35     Starting scrape for italian_storage
+2012-02-16_12.10.52     Scrape completed successfully.
+2012-02-16_12.10.52     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_12.13.57     SCRIPT italian_storage has been INVOKED
+2012-02-16_12.13.57     Starting scrape for italian_storage
+2012-02-16_12.14.08     Scrape completed successfully.
+2012-02-16_12.14.08     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_12.57.08     SCRIPT italian_storage has been INVOKED
+2012-02-16_12.57.08     Starting scrape for italian_storage
+2012-02-16_12.57.12     ERROR: Can't call method "type" on an undefined value at sites/italian_storage.pm line 87.
+
+
+2012-02-16_12.59.38     SCRIPT italian_storage has been INVOKED
+2012-02-16_12.59.38     Starting scrape for italian_storage
+2012-02-16_12.59.41     ERROR: Undefined subroutine &Site::italian_storage::ExcelLocalTime called at sites/italian_storage.pm line 91.
+
+
+2012-02-16_13.00.06     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.00.06     Starting scrape for italian_storage
+2012-02-16_13.00.09     ERROR: Undefined subroutine &Site::italian_storage::ExcelLocalTime called at sites/italian_storage.pm line 91.
+
+
+2012-02-16_13.01.21     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.01.21     Starting scrape for italian_storage
+2012-02-16_13.01.25     ERROR: Undefined subroutine &Site::italian_storage::ExcelLocaltime called at sites/italian_storage.pm line 91.
+
+
+2012-02-16_13.02.26     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.02.26     Starting scrape for italian_storage
+2012-02-16_13.02.30     ERROR: Undefined subroutine &Site::italian_storage::ExcelLocaltime called at sites/italian_storage.pm line 91.
+
+
+2012-02-16_13.02.53     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.02.53     Starting scrape for italian_storage
+2012-02-16_13.03.03     Scrape completed successfully.
+2012-02-16_13.03.03     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_13.06.44     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.06.44     Starting scrape for italian_storage
+2012-02-16_13.06.58     Scrape completed successfully.
+2012-02-16_13.06.58     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_13.08.06     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.08.06     Starting scrape for italian_storage
+2012-02-16_13.08.17     Scrape completed successfully.
+2012-02-16_13.08.17     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_13.35.36     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.35.36     Starting scrape for italian_storage
+2012-02-16_13.36.07     Scrape completed successfully.
+2012-02-16_13.36.07     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_13.37.04     SCRIPT italian_storage has been INVOKED
+2012-02-16_13.37.04     Starting scrape for italian_storage
+2012-02-16_13.37.39     Scrape completed successfully.
+2012-02-16_13.37.39     SCRIPT italian_storage has FINISHED OK
+
+2012-02-16_20.38.40     SCRIPT peru_lng has been INVOKED
+2012-02-16_20.38.41     Starting scrape for peru_lng
+2012-02-16_20.38.45     Scrape completed successfully.
+2012-02-16_20.38.45     SCRIPT peru_lng has FINISHED OK
+
+2012-02-16_20.39.18     SCRIPT peru_lng has been INVOKED
+2012-02-16_20.39.18     Starting scrape for peru_lng
+2012-02-16_20.39.20     Scrape completed successfully.
+2012-02-16_20.39.20     SCRIPT peru_lng has FINISHED OK
+
+2012-02-16_20.52.42     SCRIPT peru_lng has been INVOKED
+2012-02-16_20.52.42     Starting scrape for peru_lng
+2012-02-16_20.52.46     Scrape completed successfully.
+2012-02-16_20.52.46     SCRIPT peru_lng has FINISHED OK
+
+2012-02-16_20.58.20     SCRIPT peru_lng has been INVOKED
+2012-02-16_20.58.20     Starting scrape for peru_lng
+2012-02-16_20.58.23     Scrape completed successfully.
+2012-02-16_20.58.23     SCRIPT peru_lng has FINISHED OK
+
+2012-02-20_11.44.02     SCRIPT peru_lng has been INVOKED
+2012-02-20_11.44.03     Starting scrape for peru_lng
+2012-02-20_11.44.08     Scrape completed successfully.
+2012-02-20_11.44.08     SCRIPT peru_lng has FINISHED OK
+
+2012-02-20_12.01.55     SCRIPT peru_lng has been INVOKED
+2012-02-20_12.01.55     Starting scrape for peru_lng
+2012-02-20_12.01.58     Scrape completed successfully.
+2012-02-20_12.01.58     SCRIPT peru_lng has FINISHED OK
+
+2012-02-20_21.03.51     SCRIPT indonesia_lng has been INVOKED
+2012-02-20_21.03.51     Starting scrape for indonesia_lng
+2012-02-20_21.03.53     Scrape completed successfully.
+2012-02-20_21.03.53     SCRIPT indonesia_lng has FINISHED OK
+
+2012-02-20_21.29.19     SCRIPT indonesia_lng has been INVOKED
+2012-02-20_21.29.19     Starting scrape for indonesia_lng
+2012-02-20_21.29.25     Scrape completed successfully.
+2012-02-20_21.29.25     SCRIPT indonesia_lng has FINISHED OK
+
+2012-02-21_20.27.53     SCRIPT indonesia_lng has been INVOKED
+2012-02-21_20.27.53     Starting scrape for indonesia_lng
+2012-02-21_20.27.57     Scrape completed successfully.
+2012-02-21_20.27.57     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-01_19.36.17     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.36.17     Starting scrape for peru_lng
+2012-03-01_19.36.22     Scrape completed successfully.
+2012-03-01_19.36.22     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.38.12     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.38.12     Starting scrape for peru_lng
+2012-03-01_19.38.16     Scrape completed successfully.
+2012-03-01_19.38.16     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.38.44     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.38.44     Starting scrape for peru_lng
+2012-03-01_19.38.48     Scrape completed successfully.
+2012-03-01_19.38.48     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.38.56     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.38.56     Starting scrape for peru_lng
+2012-03-01_19.39.00     Scrape completed successfully.
+2012-03-01_19.39.00     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.45.59     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.45.59     Starting scrape for peru_lng
+2012-03-01_19.46.03     Scrape completed successfully.
+2012-03-01_19.46.03     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.51.06     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.51.06     Starting scrape for peru_lng
+2012-03-01_19.51.09     Scrape completed successfully.
+2012-03-01_19.51.09     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.56.27     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.56.27     Starting scrape for peru_lng
+2012-03-01_19.56.31     Scrape completed successfully.
+2012-03-01_19.56.31     SCRIPT peru_lng has FINISHED OK
+
+2012-03-01_19.58.00     SCRIPT peru_lng has been INVOKED
+2012-03-01_19.58.00     Starting scrape for peru_lng
+2012-03-01_19.58.03     Scrape completed successfully.
+2012-03-01_19.58.03     SCRIPT peru_lng has FINISHED OK
+
+2012-03-05_18.52.02     SCRIPT peru_lng has been INVOKED
+2012-03-05_18.52.02     Starting scrape for peru_lng
+2012-03-05_18.52.07     Scrape completed successfully.
+2012-03-05_18.52.07     SCRIPT peru_lng has FINISHED OK
+
+2012-03-05_18.53.44     SCRIPT peru_lng has been INVOKED
+2012-03-05_18.53.44     Starting scrape for peru_lng
+2012-03-05_18.53.47     Scrape completed successfully.
+2012-03-05_18.53.47     SCRIPT peru_lng has FINISHED OK
+
+2012-03-05_18.57.04     SCRIPT peru_lng has been INVOKED
+2012-03-05_18.57.04     Starting scrape for peru_lng
+2012-03-05_18.57.07     Scrape completed successfully.
+2012-03-05_18.57.07     SCRIPT peru_lng has FINISHED OK
+
+2012-03-05_18.57.41     SCRIPT peru_lng has been INVOKED
+2012-03-05_18.57.41     Starting scrape for peru_lng
+2012-03-05_18.57.45     Scrape completed successfully.
+2012-03-05_18.57.45     SCRIPT peru_lng has FINISHED OK
+
+2012-03-05_18.59.06     SCRIPT peru_lng has been INVOKED
+2012-03-05_18.59.06     Starting scrape for peru_lng
+2012-03-05_18.59.10     Scrape completed successfully.
+2012-03-05_18.59.10     SCRIPT peru_lng has FINISHED OK
+
+2012-03-06_17.50.24     SCRIPT india_production has been INVOKED
+2012-03-06_17.50.25     Starting scrape for india_production
+2012-03-06_17.50.25     Scrape completed successfully.
+2012-03-06_17.50.25     SCRIPT india_production has FINISHED OK
+
+2012-03-06_17.51.19     SCRIPT india_production has been INVOKED
+2012-03-06_17.51.19     Starting scrape for india_production
+2012-03-06_17.51.20     ERROR: Can't call method "possible_values" without a package or object reference at sites/india_production.pm line 38.
+
+
+2012-03-06_17.52.33     SCRIPT india_production has been INVOKED
+2012-03-06_17.52.33     Starting scrape for india_production
+2012-03-06_17.52.33     Scrape completed successfully.
+2012-03-06_17.52.33     SCRIPT india_production has FINISHED OK
+
+2012-03-12_21.35.11     SCRIPT india_production has been INVOKED
+2012-03-12_21.35.11     Starting scrape for india_production
+2012-03-12_21.35.13     Scrape completed successfully.
+2012-03-12_21.35.13     SCRIPT india_production has FINISHED OK
+
+2012-03-12_21.35.58     SCRIPT india_production has been INVOKED
+2012-03-12_21.35.58     Starting scrape for india_production
+2012-03-12_21.35.59     Scrape completed successfully.
+2012-03-12_21.35.59     SCRIPT india_production has FINISHED OK
+
+2012-03-20_13.02.28     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_13.02.28     Starting scrape for indonesia_lng
+2012-03-20_13.02.32     Scrape completed successfully.
+2012-03-20_13.02.32     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_13.02.56     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_13.02.56     Starting scrape for indonesia_lng
+2012-03-20_13.02.57     Scrape completed successfully.
+2012-03-20_13.02.57     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_13.42.16     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_13.42.16     Starting scrape for indonesia_lng
+2012-03-20_13.42.20     Scrape completed successfully.
+2012-03-20_13.42.20     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_13.42.29     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_13.42.29     Starting scrape for indonesia_lng
+2012-03-20_13.42.34     Scrape completed successfully.
+2012-03-20_13.42.34     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_13.49.05     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_13.49.05     Starting scrape for indonesia_lng
+2012-03-20_13.49.11     Scrape completed successfully.
+2012-03-20_13.49.11     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_13.59.19     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_13.59.19     Starting scrape for indonesia_lng
+2012-03-20_13.59.24     Scrape completed successfully.
+2012-03-20_13.59.24     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_14.02.55     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_14.02.55     Starting scrape for indonesia_lng
+2012-03-20_14.02.58     Scrape completed successfully.
+2012-03-20_14.02.58     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_14.18.15     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_14.18.15     Starting scrape for indonesia_lng
+2012-03-20_14.18.18     ERROR: Not a HASH reference at sites/indonesia_lng.pm line 59.
+
+
+2012-03-20_14.21.10     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_14.21.10     Starting scrape for indonesia_lng
+2012-03-20_14.21.13     Scrape completed successfully.
+2012-03-20_14.21.13     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_14.27.47     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_14.27.47     Starting scrape for indonesia_lng
+2012-03-20_14.27.51     Scrape completed successfully.
+2012-03-20_14.27.51     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_14.35.02     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_14.35.02     Starting scrape for indonesia_lng
+2012-03-20_14.35.06     Scrape completed successfully.
+2012-03-20_14.35.06     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-20_14.35.33     SCRIPT indonesia_lng has been INVOKED
+2012-03-20_14.35.33     Starting scrape for indonesia_lng
+2012-03-20_14.35.37     Scrape completed successfully.
+2012-03-20_14.35.37     SCRIPT indonesia_lng has FINISHED OK
+
+2012-03-21_19.33.18     SCRIPT india_production has been INVOKED
+2012-03-21_19.33.18     Starting scrape for india_production
+2012-03-21_19.33.20     ERROR: Can't locate object method "mech" via package "Site::india_production" at sites/india_production.pm line 82.
+
+
+2012-03-21_19.33.38     SCRIPT india_production has been INVOKED
+2012-03-21_19.33.38     Starting scrape for india_production
+2012-03-21_19.33.39     Scrape completed successfully.
+2012-03-21_19.33.39     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.34.24     SCRIPT india_production has been INVOKED
+2012-03-21_19.34.24     Starting scrape for india_production
+2012-03-21_19.34.25     Scrape completed successfully.
+2012-03-21_19.34.25     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.34.52     SCRIPT india_production has been INVOKED
+2012-03-21_19.34.52     Starting scrape for india_production
+2012-03-21_19.34.53     Scrape completed successfully.
+2012-03-21_19.34.53     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.35.22     SCRIPT india_production has been INVOKED
+2012-03-21_19.35.22     Starting scrape for india_production
+2012-03-21_19.35.23     Scrape completed successfully.
+2012-03-21_19.35.23     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.36.02     SCRIPT india_production has been INVOKED
+2012-03-21_19.36.02     Starting scrape for india_production
+2012-03-21_19.36.04     Scrape completed successfully.
+2012-03-21_19.36.04     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.39.38     SCRIPT india_production has been INVOKED
+2012-03-21_19.39.38     Starting scrape for india_production
+2012-03-21_19.39.39     Scrape completed successfully.
+2012-03-21_19.39.39     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.39.59     SCRIPT india_production has been INVOKED
+2012-03-21_19.39.59     Starting scrape for india_production
+2012-03-21_19.40.00     Scrape completed successfully.
+2012-03-21_19.40.00     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.45.30     SCRIPT india_production has been INVOKED
+2012-03-21_19.45.30     Starting scrape for india_production
+2012-03-21_19.45.30     ERROR: Error POSTing ./petroleum/psbody.jsp: URL must be absolute at sites/india_production.pm line 63
+
+
+2012-03-21_19.46.29     SCRIPT india_production has been INVOKED
+2012-03-21_19.46.29     Starting scrape for india_production
+2012-03-21_19.46.30     Scrape completed successfully.
+2012-03-21_19.46.30     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.46.44     SCRIPT india_production has been INVOKED
+2012-03-21_19.46.44     Starting scrape for india_production
+2012-03-21_19.46.45     Scrape completed successfully.
+2012-03-21_19.46.45     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.47.32     SCRIPT india_production has been INVOKED
+2012-03-21_19.47.32     Starting scrape for india_production
+2012-03-21_19.47.33     Scrape completed successfully.
+2012-03-21_19.47.33     SCRIPT india_production has FINISHED OK
+
+2012-03-21_19.58.20     SCRIPT india_production has been INVOKED
+2012-03-21_19.58.20     Starting scrape for india_production
+2012-03-21_19.58.22     ERROR: Not a HASH reference at sites/india_production.pm line 96.
+
+
+2012-03-21_20.00.51     SCRIPT india_production has been INVOKED
+2012-03-21_20.00.51     Starting scrape for india_production
+2012-03-21_20.00.52     ERROR: Not a HASH reference at sites/india_production.pm line 95.
+
+
+2012-03-21_20.01.16     SCRIPT india_production has been INVOKED
+2012-03-21_20.01.16     Starting scrape for india_production
+2012-03-21_20.01.17     ERROR: Not a HASH reference at sites/india_production.pm line 95.
+
+
+2012-03-21_20.02.56     SCRIPT india_production has been INVOKED
+2012-03-21_20.02.56     Starting scrape for india_production
+2012-03-21_20.02.58     ERROR: Error GETing http://petroleum.nic.in/Monthly_Production/P_Mar_12.pdf: Not Found at sites/india_production.pm line 95
+
+
+2012-03-21_20.15.20     SCRIPT india_production has been INVOKED
+2012-03-21_20.15.20     Starting scrape for india_production
+2012-03-21_20.15.22     ERROR: Error GETing http://petroleum.nic.in/Monthly_Production/P_Mar_12.pdf: Not Found at sites/india_production.pm line 97
+
+
+2012-03-21_20.16.04     SCRIPT india_production has been INVOKED
+2012-03-21_20.16.04     Starting scrape for india_production
+2012-03-21_20.16.06     ERROR: Can't locate object method "autocheck" via package "WWW::Mechanize" at sites/india_production.pm line 87.
+
+
+2012-03-21_20.27.06     SCRIPT india_production has been INVOKED
+2012-03-21_20.27.06     Starting scrape for india_production
+2012-03-21_20.27.10     Scrape completed successfully.
+2012-03-21_20.27.10     SCRIPT india_production has FINISHED OK
+
+2012-03-21_20.33.36     SCRIPT india_production has been INVOKED
+2012-03-21_20.33.36     Starting scrape for india_production
+2012-03-21_20.33.41     Scrape completed successfully.
+2012-03-21_20.33.41     SCRIPT india_production has FINISHED OK
+
+2012-03-21_20.33.48     SCRIPT india_production has been INVOKED
+2012-03-21_20.33.48     Starting scrape for india_production
+2012-03-21_20.33.52     Scrape completed successfully.
+2012-03-21_20.33.52     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.10.35     SCRIPT india_production has been INVOKED
+2012-03-22_20.10.35     Starting scrape for india_production
+2012-03-22_20.10.42     Scrape completed successfully.
+2012-03-22_20.10.42     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.15.37     SCRIPT india_production has been INVOKED
+2012-03-22_20.15.37     Starting scrape for india_production
+2012-03-22_20.15.43     Scrape completed successfully.
+2012-03-22_20.15.43     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.20.20     SCRIPT india_production has been INVOKED
+2012-03-22_20.20.20     Starting scrape for india_production
+2012-03-22_20.20.26     Scrape completed successfully.
+2012-03-22_20.20.26     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.28.05     SCRIPT india_production has been INVOKED
+2012-03-22_20.28.05     Starting scrape for india_production
+2012-03-22_20.28.11     Scrape completed successfully.
+2012-03-22_20.28.11     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.30.28     SCRIPT india_production has been INVOKED
+2012-03-22_20.30.28     Starting scrape for india_production
+2012-03-22_20.30.35     Scrape completed successfully.
+2012-03-22_20.30.35     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.33.12     SCRIPT india_production has been INVOKED
+2012-03-22_20.33.12     Starting scrape for india_production
+2012-03-22_20.33.19     Scrape completed successfully.
+2012-03-22_20.33.19     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.37.24     SCRIPT india_production has been INVOKED
+2012-03-22_20.37.24     Starting scrape for india_production
+2012-03-22_20.37.30     Scrape completed successfully.
+2012-03-22_20.37.30     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.40.00     SCRIPT india_production has been INVOKED
+2012-03-22_20.40.00     Starting scrape for india_production
+2012-03-22_20.40.09     Scrape completed successfully.
+2012-03-22_20.40.09     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.40.18     SCRIPT india_production has been INVOKED
+2012-03-22_20.40.18     Starting scrape for india_production
+2012-03-22_20.40.25     Scrape completed successfully.
+2012-03-22_20.40.25     SCRIPT india_production has FINISHED OK
+
+2012-03-22_20.45.02     SCRIPT india_production has been INVOKED
+2012-03-22_20.45.02     Starting scrape for india_production
+2012-03-22_20.45.13     Scrape completed successfully.
+2012-03-22_20.45.13     SCRIPT india_production has FINISHED OK
+
+2012-04-02_14.32.16     SCRIPT ren has been INVOKED
+2012-04-02_14.32.16     Starting scrape for ren
+2012-04-02_14.32.34     ERROR: Link not found at sites/ren.pm line 39
+
+
+2012-04-02_14.37.27     SCRIPT ren has been INVOKED
+2012-04-02_14.37.27     Starting scrape for ren
+2012-04-02_14.38.09     Scrape completed successfully.
+2012-04-02_14.38.09     SCRIPT ren has FINISHED OK
+
+2012-04-02_18.11.13     SCRIPT ren has been INVOKED
+2012-04-02_18.11.13     Starting scrape for ren
+2012-04-02_18.11.29     ERROR: Link not found at sites/ren.pm line 39
+
+
+2012-04-02_18.11.43     SCRIPT ren has been INVOKED
+2012-04-02_18.11.43     Starting scrape for ren
+2012-04-02_18.11.51     ERROR: Link not found at sites/ren.pm line 39
+
+
+2012-04-02_18.14.58     SCRIPT ren has been INVOKED
+2012-04-02_18.14.58     Starting scrape for ren
+2012-04-02_18.15.14     Scrape completed successfully.
+2012-04-02_18.15.14     SCRIPT ren has FINISHED OK
+
+2012-04-02_18.17.59     SCRIPT ren has been INVOKED
+2012-04-02_18.17.59     Starting scrape for ren
+2012-04-02_18.18.15     Scrape completed successfully.
+2012-04-02_18.18.15     SCRIPT ren has FINISHED OK
+
+2012-04-03_15.36.24     SCRIPT ren has been INVOKED
+2012-04-03_15.36.24     Starting scrape for ren
+2012-04-03_15.36.51     Scrape completed successfully.
+2012-04-03_15.36.51     SCRIPT ren has FINISHED OK
+
+2012-04-03_15.37.05     SCRIPT ren has been INVOKED
+2012-04-03_15.37.05     Starting scrape for ren
+2012-04-03_15.37.29     Scrape completed successfully.
+2012-04-03_15.37.29     SCRIPT ren has FINISHED OK
+
+2012-04-03_15.46.17     SCRIPT ren has been INVOKED
+2012-04-03_15.46.17     Starting scrape for ren
+2012-04-03_15.47.07     Scrape completed successfully.
+2012-04-03_15.47.07     SCRIPT ren has FINISHED OK
+
+2012-04-03_15.49.16     SCRIPT ren has been INVOKED
+2012-04-03_15.49.16     Starting scrape for ren
+2012-04-03_15.50.05     Scrape completed successfully.
+2012-04-03_15.50.05     SCRIPT ren has FINISHED OK
+
+2012-04-03_15.57.42     SCRIPT ren has been INVOKED
+2012-04-03_15.57.42     Starting scrape for ren
+2012-04-03_15.58.17     ERROR: Can't call method "row_range" on an undefined value at sites/ren.pm line 61.
+
+
+2012-04-03_15.59.40     SCRIPT ren has been INVOKED
+2012-04-03_15.59.40     Starting scrape for ren
+2012-04-03_16.00.17     Scrape completed successfully.
+2012-04-03_16.00.17     SCRIPT ren has FINISHED OK
+
+2012-04-03_16.04.34     SCRIPT ren has been INVOKED
+2012-04-03_16.04.34     Starting scrape for ren
+2012-04-03_16.05.22     ERROR: Can't call method "value" on an undefined value at sites/ren.pm line 64.
+
+
+2012-04-03_16.08.55     SCRIPT ren has been INVOKED
+2012-04-03_16.08.55     Starting scrape for ren
+2012-04-03_16.09.31     ERROR: Can't call method "value" on an undefined value at sites/ren.pm line 64.
+
+
+2012-04-03_16.13.27     SCRIPT ren has been INVOKED
+2012-04-03_16.13.27     Starting scrape for ren
+2012-04-03_16.14.16     ERROR: Can't call method "type" on an undefined value at sites/ren.pm line 65.
+
+
+2012-04-03_16.15.26     SCRIPT ren has been INVOKED
+2012-04-03_16.15.26     Starting scrape for ren
+2012-04-03_16.16.01     Scrape completed successfully.
+2012-04-03_16.16.01     SCRIPT ren has FINISHED OK
+
+2012-04-03_16.17.46     SCRIPT ren has been INVOKED
+2012-04-03_16.17.46     Starting scrape for ren
+2012-04-03_16.18.35     ERROR: Can't call method "unformatted" on an undefined value at sites/ren.pm line 68.
+
+
+2012-04-03_16.21.09     SCRIPT ren has been INVOKED
+2012-04-03_16.21.09     Starting scrape for ren
+2012-04-03_16.21.44     Scrape completed successfully.
+2012-04-03_16.21.44     SCRIPT ren has FINISHED OK
+
+2012-04-03_16.25.16     SCRIPT ren has been INVOKED
+2012-04-03_16.25.16     Starting scrape for ren
+2012-04-03_16.26.04     Scrape completed successfully.
+2012-04-03_16.26.04     SCRIPT ren has FINISHED OK
+
+2012-04-04_20.58.54     SCRIPT ren has been INVOKED
+2012-04-04_20.58.54     Starting scrape for ren
+2012-04-04_20.59.53     Scrape completed successfully.
+2012-04-04_20.59.53     SCRIPT ren has FINISHED OK
+
+2012-04-04_21.02.47     SCRIPT ren has been INVOKED
+2012-04-04_21.02.47     Starting scrape for ren
+2012-04-04_21.03.40     Scrape completed successfully.
+2012-04-04_21.03.40     SCRIPT ren has FINISHED OK
+
+2012-04-04_21.05.58     SCRIPT ren has been INVOKED
+2012-04-04_21.05.58     Starting scrape for ren
+2012-04-04_21.06.42     Scrape completed successfully.
+2012-04-04_21.06.42     SCRIPT ren has FINISHED OK
+
+2012-04-04_21.13.56     SCRIPT ren has been INVOKED
+2012-04-04_21.13.56     Starting scrape for ren
+2012-04-04_21.14.37     ERROR: Link not found at sites/ren.pm line 93
+
+
+2012-04-04_21.16.19     SCRIPT ren has been INVOKED
+2012-04-04_21.16.19     Starting scrape for ren
+2012-04-04_21.17.01     ERROR: Link not found at sites/ren.pm line 93
+
+
+2012-04-04_21.18.56     SCRIPT ren has been INVOKED
+2012-04-04_21.18.56     Starting scrape for ren
+2012-04-04_21.20.32     Scrape completed successfully.
+2012-04-04_21.20.32     SCRIPT ren has FINISHED OK
+
+2012-04-05_20.06.09     SCRIPT ssb has been INVOKED
+2012-04-05_20.06.09     Starting scrape for ssb
+2012-04-05_20.06.11     Scrape completed successfully.
+2012-04-05_20.06.11     SCRIPT ssb has FINISHED OK
+
+2012-04-05_20.08.44     SCRIPT ssb has been INVOKED
+2012-04-05_20.08.44     Starting scrape for ssb
+2012-04-05_20.08.45     Scrape completed successfully.
+2012-04-05_20.08.45     SCRIPT ssb has FINISHED OK
+
+2012-04-09_15.35.49     SCRIPT ssb has been INVOKED
+2012-04-09_15.35.49     Starting scrape for ssb
+2012-04-09_15.35.51     Scrape completed successfully.
+2012-04-09_15.35.51     SCRIPT ssb has FINISHED OK
+
+2012-04-19_18.33.48     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_18.33.48     Starting scrape for cegh_hub_liquidity
+2012-04-19_18.33.49     Scrape completed successfully.
+2012-04-19_18.33.49     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_18.34.57     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_18.34.57     Starting scrape for cegh_hub_liquidity
+2012-04-19_18.34.58     Scrape completed successfully.
+2012-04-19_18.34.58     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_18.39.01     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_18.39.01     Starting scrape for cegh_hub_liquidity
+2012-04-19_18.39.02     Scrape completed successfully.
+2012-04-19_18.39.02     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_20.22.23     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_20.22.23     Starting scrape for cegh_hub_liquidity
+2012-04-19_20.22.28     Scrape completed successfully.
+2012-04-19_20.22.28     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_20.23.20     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_20.23.20     Starting scrape for cegh_hub_liquidity
+2012-04-19_20.23.27     ERROR: Undefined subroutine &Site::cegh_hub_liquidity::value called at sites/cegh_hub_liquidity.pm line 64.
+
+
+2012-04-19_20.23.45     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_20.23.45     Starting scrape for cegh_hub_liquidity
+2012-04-19_20.23.50     Scrape completed successfully.
+2012-04-19_20.23.50     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_20.24.26     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_20.24.26     Starting scrape for cegh_hub_liquidity
+2012-04-19_20.24.29     Scrape completed successfully.
+2012-04-19_20.24.29     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_20.24.59     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_20.24.59     Starting scrape for cegh_hub_liquidity
+2012-04-19_20.25.06     Scrape completed successfully.
+2012-04-19_20.25.06     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_20.25.47     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-19_20.25.47     Starting scrape for cegh_hub_liquidity
+2012-04-19_20.25.51     Scrape completed successfully.
+2012-04-19_20.25.51     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-19_20.56.27     SCRIPT ttf_hub_liquidity has been INVOKED
+2012-04-19_20.56.27     Starting scrape for ttf_hub_liquidity
+2012-04-19_20.56.28     Scrape completed successfully.
+2012-04-19_20.56.28     SCRIPT ttf_hub_liquidity has FINISHED OK
+
+2012-04-19_21.00.44     SCRIPT ttf_hub_liquidity has been INVOKED
+2012-04-19_21.00.44     Starting scrape for ttf_hub_liquidity
+2012-04-19_21.00.45     Scrape completed successfully.
+2012-04-19_21.00.45     SCRIPT ttf_hub_liquidity has FINISHED OK
+
+2012-04-20_11.36.54     SCRIPT cegh_hub_liquidity has been INVOKED
+2012-04-20_11.36.54     Starting scrape for cegh_hub_liquidity
+2012-04-20_11.37.02     Scrape completed successfully.
+2012-04-20_11.37.02     SCRIPT cegh_hub_liquidity has FINISHED OK
+
+2012-04-20_11.58.25     SCRIPT ttf_hub_liquidity has been INVOKED
+2012-04-20_11.58.25     Starting scrape for ttf_hub_liquidity
+2012-04-20_11.58.26     ERROR: Can't call method "worksheet" on an undefined value at sites/ttf_hub_liquidity.pm line 55.
+
+
+2012-04-20_11.59.04     SCRIPT ttf_hub_liquidity has been INVOKED
+2012-04-20_11.59.04     Starting scrape for ttf_hub_liquidity
+2012-04-20_11.59.10     Scrape completed successfully.
+2012-04-20_11.59.10     SCRIPT ttf_hub_liquidity has FINISHED OK
+
+2012-04-20_20.00.43     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_20.00.43     Starting scrape for gaspool_hub_liquidity
+2012-04-20_20.00.44     ERROR: Link not found at sites/gaspool_hub_liquidity.pm line 56
+
+
+2012-04-20_20.25.45     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_20.25.45     Starting scrape for gaspool_hub_liquidity
+2012-04-20_20.25.47     ERROR: Link not found at sites/gaspool_hub_liquidity.pm line 56
+
+
+2012-04-20_20.26.25     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_20.26.25     Starting scrape for gaspool_hub_liquidity
+2012-04-20_20.26.26     ERROR: Can't call method "value" on an undefined value at sites/gaspool_hub_liquidity.pm line 80.
+
+
+2012-04-20_20.26.55     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_20.26.55     Starting scrape for gaspool_hub_liquidity
+2012-04-20_20.26.56     Scrape completed successfully.
+2012-04-20_20.26.56     SCRIPT gaspool_hub_liquidity has FINISHED OK
+
+2012-04-20_21.45.48     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_21.45.48     Starting scrape for gaspool_hub_liquidity
+2012-04-20_21.45.50     Scrape completed successfully.
+2012-04-20_21.45.50     SCRIPT gaspool_hub_liquidity has FINISHED OK
+
+2012-04-20_21.57.34     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_21.57.34     Starting scrape for gaspool_hub_liquidity
+2012-04-20_21.57.35     Scrape completed successfully.
+2012-04-20_21.57.35     SCRIPT gaspool_hub_liquidity has FINISHED OK
+
+2012-04-20_22.10.09     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_22.10.09     Starting scrape for gaspool_hub_liquidity
+2012-04-20_22.10.11     Scrape completed successfully.
+2012-04-20_22.10.11     SCRIPT gaspool_hub_liquidity has FINISHED OK
+
+2012-04-20_22.11.32     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_22.11.32     Starting scrape for gaspool_hub_liquidity
+2012-04-20_22.11.33     Scrape completed successfully.
+2012-04-20_22.11.33     SCRIPT gaspool_hub_liquidity has FINISHED OK
+
+2012-04-20_22.12.53     SCRIPT gaspool_hub_liquidity has been INVOKED
+2012-04-20_22.12.53     Starting scrape for gaspool_hub_liquidity
+2012-04-20_22.12.55     Scrape completed successfully.
+2012-04-20_22.12.55     SCRIPT gaspool_hub_liquidity has FINISHED OK
+
+2012-04-21_14.09.14     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.09.14     Starting scrape for zb_hub_liquidity
+2012-04-21_14.09.14     Scrape completed successfully.
+2012-04-21_14.09.14     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.09.19     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.09.19     Starting scrape for zb_hub_liquidity
+2012-04-21_14.09.20     Scrape completed successfully.
+2012-04-21_14.09.20     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.20.38     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.20.38     Starting scrape for zb_hub_liquidity
+2012-04-21_14.20.39     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 55.
+
+
+2012-04-21_14.21.52     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.21.52     Starting scrape for zb_hub_liquidity
+2012-04-21_14.21.52     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 57.
+
+
+2012-04-21_14.22.21     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.22.21     Starting scrape for zb_hub_liquidity
+2012-04-21_14.22.22     Scrape completed successfully.
+2012-04-21_14.22.22     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.24.10     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.24.10     Starting scrape for zb_hub_liquidity
+2012-04-21_14.24.11     Scrape completed successfully.
+2012-04-21_14.24.11     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.24.22     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.24.22     Starting scrape for zb_hub_liquidity
+2012-04-21_14.24.23     Scrape completed successfully.
+2012-04-21_14.24.23     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.24.52     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.24.52     Starting scrape for zb_hub_liquidity
+2012-04-21_14.24.52     Scrape completed successfully.
+2012-04-21_14.24.52     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.26.31     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.26.31     Starting scrape for zb_hub_liquidity
+2012-04-21_14.26.32     Scrape completed successfully.
+2012-04-21_14.26.32     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.29.24     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.29.24     Starting scrape for zb_hub_liquidity
+2012-04-21_14.29.24     Scrape completed successfully.
+2012-04-21_14.29.24     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.29.47     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.29.47     Starting scrape for zb_hub_liquidity
+2012-04-21_14.29.48     Scrape completed successfully.
+2012-04-21_14.29.48     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.29.58     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.29.58     Starting scrape for zb_hub_liquidity
+2012-04-21_14.29.58     Scrape completed successfully.
+2012-04-21_14.29.58     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-21_14.30.23     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.30.23     Starting scrape for zb_hub_liquidity
+2012-04-21_14.30.24     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 57.
+
+
+2012-04-21_14.31.31     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-21_14.31.31     Starting scrape for zb_hub_liquidity
+2012-04-21_14.31.31     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 57.
+
+
+2012-04-22_19.50.07     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.50.07     Starting scrape for zb_hub_liquidity
+2012-04-22_19.50.10     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 57.
+
+
+2012-04-22_19.53.25     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.53.25     Starting scrape for zb_hub_liquidity
+2012-04-22_19.53.26     ERROR: Link not found at sites/zb_hub_liquidity.pm line 41
+
+
+2012-04-22_19.54.31     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.54.31     Starting scrape for zb_hub_liquidity
+2012-04-22_19.54.31     ERROR: Link not found at sites/zb_hub_liquidity.pm line 41
+
+
+2012-04-22_19.57.46     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.57.46     Starting scrape for zb_hub_liquidity
+2012-04-22_19.57.47     ERROR: Link not found at sites/zb_hub_liquidity.pm line 43
+
+
+2012-04-22_19.58.09     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.58.09     Starting scrape for zb_hub_liquidity
+2012-04-22_19.58.10     ERROR: Link not found at sites/zb_hub_liquidity.pm line 43
+
+
+2012-04-22_19.59.10     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.59.10     Starting scrape for zb_hub_liquidity
+2012-04-22_19.59.10     ERROR: Link not found at sites/zb_hub_liquidity.pm line 43
+
+
+2012-04-22_19.59.27     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_19.59.27     Starting scrape for zb_hub_liquidity
+2012-04-22_19.59.29     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 59.
+
+
+2012-04-22_20.00.32     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.00.32     Starting scrape for zb_hub_liquidity
+2012-04-22_20.00.33     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 57.
+
+
+2012-04-22_20.00.58     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.00.58     Starting scrape for zb_hub_liquidity
+2012-04-22_20.00.59     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 58.
+
+
+2012-04-22_20.01.07     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.01.07     Starting scrape for zb_hub_liquidity
+2012-04-22_20.01.09     ERROR: Can't locate object method "Type" via package "Spreadsheet::ParseExcel::Cell" at sites/zb_hub_liquidity.pm line 67.
+
+
+2012-04-22_20.02.14     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.02.14     Starting scrape for zb_hub_liquidity
+2012-04-22_20.02.16     Scrape completed successfully.
+2012-04-22_20.02.16     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.05.11     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.05.11     Starting scrape for zb_hub_liquidity
+2012-04-22_20.05.13     Scrape completed successfully.
+2012-04-22_20.05.13     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.05.41     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.05.41     Starting scrape for zb_hub_liquidity
+2012-04-22_20.05.42     Scrape completed successfully.
+2012-04-22_20.05.42     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.06.53     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.06.53     Starting scrape for zb_hub_liquidity
+2012-04-22_20.06.53     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 56.
+
+
+2012-04-22_20.18.58     SCRIPT psv_hub_liquidity has been INVOKED
+2012-04-22_20.18.58     Starting scrape for psv_hub_liquidity
+2012-04-22_20.19.01     Scrape completed successfully.
+2012-04-22_20.19.01     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-04-22_20.29.29     SCRIPT psv_hub_liquidity has been INVOKED
+2012-04-22_20.29.29     Starting scrape for psv_hub_liquidity
+2012-04-22_20.29.33     Scrape completed successfully.
+2012-04-22_20.29.33     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-04-22_20.29.49     SCRIPT psv_hub_liquidity has been INVOKED
+2012-04-22_20.29.49     Starting scrape for psv_hub_liquidity
+2012-04-22_20.29.51     Scrape completed successfully.
+2012-04-22_20.29.51     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-04-22_20.35.01     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.35.01     Starting scrape for zb_hub_liquidity
+2012-04-22_20.35.02     Scrape completed successfully.
+2012-04-22_20.35.02     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.36.09     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.36.09     Starting scrape for zb_hub_liquidity
+2012-04-22_20.36.10     Scrape completed successfully.
+2012-04-22_20.36.10     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.36.40     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.36.40     Starting scrape for zb_hub_liquidity
+2012-04-22_20.36.41     Scrape completed successfully.
+2012-04-22_20.36.41     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.38.48     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.38.48     Starting scrape for zb_hub_liquidity
+2012-04-22_20.38.48     Scrape completed successfully.
+2012-04-22_20.38.48     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.40.10     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.40.10     Starting scrape for zb_hub_liquidity
+2012-04-22_20.40.11     Scrape completed successfully.
+2012-04-22_20.40.11     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.40.20     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.40.20     Starting scrape for zb_hub_liquidity
+2012-04-22_20.41.17     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.41.17     Starting scrape for zb_hub_liquidity
+2012-04-22_20.41.18     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 60.
+
+
+2012-04-22_20.41.54     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.41.54     Starting scrape for zb_hub_liquidity
+2012-04-22_20.41.54     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 60.
+
+
+2012-04-22_20.54.12     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.54.12     Starting scrape for zb_hub_liquidity
+2012-04-22_20.54.13     Scrape completed successfully.
+2012-04-22_20.54.13     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.54.49     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.54.49     Starting scrape for zb_hub_liquidity
+2012-04-22_20.54.50     Scrape completed successfully.
+2012-04-22_20.54.50     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.57.34     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.57.34     Starting scrape for zb_hub_liquidity
+2012-04-22_20.58.10     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.58.10     Starting scrape for zb_hub_liquidity
+2012-04-22_20.58.12     Scrape completed successfully.
+2012-04-22_20.58.12     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-22_20.58.29     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-22_20.58.29     Starting scrape for zb_hub_liquidity
+2012-04-22_20.58.30     Scrape completed successfully.
+2012-04-22_20.58.30     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-30_19.42.23     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_19.42.23     Starting scrape for zb_hub_liquidity
+2012-04-30_19.42.24     Scrape completed successfully.
+2012-04-30_19.42.24     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-30_19.42.41     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_19.42.41     Starting scrape for zb_hub_liquidity
+2012-04-30_19.42.42     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 61.
+
+
+2012-04-30_19.45.34     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_19.45.34     Starting scrape for zb_hub_liquidity
+2012-04-30_19.45.34     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 62.
+
+
+2012-04-30_19.46.11     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_19.46.11     Starting scrape for zb_hub_liquidity
+2012-04-30_19.46.13     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 62.
+
+
+2012-04-30_19.52.56     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_19.52.56     Starting scrape for zb_hub_liquidity
+2012-04-30_19.52.57     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 60.
+
+
+2012-04-30_20.02.19     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_20.02.19     Starting scrape for zb_hub_liquidity
+2012-04-30_20.02.19     Scrape completed successfully.
+2012-04-30_20.02.19     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-04-30_20.03.58     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_20.03.58     Starting scrape for zb_hub_liquidity
+2012-04-30_20.03.59     ERROR: Cannot open data as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 28.
+
+
+2012-04-30_20.04.25     SCRIPT zb_hub_liquidity has been INVOKED
+2012-04-30_20.04.25     Starting scrape for zb_hub_liquidity
+2012-04-30_20.04.26     Scrape completed successfully.
+2012-04-30_20.04.26     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_18.02.28     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.02.28     Starting scrape for psv_hub_liquidity
+2012-05-03_18.02.33     Scrape completed successfully.
+2012-05-03_18.02.33     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.03.45     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.03.45     Starting scrape for psv_hub_liquidity
+2012-05-03_18.03.47     Scrape completed successfully.
+2012-05-03_18.03.47     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.24.05     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.24.05     Starting scrape for psv_hub_liquidity
+2012-05-03_18.24.10     Scrape completed successfully.
+2012-05-03_18.24.10     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.24.32     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.24.32     Starting scrape for psv_hub_liquidity
+2012-05-03_18.24.37     Scrape completed successfully.
+2012-05-03_18.24.37     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.25.53     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.25.53     Starting scrape for psv_hub_liquidity
+2012-05-03_18.25.58     Scrape completed successfully.
+2012-05-03_18.25.58     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.29.14     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.29.14     Starting scrape for psv_hub_liquidity
+2012-05-03_18.29.18     Scrape completed successfully.
+2012-05-03_18.29.18     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.30.42     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.30.42     Starting scrape for psv_hub_liquidity
+2012-05-03_18.30.45     Scrape completed successfully.
+2012-05-03_18.30.45     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.33.44     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.33.44     Starting scrape for psv_hub_liquidity
+2012-05-03_18.33.50     Scrape completed successfully.
+2012-05-03_18.33.50     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.34.34     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.34.34     Starting scrape for psv_hub_liquidity
+2012-05-03_18.34.42     Scrape completed successfully.
+2012-05-03_18.34.42     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_18.43.22     SCRIPT psv_hub_liquidity has been INVOKED
+2012-05-03_18.43.22     Starting scrape for psv_hub_liquidity
+2012-05-03_18.43.26     Scrape completed successfully.
+2012-05-03_18.43.26     SCRIPT psv_hub_liquidity has FINISHED OK
+
+2012-05-03_19.00.20     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.00.20     Starting scrape for zb_hub_liquidity
+2012-05-03_19.00.20     Scrape completed successfully.
+2012-05-03_19.00.20     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_19.01.58     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.01.58     Starting scrape for zb_hub_liquidity
+2012-05-03_19.01.59     Scrape completed successfully.
+2012-05-03_19.01.59     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_19.02.20     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.02.20     Starting scrape for zb_hub_liquidity
+2012-05-03_19.02.21     Scrape completed successfully.
+2012-05-03_19.02.21     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_19.04.33     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.04.33     Starting scrape for zb_hub_liquidity
+2012-05-03_19.04.34     Scrape completed successfully.
+2012-05-03_19.04.34     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_19.05.32     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.05.32     Starting scrape for zb_hub_liquidity
+2012-05-03_19.05.32     Scrape completed successfully.
+2012-05-03_19.05.32     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_19.45.04     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.45.04     Starting scrape for zb_hub_liquidity
+2012-05-03_19.45.05     Scrape completed successfully.
+2012-05-03_19.45.05     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_19.46.39     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.46.39     Starting scrape for zb_hub_liquidity
+2012-05-03_19.46.40     ERROR: Cannot open data as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 28.
+
+
+2012-05-03_19.47.13     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.47.13     Starting scrape for zb_hub_liquidity
+2012-05-03_19.47.14     ERROR: Cannot open data as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 28.
+
+
+2012-05-03_19.58.56     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.58.56     Starting scrape for zb_hub_liquidity
+2012-05-03_19.58.56     ERROR: Cannot open data as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 28.
+
+
+2012-05-03_19.59.23     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_19.59.23     Starting scrape for zb_hub_liquidity
+2012-05-03_19.59.25     ERROR: Cannot open /tmp/text.xlsx as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 33.
+
+
+2012-05-03_21.26.26     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.26.26     Starting scrape for zb_hub_liquidity
+2012-05-03_21.26.27     ERROR: Cannot open /tmp/text.xlsx as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 33.
+
+
+2012-05-03_21.27.08     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.27.08     Starting scrape for zb_hub_liquidity
+2012-05-03_21.27.08     ERROR: Cannot open /tmp/text.xlsx as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 33.
+
+
+2012-05-03_21.28.34     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.28.34     Starting scrape for zb_hub_liquidity
+2012-05-03_21.28.34     ERROR: Cannot open /tmp/text.xlsx as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 33.
+
+
+2012-05-03_21.29.20     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.29.20     Starting scrape for zb_hub_liquidity
+2012-05-03_21.29.21     ERROR: Cannot open /tmp/text.xlsx as Zip archive at /Library/Perl/5.12/Spreadsheet/XLSX.pm line 33.
+
+
+2012-05-03_21.30.20     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.30.20     Starting scrape for zb_hub_liquidity
+2012-05-03_21.30.21     Scrape completed successfully.
+2012-05-03_21.30.21     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_21.37.32     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.37.32     Starting scrape for zb_hub_liquidity
+2012-05-03_21.37.33     Scrape completed successfully.
+2012-05-03_21.37.33     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-03_21.38.19     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-03_21.38.19     Starting scrape for zb_hub_liquidity
+2012-05-03_21.38.20     Scrape completed successfully.
+2012-05-03_21.38.20     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-05-04_17.10.58     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-04_17.10.58     Starting scrape for zb_hub_liquidity
+2012-05-04_17.10.59     ERROR: Can't call method "worksheet" on an undefined value at sites/zb_hub_liquidity.pm line 63.
+
+
+2012-05-04_17.11.51     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-04_17.11.51     Starting scrape for zb_hub_liquidity
+2012-05-04_17.11.52     ERROR: Got error code 2.
+
+
+2012-05-04_17.14.02     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-04_17.14.02     Starting scrape for zb_hub_liquidity
+2012-05-04_17.15.46     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-04_17.15.46     Starting scrape for zb_hub_liquidity
+2012-05-04_17.26.04     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-04_17.26.04     Starting scrape for zb_hub_liquidity
+2012-05-04_17.29.06     SCRIPT zb_hub_liquidity has been INVOKED
+2012-05-04_17.29.06     Starting scrape for zb_hub_liquidity
+2012-05-04_17.29.07     Scrape completed successfully.
+2012-05-04_17.29.07     SCRIPT zb_hub_liquidity has FINISHED OK
+
+2012-06-15_11.08.23     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_11.08.23     Starting scrape for bayernets_demand
+2012-06-15_11.08.24     Scrape completed successfully.
+2012-06-15_11.08.24     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_13.22.39     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.22.39     Starting scrape for bayernets_demand
+2012-06-15_13.22.40     Scrape completed successfully.
+2012-06-15_13.22.40     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_13.38.15     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.38.15     Starting scrape for bayernets_demand
+2012-06-15_13.38.16     Scrape completed successfully.
+2012-06-15_13.38.16     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_13.38.25     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.38.25     Starting scrape for bayernets_demand
+2012-06-15_13.38.25     Scrape completed successfully.
+2012-06-15_13.38.25     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_13.40.52     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.40.52     Starting scrape for bayernets_demand
+2012-06-15_13.40.52     ERROR: Can't locate object method "follow_link" via package "Site::bayernets_demand" at sites/bayernets_demand.pm line 34.
+
+
+2012-06-15_13.41.13     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.41.13     Starting scrape for bayernets_demand
+2012-06-15_13.41.16     Scrape completed successfully.
+2012-06-15_13.41.16     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_13.43.52     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.43.52     Starting scrape for bayernets_demand
+2012-06-15_13.43.54     Scrape completed successfully.
+2012-06-15_13.43.54     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_13.59.45     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_13.59.45     Starting scrape for bayernets_demand
+2012-06-15_13.59.48     ERROR: Can't locate object method "new" via package "Spreadshhet::ParseExcel" (perhaps you forgot to load "Spreadshhet::ParseExcel"?) at sites/bayernets_demand.pm line 53.
+
+
+2012-06-15_14.00.03     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.00.03     Starting scrape for bayernets_demand
+2012-06-15_14.00.09     Scrape completed successfully.
+2012-06-15_14.00.09     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.00.36     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.00.36     Starting scrape for bayernets_demand
+2012-06-15_14.00.41     Scrape completed successfully.
+2012-06-15_14.00.41     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.01.20     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.01.20     Starting scrape for bayernets_demand
+2012-06-15_14.01.25     Scrape completed successfully.
+2012-06-15_14.01.25     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.30.20     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.30.20     Starting scrape for bayernets_demand
+2012-06-15_14.30.25     ERROR: Can't call method "value" on an undefined value at sites/bayernets_demand.pm line 68.
+
+
+2012-06-15_14.31.20     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.31.20     Starting scrape for bayernets_demand
+2012-06-15_14.31.31     ERROR: Can't call method "value" on an undefined value at sites/bayernets_demand.pm line 68.
+
+
+2012-06-15_14.31.59     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.31.59     Starting scrape for bayernets_demand
+2012-06-15_14.32.05     Scrape completed successfully.
+2012-06-15_14.32.05     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.40.12     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.40.12     Starting scrape for bayernets_demand
+2012-06-15_14.41.03     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.41.03     Starting scrape for bayernets_demand
+2012-06-15_14.41.08     Scrape completed successfully.
+2012-06-15_14.41.08     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.41.12     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.41.12     Starting scrape for bayernets_demand
+2012-06-15_14.41.18     Scrape completed successfully.
+2012-06-15_14.41.18     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.41.21     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.41.21     Starting scrape for bayernets_demand
+2012-06-15_14.41.26     ERROR: Can't locate object method "Type" via package "Spreadsheet::ParseExcel::Cell" at sites/bayernets_demand.pm line 70.
+
+
+2012-06-15_14.41.55     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.41.55     Starting scrape for bayernets_demand
+2012-06-15_14.42.45     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.42.45     Starting scrape for bayernets_demand
+2012-06-15_14.42.51     ERROR: Can't call method "type" on an undefined value at sites/bayernets_demand.pm line 68.
+
+
+2012-06-15_14.43.05     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.43.05     Starting scrape for bayernets_demand
+2012-06-15_14.43.10     ERROR: Can't call method "type" on an undefined value at sites/bayernets_demand.pm line 68.
+
+
+2012-06-15_14.44.21     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.44.21     Starting scrape for bayernets_demand
+2012-06-15_14.44.26     Scrape completed successfully.
+2012-06-15_14.44.26     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.45.17     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.45.17     Starting scrape for bayernets_demand
+2012-06-15_14.49.28     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.49.28     Starting scrape for bayernets_demand
+2012-06-15_14.50.07     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.50.07     Starting scrape for bayernets_demand
+2012-06-15_14.51.46     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.51.46     Starting scrape for bayernets_demand
+2012-06-15_14.51.51     Scrape completed successfully.
+2012-06-15_14.51.51     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-15_14.52.15     SCRIPT bayernets_demand has been INVOKED
+2012-06-15_14.52.15     Starting scrape for bayernets_demand
+2012-06-15_14.52.20     Scrape completed successfully.
+2012-06-15_14.52.20     SCRIPT bayernets_demand has FINISHED OK
+
+2012-06-17_01.22.37     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_01.22.37     Starting scrape for bayernets_flows
+2012-06-17_01.22.39     Scrape completed successfully.
+2012-06-17_01.22.39     SCRIPT bayernets_flows has FINISHED OK
+
+2012-06-17_01.32.14     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_01.32.14     Starting scrape for bayernets_flows
+2012-06-17_01.32.32     Scrape completed successfully.
+2012-06-17_01.32.32     SCRIPT bayernets_flows has FINISHED OK
+
+2012-06-17_11.00.21     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.00.21     Starting scrape for bayernets_flows
+2012-06-17_11.30.58     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.30.58     Starting scrape for bayernets_flows
+2012-06-17_11.31.14     ERROR: Can't call method "type" on an undefined value at sites/bayernets_flows.pm line 78.
+
+
+2012-06-17_11.32.47     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.32.47     Starting scrape for bayernets_flows
+2012-06-17_11.33.03     ERROR: Can't call method "type" on an undefined value at sites/bayernets_flows.pm line 78.
+
+
+2012-06-17_11.36.33     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.36.33     Starting scrape for bayernets_flows
+2012-06-17_11.36.51     ERROR: Can't call method "unformatted" on an undefined value at sites/bayernets_flows.pm line 94.
+
+
+2012-06-17_11.37.19     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.37.19     Starting scrape for bayernets_flows
+2012-06-17_11.37.38     ERROR: Can't call method "unformatted" on an undefined value at sites/bayernets_flows.pm line 94.
+
+
+2012-06-17_11.38.07     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.38.07     Starting scrape for bayernets_flows
+2012-06-17_11.38.23     ERROR: Can't call method "unformatted" on an undefined value at sites/bayernets_flows.pm line 94.
+
+
+2012-06-17_11.39.51     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_11.39.51     Starting scrape for bayernets_flows
+2012-06-17_16.33.50     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_16.33.50     Starting scrape for bayernets_flows
+2012-06-17_16.34.11     Scrape completed successfully.
+2012-06-17_16.34.11     SCRIPT bayernets_flows has FINISHED OK
+
+2012-06-17_16.35.06     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_16.35.06     Starting scrape for bayernets_flows
+2012-06-17_16.35.23     Scrape completed successfully.
+2012-06-17_16.35.23     SCRIPT bayernets_flows has FINISHED OK
+
+2012-06-17_16.35.42     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_16.35.42     Starting scrape for bayernets_flows
+2012-06-17_16.36.44     SCRIPT bayernets_flows has been INVOKED
+2012-06-17_16.36.44     Starting scrape for bayernets_flows
+2012-06-19_18.06.31     SCRIPT fits has been INVOKED
+2012-06-19_18.06.31     Starting scrape for fits
+2012-06-19_18.06.32     Scrape completed successfully.
+2012-06-19_18.06.32     SCRIPT fits has FINISHED OK
+
+2012-06-19_18.06.51     SCRIPT fits has been INVOKED
+2012-06-19_18.06.51     Starting scrape for fits
+2012-06-19_18.10.33     SCRIPT fits has been INVOKED
+2012-06-19_18.10.33     Starting scrape for fits
+2012-06-19_18.12.28     SCRIPT fits has been INVOKED
+2012-06-19_18.12.28     Starting scrape for fits
+2012-06-19_18.23.49     SCRIPT fits has been INVOKED
+2012-06-19_18.23.49     Starting scrape for fits
+2012-06-19_18.23.52     ERROR: Can't call method "row_range" on an undefined value at sites/fits.pm line 60.
+
+
+2012-06-19_18.24.11     SCRIPT fits has been INVOKED
+2012-06-19_18.24.11     Starting scrape for fits
+2012-06-20_19.50.57     SCRIPT fits has been INVOKED
+2012-06-20_19.50.57     Starting scrape for fits
+2012-06-20_19.51.06     Scrape completed successfully.
+2012-06-20_19.51.06     SCRIPT fits has FINISHED OK
+
+2012-06-21_18.48.55     SCRIPT fits has been INVOKED
+2012-06-21_18.48.55     Starting scrape for fits
+2012-06-21_18.48.58     Scrape completed successfully.
+2012-06-21_18.48.58     SCRIPT fits has FINISHED OK
+
+2012-06-21_21.13.09     SCRIPT fits has been INVOKED
+2012-06-21_21.13.09     Starting scrape for fits
+2012-06-21_21.13.18     Scrape completed successfully.
+2012-06-21_21.13.18     SCRIPT fits has FINISHED OK
+
+2012-06-21_21.13.33     SCRIPT fits has been INVOKED
+2012-06-21_21.13.33     Starting scrape for fits
+2012-06-21_21.13.41     Scrape completed successfully.
+2012-06-21_21.13.41     SCRIPT fits has FINISHED OK
+
+2012-06-21_21.14.55     SCRIPT fits has been INVOKED
+2012-06-21_21.14.55     Starting scrape for fits
+2012-06-21_21.15.07     Scrape completed successfully.
+2012-06-21_21.15.07     SCRIPT fits has FINISHED OK
+
+2012-07-01_17.33.03     SCRIPT wmo has been INVOKED
+2012-07-01_17.33.03     Starting scrape for wmo
+2012-07-01_17.35.43     SCRIPT wmo has been INVOKED
+2012-07-01_17.35.43     Starting scrape for wmo
+2012-07-01_17.35.51     Scrape completed successfully.
+2012-07-01_17.35.51     SCRIPT wmo has FINISHED OK
+
+2012-07-01_17.44.36     SCRIPT wmo has been INVOKED
+2012-07-01_17.44.36     Starting scrape for wmo
+2012-07-01_17.44.39     Scrape completed successfully.
+2012-07-01_17.44.39     SCRIPT wmo has FINISHED OK
+
+2012-07-10_11.45.27     SCRIPT fits_2 has been INVOKED
+2012-07-10_11.45.27     Starting scrape for fits_2
+2012-07-10_11.45.28     Scrape completed successfully.
+2012-07-10_11.45.28     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_11.45.43     SCRIPT fits_2 has been INVOKED
+2012-07-10_11.45.43     Starting scrape for fits_2
+2012-07-10_11.45.44     Scrape completed successfully.
+2012-07-10_11.45.44     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_11.53.57     SCRIPT fits_2 has been INVOKED
+2012-07-10_11.53.57     Starting scrape for fits_2
+2012-07-10_11.54.00     Scrape completed successfully.
+2012-07-10_11.54.00     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_12.12.05     SCRIPT fits_2 has been INVOKED
+2012-07-10_12.12.05     Starting scrape for fits_2
+2012-07-10_12.12.08     Scrape completed successfully.
+2012-07-10_12.12.08     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_12.30.50     SCRIPT fits_2 has been INVOKED
+2012-07-10_12.30.50     Starting scrape for fits_2
+2012-07-10_12.30.53     ERROR: Can't use string ("0") as a SCALAR ref while "strict refs" in use at sites/fits_2.pm line 152.
+
+
+2012-07-10_12.31.10     SCRIPT fits_2 has been INVOKED
+2012-07-10_12.31.10     Starting scrape for fits_2
+2012-07-10_12.31.14     Scrape completed successfully.
+2012-07-10_12.31.14     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_12.31.19     SCRIPT fits_2 has been INVOKED
+2012-07-10_12.31.19     Starting scrape for fits_2
+2012-07-10_12.31.21     Scrape completed successfully.
+2012-07-10_12.31.21     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_12.33.30     SCRIPT fits_2 has been INVOKED
+2012-07-10_12.33.30     Starting scrape for fits_2
+2012-07-10_12.33.33     Scrape completed successfully.
+2012-07-10_12.33.33     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_12.57.53     SCRIPT fits_2 has been INVOKED
+2012-07-10_12.57.53     Starting scrape for fits_2
+2012-07-10_12.57.55     ERROR: Invalid number of days at sites/fits_2.pm line 156
+
+
+2012-07-10_13.01.17     SCRIPT fits_2 has been INVOKED
+2012-07-10_13.01.17     Starting scrape for fits_2
+2012-07-10_13.01.19     ERROR: Invalid number of days at sites/fits_2.pm line 161
+
+
+2012-07-10_13.16.03     SCRIPT fits_2 has been INVOKED
+2012-07-10_13.16.03     Starting scrape for fits_2
+2012-07-10_13.16.05     ERROR: Can't call method "unformatted" on an undefined value at sites/fits_2.pm line 157.
+
+
+2012-07-10_13.17.09     SCRIPT fits_2 has been INVOKED
+2012-07-10_13.17.09     Starting scrape for fits_2
+2012-07-10_13.17.12     ERROR: Invalid number of days at sites/fits_2.pm line 166
+
+
+2012-07-10_13.19.13     SCRIPT fits_2 has been INVOKED
+2012-07-10_13.19.13     Starting scrape for fits_2
+2012-07-10_13.19.16     Scrape completed successfully.
+2012-07-10_13.19.16     SCRIPT fits_2 has FINISHED OK
+
+2012-07-10_13.23.51     SCRIPT fits_2 has been INVOKED
+2012-07-10_13.23.51     Starting scrape for fits_2
+2012-07-10_13.23.54     Scrape completed successfully.
+2012-07-10_13.23.54     SCRIPT fits_2 has FINISHED OK
+
+2012-07-12_11.12.39     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-12_11.12.40     Starting scrape for gasunie_zuidwending
+2012-07-12_11.12.41     Scrape completed successfully.
+2012-07-12_11.12.41     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-12_11.13.50     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-12_11.13.50     Starting scrape for gasunie_zuidwending
+2012-07-12_11.13.50     Scrape completed successfully.
+2012-07-12_11.13.50     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.23.13     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.23.14     Starting scrape for gasunie_zuidwending
+2012-07-14_21.23.15     Scrape completed successfully.
+2012-07-14_21.23.15     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.23.24     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.23.24     Starting scrape for gasunie_zuidwending
+2012-07-14_21.23.24     Scrape completed successfully.
+2012-07-14_21.23.24     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.43.45     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.43.45     Starting scrape for gasunie_zuidwending
+2012-07-14_21.43.46     Scrape completed successfully.
+2012-07-14_21.43.46     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.44.31     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.44.31     Starting scrape for gasunie_zuidwending
+2012-07-14_21.44.33     Scrape completed successfully.
+2012-07-14_21.44.33     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.47.00     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.47.00     Starting scrape for gasunie_zuidwending
+2012-07-14_21.47.02     Scrape completed successfully.
+2012-07-14_21.47.02     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.48.14     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.48.14     Starting scrape for gasunie_zuidwending
+2012-07-14_21.48.17     Scrape completed successfully.
+2012-07-14_21.48.17     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.48.55     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.48.55     Starting scrape for gasunie_zuidwending
+2012-07-14_21.48.56     Scrape completed successfully.
+2012-07-14_21.48.56     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.49.35     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.49.35     Starting scrape for gasunie_zuidwending
+2012-07-14_21.49.38     Scrape completed successfully.
+2012-07-14_21.49.38     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.50.09     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.50.09     Starting scrape for gasunie_zuidwending
+2012-07-14_21.50.11     Scrape completed successfully.
+2012-07-14_21.50.11     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.50.49     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.50.49     Starting scrape for gasunie_zuidwending
+2012-07-14_21.50.50     Scrape completed successfully.
+2012-07-14_21.50.50     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_21.58.56     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_21.58.56     Starting scrape for gasunie_zuidwending
+2012-07-14_21.58.58     Scrape completed successfully.
+2012-07-14_21.58.58     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-14_22.02.16     SCRIPT gasunie_zuidwending has been INVOKED
+2012-07-14_22.02.16     Starting scrape for gasunie_zuidwending
+2012-07-14_22.02.18     Scrape completed successfully.
+2012-07-14_22.02.18     SCRIPT gasunie_zuidwending has FINISHED OK
+
+2012-07-15_18.16.17     SCRIPT wmo has been INVOKED
+2012-07-15_18.16.17     Starting scrape for wmo
+2012-07-15_18.16.20     Scrape completed successfully.
+2012-07-15_18.16.20     SCRIPT wmo has FINISHED OK
+
+2012-07-15_18.16.49     SCRIPT wmo has been INVOKED
+2012-07-15_18.16.49     Starting scrape for wmo
+2012-07-15_18.16.51     Scrape completed successfully.
+2012-07-15_18.16.51     SCRIPT wmo has FINISHED OK
+
+2012-07-15_18.17.20     SCRIPT wmo has been INVOKED
+2012-07-15_18.17.20     Starting scrape for wmo
+2012-07-15_18.17.22     Scrape completed successfully.
+2012-07-15_18.17.22     SCRIPT wmo has FINISHED OK
+
+2012-07-15_18.43.54     SCRIPT wmo has been INVOKED
+2012-07-15_18.43.54     Starting scrape for wmo
+2012-07-15_18.43.57     Scrape completed successfully.
+2012-07-15_18.43.57     SCRIPT wmo has FINISHED OK
+
+2012-07-15_18.45.30     SCRIPT wmo has been INVOKED
+2012-07-15_18.45.30     Starting scrape for wmo
+2012-07-15_18.45.32     ERROR: Can't locate object method "attr" via package "WWW::Mechanize::Link" at sites/wmo.pm line 41.
+
+
+2012-07-15_18.46.31     SCRIPT wmo has been INVOKED
+2012-07-15_18.46.31     Starting scrape for wmo
+2012-07-15_18.46.33     Scrape completed successfully.
+2012-07-15_18.46.33     SCRIPT wmo has FINISHED OK
+
+2012-07-15_18.47.42     SCRIPT wmo has been INVOKED
+2012-07-15_18.47.42     Starting scrape for wmo
+2012-07-15_18.49.37     SCRIPT wmo has been INVOKED
+2012-07-15_18.49.37     Starting scrape for wmo
+2012-07-15_18.49.43     ERROR: Error GETing http://worldweather.wmo.int/018/006/m006.htm: Not found at sites/wmo.pm line 42
+
+
+2012-07-15_19.04.40     SCRIPT wmo has been INVOKED
+2012-07-15_19.04.41     Starting scrape for wmo
+2012-07-19_18.22.35     SCRIPT wmo has been INVOKED
+2012-07-19_18.22.35     Starting scrape for wmo
+2012-07-19_18.23.19     SCRIPT wmo has been INVOKED
+2012-07-19_18.23.19     Starting scrape for wmo
+2012-07-19_18.23.39     ERROR: Error GETing http://worldweather.wmo.int/018/006/m006.htm: Not found at sites/wmo.pm line 42
+
+
+2012-07-19_18.26.59     SCRIPT wmo has been INVOKED
+2012-07-19_18.26.59     Starting scrape for wmo
+2012-07-19_18.44.23     SCRIPT wmo has been INVOKED
+2012-07-19_18.44.23     Starting scrape for wmo
+2012-07-19_19.42.10     Scrape completed successfully.
+2012-07-19_19.42.11     SCRIPT wmo has FINISHED OK
+
+2012-07-19_19.48.38     SCRIPT wmo has been INVOKED
+2012-07-19_19.48.38     Starting scrape for wmo
+2012-07-19_19.49.15     SCRIPT wmo has been INVOKED
+2012-07-19_19.49.15     Starting scrape for wmo
+2012-07-19_19.50.41     SCRIPT wmo has been INVOKED
+2012-07-19_19.50.41     Starting scrape for wmo
+2012-07-19_20.14.35     Scrape completed successfully.
+2012-07-19_20.14.35     SCRIPT wmo has FINISHED OK
+
+2012-07-19_21.00.29     SCRIPT wmo has been INVOKED
+2012-07-19_21.00.29     Starting scrape for wmo
+2012-07-19_21.01.26     SCRIPT wmo has been INVOKED
+2012-07-19_21.01.26     Starting scrape for wmo
+2012-07-19_21.03.17     SCRIPT wmo has been INVOKED
+2012-07-19_21.03.17     Starting scrape for wmo
+2012-07-19_21.04.01     SCRIPT wmo has been INVOKED
+2012-07-19_21.04.01     Starting scrape for wmo
+2012-07-19_21.04.43     SCRIPT wmo has been INVOKED
+2012-07-19_21.04.43     Starting scrape for wmo
+2012-07-19_21.05.31     SCRIPT wmo has been INVOKED
+2012-07-19_21.05.31     Starting scrape for wmo
+2012-07-19_21.07.05     SCRIPT wmo has been INVOKED
+2012-07-19_21.07.05     Starting scrape for wmo
+2012-07-19_21.15.06     SCRIPT wmo has been INVOKED
+2012-07-19_21.15.06     Starting scrape for wmo
+2012-07-19_21.43.20     Scrape completed successfully.
+2012-07-19_21.43.21     SCRIPT wmo has FINISHED OK
+
+2012-07-23_15.46.58     SCRIPT grtgaz_daily has been INVOKED
+2012-07-23_15.46.59     Starting scrape for grtgaz_daily
+2012-07-23_15.47.01     ERROR: Can't call method "content" on an undefined value at sites/grtgaz_daily.pm line 36.
+
+
+2012-07-23_15.47.21     SCRIPT grtgaz_daily has been INVOKED
+2012-07-23_15.47.21     Starting scrape for grtgaz_daily
+2012-07-23_15.47.21     Scrape completed successfully.
+2012-07-23_15.47.21     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-23_15.52.36     SCRIPT grtgaz_daily has been INVOKED
+2012-07-23_15.52.36     Starting scrape for grtgaz_daily
+2012-07-23_15.52.37     Scrape completed successfully.
+2012-07-23_15.52.37     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_13.43.51     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.43.52     Starting scrape for grtgaz_daily
+2012-07-29_13.43.56     Scrape completed successfully.
+2012-07-29_13.43.56     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_13.44.25     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.44.25     Starting scrape for grtgaz_daily
+2012-07-29_13.44.25     Scrape completed successfully.
+2012-07-29_13.44.25     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_13.45.57     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.45.57     Starting scrape for grtgaz_daily
+2012-07-29_13.45.58     Scrape completed successfully.
+2012-07-29_13.45.58     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_13.48.06     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.48.06     Starting scrape for grtgaz_daily
+2012-07-29_13.48.06     Scrape completed successfully.
+2012-07-29_13.48.06     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_13.53.07     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.53.07     Starting scrape for grtgaz_daily
+2012-07-29_13.53.07     ERROR: Can't locate object method "get" via package "ShowContent?ID=120807004&cmoflag=-451974810580034619" (perhaps you forgot to load "ShowContent?ID=120807004&cmoflag=-451974810580034619"?) at sites/grtgaz_daily.pm line 41.
+
+
+2012-07-29_13.54.01     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.54.01     Starting scrape for grtgaz_daily
+2012-07-29_13.54.02     ERROR: Not a HASH reference at sites/grtgaz_daily.pm line 41.
+
+
+2012-07-29_13.54.16     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.54.16     Starting scrape for grtgaz_daily
+2012-07-29_13.54.16     ERROR: Can't locate object method "get" via package "WWW::Mechanize::Link" at sites/grtgaz_daily.pm line 41.
+
+
+2012-07-29_13.57.08     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_13.57.08     Starting scrape for grtgaz_daily
+2012-07-29_13.57.10     Scrape completed successfully.
+2012-07-29_13.57.10     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_14.00.16     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_14.00.16     Starting scrape for grtgaz_daily
+2012-07-29_14.00.18     Scrape completed successfully.
+2012-07-29_14.00.18     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_14.01.15     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_14.01.15     Starting scrape for grtgaz_daily
+2012-07-29_14.01.17     Scrape completed successfully.
+2012-07-29_14.01.17     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_14.02.29     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_14.02.29     Starting scrape for grtgaz_daily
+2012-07-29_14.02.29     Scrape completed successfully.
+2012-07-29_14.02.29     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-07-29_14.03.15     SCRIPT grtgaz_daily has been INVOKED
+2012-07-29_14.03.15     Starting scrape for grtgaz_daily
+2012-07-29_14.03.15     Scrape completed successfully.
+2012-07-29_14.03.15     SCRIPT grtgaz_daily has FINISHED OK
+
+2012-08-12_21.59.35     SCRIPT entsoe_consumption has been INVOKED
+2012-08-12_21.59.35     Starting scrape for entsoe_consumption
+2012-08-12_21.59.38     Scrape completed successfully.
+2012-08-12_21.59.38     SCRIPT entsoe_consumption has FINISHED OK
+
+2012-08-12_22.05.49     SCRIPT entsoe_consumption has been INVOKED
+2012-08-12_22.05.49     Starting scrape for entsoe_consumption
+2012-08-12_22.05.50     Scrape completed successfully.
+2012-08-12_22.05.50     SCRIPT entsoe_consumption has FINISHED OK
+
+2012-08-12_22.30.55     SCRIPT entsoe_consumption has been INVOKED
+2012-08-12_22.30.55     Starting scrape for entsoe_consumption
+2012-08-12_22.31.36     Scrape completed successfully.
+2012-08-12_22.31.36     SCRIPT entsoe_consumption has FINISHED OK
+
+2012-08-13_10.00.00     SCRIPT entsoe_consumption has been INVOKED
+2012-08-13_10.00.00     Starting scrape for entsoe_consumption
+2012-08-13_10.00.44     Scrape completed successfully.
+2012-08-13_10.00.44     SCRIPT entsoe_consumption has FINISHED OK
+
+2012-08-13_10.26.18     SCRIPT entsoe_consumption has been INVOKED
+2012-08-13_10.26.18     Starting scrape for entsoe_consumption
+2012-08-13_10.26.52     SCRIPT entsoe_consumption has been INVOKED
+2012-08-13_10.26.52     Starting scrape for entsoe_consumption
+2012-08-13_10.27.33     Scrape completed successfully.
+2012-08-13_10.27.33     SCRIPT entsoe_consumption has FINISHED OK
+
+2012-08-13_11.04.21     SCRIPT entsoe_consumption has been INVOKED
+2012-08-13_11.04.21     Starting scrape for entsoe_consumption
+2012-08-13_11.11.30     SCRIPT entsoe_consumption has been INVOKED
+2012-08-13_11.11.30     Starting scrape for entsoe_consumption
+2012-08-13_11.19.01     SCRIPT entsoe_consumption has been INVOKED
+2012-08-13_11.19.01     Starting scrape for entsoe_consumption
+2012-08-14_11.28.55     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_11.28.55     Starting scrape for tigf_allocations_storage
+2012-08-14_11.29.39     Scrape completed successfully.
+2012-08-14_11.29.39     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_11.29.54     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_11.29.54     Starting scrape for tigf_allocations_storage
+2012-08-14_11.29.55     Scrape completed successfully.
+2012-08-14_11.29.55     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_18.55.25     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_18.55.25     Starting scrape for tigf_allocations_storage
+2012-08-14_18.55.38     Scrape completed successfully.
+2012-08-14_18.55.38     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_18.56.52     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_18.56.52     Starting scrape for tigf_allocations_storage
+2012-08-14_18.56.53     Scrape completed successfully.
+2012-08-14_18.56.53     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_20.19.13     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_20.19.13     Starting scrape for tigf_allocations_storage
+2012-08-14_20.19.14     Scrape completed successfully.
+2012-08-14_20.19.14     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_20.27.20     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_20.27.20     Starting scrape for tigf_allocations_storage
+2012-08-14_20.27.21     Scrape completed successfully.
+2012-08-14_20.27.21     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.26.39     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.26.39     Starting scrape for tigf_allocations_storage
+2012-08-14_21.26.40     Scrape completed successfully.
+2012-08-14_21.26.40     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.28.38     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.28.38     Starting scrape for tigf_allocations_storage
+2012-08-14_21.28.39     Scrape completed successfully.
+2012-08-14_21.28.39     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.30.59     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.30.59     Starting scrape for tigf_allocations_storage
+2012-08-14_21.31.05     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.31.05     Starting scrape for tigf_allocations_storage
+2012-08-14_21.37.34     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.37.34     Starting scrape for tigf_allocations_storage
+2012-08-14_21.37.34     ERROR: Link not found at sites/tigf_allocations_storage.pm line 113
+
+
+2012-08-14_21.38.11     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.38.11     Starting scrape for tigf_allocations_storage
+2012-08-14_21.38.12     Scrape completed successfully.
+2012-08-14_21.38.12     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.38.26     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.38.26     Starting scrape for tigf_allocations_storage
+2012-08-14_21.38.27     Scrape completed successfully.
+2012-08-14_21.38.27     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.40.57     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.40.57     Starting scrape for tigf_allocations_storage
+2012-08-14_21.40.58     Scrape completed successfully.
+2012-08-14_21.40.58     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.41.28     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.41.28     Starting scrape for tigf_allocations_storage
+2012-08-14_21.41.29     Scrape completed successfully.
+2012-08-14_21.41.29     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.42.08     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.42.08     Starting scrape for tigf_allocations_storage
+2012-08-14_21.42.09     Scrape completed successfully.
+2012-08-14_21.42.09     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-14_21.43.19     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-14_21.43.19     Starting scrape for tigf_allocations_storage
+2012-08-14_21.43.20     Scrape completed successfully.
+2012-08-14_21.43.20     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-15_11.09.00     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-15_11.09.00     Starting scrape for tigf_allocations_storage
+2012-08-15_11.09.02     Scrape completed successfully.
+2012-08-15_11.09.02     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-15_11.09.22     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-15_11.09.22     Starting scrape for tigf_allocations_storage
+2012-08-15_11.09.23     Scrape completed successfully.
+2012-08-15_11.09.23     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-16_18.49.47     SCRIPT ng_inst_flows_2_min has been INVOKED
+2012-08-16_18.49.47     Starting scrape for ng_inst_flows_2_min
+2012-08-16_18.49.49     Scrape completed successfully.
+2012-08-16_18.49.49     SCRIPT ng_inst_flows_2_min has FINISHED OK
+
+2012-08-16_18.50.50     SCRIPT tigf_allocations_storage has been INVOKED
+2012-08-16_18.50.50     Starting scrape for tigf_allocations_storage
+2012-08-16_18.50.51     Scrape completed successfully.
+2012-08-16_18.50.51     SCRIPT tigf_allocations_storage has FINISHED OK
+
+2012-08-16_18.52.37     SCRIPT ng_inst_flows_2_min has been INVOKED
+2012-08-16_18.52.37     Starting scrape for ng_inst_flows_2_min
+2012-08-16_18.52.41     Scrape completed successfully.
+2012-08-16_18.52.41     SCRIPT ng_inst_flows_2_min has FINISHED OK
+
+2012-08-16_21.39.09     SCRIPT ng_inst_flows_2_min has been INVOKED
+2012-08-16_21.39.09     Starting scrape for ng_inst_flows_2_min
+2012-08-16_21.39.10     Scrape completed successfully.
+2012-08-16_21.39.10     SCRIPT ng_inst_flows_2_min has FINISHED OK
+
+2012-08-16_21.39.50     SCRIPT ng_inst_flows_2_min has been INVOKED
+2012-08-16_21.39.50     Starting scrape for ng_inst_flows_2_min
+2012-08-16_21.39.54     Scrape completed successfully.
+2012-08-16_21.39.54     SCRIPT ng_inst_flows_2_min has FINISHED OK
+
+2012-09-03_13.55.04     SCRIPT ewe has been INVOKED
+2012-09-03_13.55.04     Starting scrape for ewe
+2012-09-03_13.55.04     Scrape completed successfully.
+2012-09-03_13.55.04     SCRIPT ewe has FINISHED OK
+
+2012-09-04_11.37.37     SCRIPT ewe has been INVOKED
+2012-09-04_11.37.37     Starting scrape for ewe
+2012-09-04_11.37.38     Scrape completed successfully.
+2012-09-04_11.37.38     SCRIPT ewe has FINISHED OK
+
+2012-09-04_11.37.44     SCRIPT ewe has been INVOKED
+2012-09-04_11.37.44     Starting scrape for ewe
+2012-09-04_11.37.45     Scrape completed successfully.
+2012-09-04_11.37.45     SCRIPT ewe has FINISHED OK
+
+2012-09-04_11.41.56     SCRIPT ewe has been INVOKED
+2012-09-04_11.41.56     Starting scrape for ewe
+2012-09-04_11.41.56     ERROR: Error GETing https://b2b.ewe-gasspeicher.de/GasXLastfluss/: Can't verify SSL peers without knowning which Certificate Authorities to trust at sites/ewe.pm line 36
+
+
+2012-09-04_11.45.20     SCRIPT ewe has been INVOKED
+2012-09-04_11.45.20     Starting scrape for ewe
+2012-09-04_11.45.21     Scrape completed successfully.
+2012-09-04_11.45.21     SCRIPT ewe has FINISHED OK
+
+2012-09-04_11.46.03     SCRIPT ewe has been INVOKED
+2012-09-04_11.46.03     Starting scrape for ewe
+2012-09-04_11.46.04     Scrape completed successfully.
+2012-09-04_11.46.04     SCRIPT ewe has FINISHED OK
+
+2012-09-06_13.34.27     SCRIPT ewe has been INVOKED
+2012-09-06_13.34.27     Starting scrape for ewe
+2012-09-06_13.34.27     ERROR: Undefined subroutine &Site::ewe::Add_Delta_days called at sites/ewe.pm line 38.
+
+
+2012-09-06_13.35.37     SCRIPT ewe has been INVOKED
+2012-09-06_13.35.37     Starting scrape for ewe
+2012-09-06_13.35.38     Scrape completed successfully.
+2012-09-06_13.35.38     SCRIPT ewe has FINISHED OK
+
+2012-09-06_13.36.13     SCRIPT ewe has been INVOKED
+2012-09-06_13.36.13     Starting scrape for ewe
+2012-09-06_13.36.14     Scrape completed successfully.
+2012-09-06_13.36.14     SCRIPT ewe has FINISHED OK
+
+2012-09-06_15.36.16     SCRIPT ewe has been INVOKED
+2012-09-06_15.36.16     Starting scrape for ewe
+2012-09-06_15.36.17     ERROR: Error POSTing https://b2b.ewe-gasspeicher.de/GasXLastfluss/: Internal Server Error at sites/ewe.pm line 48
+
+
+2012-09-09_12.34.11     SCRIPT ewe has been INVOKED
+2012-09-09_12.34.11     Starting scrape for ewe
+2012-09-09_12.34.14     ERROR: Error POSTing https://b2b.ewe-gasspeicher.de/GasXLastfluss/: Internal Server Error at sites/ewe.pm line 50
+
+
+2012-09-09_14.34.47     SCRIPT ewe has been INVOKED
+2012-09-09_14.34.47     Starting scrape for ewe
+2012-09-09_14.34.53     Scrape completed successfully.
+2012-09-09_14.34.53     SCRIPT ewe has FINISHED OK
+
+2012-09-09_18.40.04     SCRIPT ewe has been INVOKED
+2012-09-09_18.40.04     Starting scrape for ewe
+2012-09-09_18.40.05     Scrape completed successfully.
+2012-09-09_18.40.05     SCRIPT ewe has FINISHED OK
+
+2012-09-09_18.40.15     SCRIPT ewe has been INVOKED
+2012-09-09_18.40.15     Starting scrape for ewe
+2012-09-09_18.40.25     Scrape completed successfully.
+2012-09-09_18.40.25     SCRIPT ewe has FINISHED OK
+
+2012-09-09_19.26.20     SCRIPT fits has been INVOKED
+2012-09-09_19.26.20     Starting scrape for fits
+2012-09-09_19.26.22     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_14.57.39     SCRIPT fits has been INVOKED
+2012-09-10_14.57.39     Starting scrape for fits
+2012-09-10_14.57.41     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.00.31     SCRIPT fits has been INVOKED
+2012-09-10_15.00.31     Starting scrape for fits
+2012-09-10_15.00.33     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.03.08     SCRIPT fits has been INVOKED
+2012-09-10_15.03.08     Starting scrape for fits
+2012-09-10_15.03.10     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.27.54     SCRIPT fits has been INVOKED
+2012-09-10_15.27.54     Starting scrape for fits
+2012-09-10_15.27.56     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.30.16     SCRIPT fits has been INVOKED
+2012-09-10_15.30.16     Starting scrape for fits
+2012-09-10_15.30.18     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.32.34     SCRIPT fits has been INVOKED
+2012-09-10_15.32.34     Starting scrape for fits
+2012-09-10_15.32.36     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.36.00     SCRIPT fits has been INVOKED
+2012-09-10_15.36.00     Starting scrape for fits
+2012-09-10_15.36.02     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-10_15.39.40     SCRIPT fits has been INVOKED
+2012-09-10_15.39.40     Starting scrape for fits
+2012-09-10_15.39.41     ERROR: Can't call method "value" on an undefined value at sites/fits.pm line 215.
+
+
+2012-09-17_12.51.40     SCRIPT fits_2 has been INVOKED
+2012-09-17_12.51.40     Starting scrape for fits_2
+2012-09-17_12.51.41     ERROR: Link not found at sites/fits_2.pm line 49
+
+
+2012-09-17_12.54.04     SCRIPT fits_2 has been INVOKED
+2012-09-17_12.54.04     Starting scrape for fits_2
+2012-09-17_12.54.06     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 117.
+
+
+2012-09-17_15.18.42     SCRIPT fits_2 has been INVOKED
+2012-09-17_15.18.42     Starting scrape for fits_2
+2012-09-17_15.18.48     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 117.
+
+
+2012-09-17_15.20.45     SCRIPT fits_2 has been INVOKED
+2012-09-17_15.20.45     Starting scrape for fits_2
+2012-09-17_15.20.47     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 117.
+
+
+2012-09-17_15.37.38     SCRIPT fits_2 has been INVOKED
+2012-09-17_15.37.38     Starting scrape for fits_2
+2012-09-17_15.37.40     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 117.
+
+
+2012-09-17_15.45.43     SCRIPT fits_2 has been INVOKED
+2012-09-17_15.45.43     Starting scrape for fits_2
+2012-09-17_15.45.46     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 116.
+
+
+2012-09-17_15.47.03     SCRIPT fits_2 has been INVOKED
+2012-09-17_15.47.03     Starting scrape for fits_2
+2012-09-17_15.47.05     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 116.
+
+
+2012-09-17_15.49.03     SCRIPT fits_2 has been INVOKED
+2012-09-17_15.49.03     Starting scrape for fits_2
+2012-09-17_15.49.05     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 118.
+
+
+2012-09-18_13.52.29     SCRIPT ewe has been INVOKED
+2012-09-18_13.52.29     Starting scrape for ewe
+2012-09-18_13.52.30     Scrape completed successfully.
+2012-09-18_13.52.30     SCRIPT ewe has FINISHED OK
+
+2012-09-18_13.53.20     SCRIPT ewe has been INVOKED
+2012-09-18_13.53.20     Starting scrape for ewe
+2012-09-18_13.53.21     Scrape completed successfully.
+2012-09-18_13.53.21     SCRIPT ewe has FINISHED OK
+
+2012-09-18_13.54.35     SCRIPT ewe has been INVOKED
+2012-09-18_13.54.35     Starting scrape for ewe
+2012-09-18_13.54.35     Scrape completed successfully.
+2012-09-18_13.54.35     SCRIPT ewe has FINISHED OK
+
+2012-09-18_18.41.16     SCRIPT ewe has been INVOKED
+2012-09-18_18.41.16     Starting scrape for ewe
+2012-09-18_18.41.25     Scrape completed successfully.
+2012-09-18_18.41.25     SCRIPT ewe has FINISHED OK
+
+2012-09-18_19.23.40     SCRIPT ewe has been INVOKED
+2012-09-18_19.23.40     Starting scrape for ewe
+2012-09-18_19.23.49     Scrape completed successfully.
+2012-09-18_19.23.49     SCRIPT ewe has FINISHED OK
+
+2012-09-18_19.36.35     SCRIPT ewe has been INVOKED
+2012-09-18_19.36.35     Starting scrape for ewe
+2012-09-18_19.36.41     Scrape completed successfully.
+2012-09-18_19.36.41     SCRIPT ewe has FINISHED OK
+
+2012-09-18_19.50.37     SCRIPT ewe has been INVOKED
+2012-09-18_19.50.37     Starting scrape for ewe
+2012-09-18_19.50.52     Scrape completed successfully.
+2012-09-18_19.50.52     SCRIPT ewe has FINISHED OK
+
+2012-09-18_19.51.56     SCRIPT ewe has been INVOKED
+2012-09-18_19.51.56     Starting scrape for ewe
+2012-09-18_19.51.59     Scrape completed successfully.
+2012-09-18_19.51.59     SCRIPT ewe has FINISHED OK
+
+2012-09-18_20.08.09     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.08.09     Starting scrape for fits_2
+2012-09-18_20.08.13     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 117.
+
+
+2012-09-18_20.12.00     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.12.00     Starting scrape for fits_2
+2012-09-18_20.12.06     ERROR: Can't call method "value" on an undefined value at sites/fits_2.pm line 117.
+
+
+2012-09-18_20.17.49     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.17.49     Starting scrape for fits_2
+2012-09-18_20.17.59     ERROR: Can't call method "row_range" on an undefined value at sites/fits_2.pm line 157.
+
+
+2012-09-18_20.19.02     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.19.02     Starting scrape for fits_2
+2012-09-18_20.19.15     ERROR: Can't call method "row_range" on an undefined value at sites/fits_2.pm line 157.
+
+
+2012-09-18_20.19.17     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.19.17     Starting scrape for fits_2
+2012-09-18_20.19.27     ERROR: Can't call method "row_range" on an undefined value at sites/fits_2.pm line 155.
+
+
+2012-09-18_20.23.13     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.23.13     Starting scrape for fits_2
+2012-09-18_20.23.25     ERROR: Invalid number of days at sites/fits_2.pm line 170
+
+
+2012-09-18_20.24.20     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.24.20     Starting scrape for fits_2
+2012-09-18_20.24.29     ERROR: Invalid number of days at sites/fits_2.pm line 170
+
+
+2012-09-18_20.27.06     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.27.06     Starting scrape for fits_2
+2012-09-18_20.27.13     ERROR: Invalid number of days at sites/fits_2.pm line 171
+
+
+2012-09-18_20.27.57     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.27.57     Starting scrape for fits_2
+2012-09-18_20.28.06     ERROR: Invalid number of days at sites/fits_2.pm line 171
+
+
+2012-09-18_20.30.46     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.30.46     Starting scrape for fits_2
+2012-09-18_20.30.52     Scrape completed successfully.
+2012-09-18_20.30.52     SCRIPT fits_2 has FINISHED OK
+
+2012-09-18_20.31.00     SCRIPT fits_2 has been INVOKED
+2012-09-18_20.31.00     Starting scrape for fits_2
+2012-09-18_20.31.05     Scrape completed successfully.
+2012-09-18_20.31.05     SCRIPT fits_2 has FINISHED OK
+
+2012-09-25_12.20.44     SCRIPT ewe has been INVOKED
+2012-09-25_12.20.44     Starting scrape for ewe
+2012-09-25_12.20.46     Scrape completed successfully.
+2012-09-25_12.20.46     SCRIPT ewe has FINISHED OK
+
+2012-09-25_12.21.25     SCRIPT ewe has been INVOKED
+2012-09-25_12.21.25     Starting scrape for ewe
+2012-09-25_12.21.26     Scrape completed successfully.
+2012-09-25_12.21.26     SCRIPT ewe has FINISHED OK
+
+2012-09-25_12.23.19     SCRIPT ewe has been INVOKED
+2012-09-25_12.23.19     Starting scrape for ewe
+2012-09-25_12.23.21     Scrape completed successfully.
+2012-09-25_12.23.21     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.22.38     SCRIPT ewe has been INVOKED
+2012-09-25_13.22.38     Starting scrape for ewe
+2012-09-25_13.22.39     Scrape completed successfully.
+2012-09-25_13.22.39     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.24.43     SCRIPT ewe has been INVOKED
+2012-09-25_13.24.43     Starting scrape for ewe
+2012-09-25_13.24.44     Scrape completed successfully.
+2012-09-25_13.24.44     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.34.03     SCRIPT ewe has been INVOKED
+2012-09-25_13.34.03     Starting scrape for ewe
+2012-09-25_13.34.04     Scrape completed successfully.
+2012-09-25_13.34.04     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.35.34     SCRIPT ewe has been INVOKED
+2012-09-25_13.35.34     Starting scrape for ewe
+2012-09-25_13.35.35     Scrape completed successfully.
+2012-09-25_13.35.35     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.36.02     SCRIPT ewe has been INVOKED
+2012-09-25_13.36.02     Starting scrape for ewe
+2012-09-25_13.36.06     Scrape completed successfully.
+2012-09-25_13.36.06     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.36.43     SCRIPT ewe has been INVOKED
+2012-09-25_13.36.43     Starting scrape for ewe
+2012-09-25_13.36.44     Scrape completed successfully.
+2012-09-25_13.36.44     SCRIPT ewe has FINISHED OK
+
+2012-09-25_13.54.15     SCRIPT ewe has been INVOKED
+2012-09-25_13.54.15     Starting scrape for ewe
+2012-09-25_13.54.16     Scrape completed successfully.
+2012-09-25_13.54.16     SCRIPT ewe has FINISHED OK
+
+2012-09-25_14.07.19     SCRIPT ewe has been INVOKED
+2012-09-25_14.07.19     Starting scrape for ewe
+2012-09-25_14.07.19     Scrape completed successfully.
+2012-09-25_14.07.19     SCRIPT ewe has FINISHED OK
+
+2012-09-25_14.26.05     SCRIPT ewe has been INVOKED
+2012-09-25_14.26.05     Starting scrape for ewe
+2012-09-25_14.26.06     Scrape completed successfully.
+2012-09-25_14.26.06     SCRIPT ewe has FINISHED OK
+
+2012-09-25_14.29.52     SCRIPT ewe has been INVOKED
+2012-09-25_14.29.52     Starting scrape for ewe
+2012-09-25_14.29.53     Scrape completed successfully.
+2012-09-25_14.29.53     SCRIPT ewe has FINISHED OK
+
+2012-09-25_14.34.46     SCRIPT ewe has been INVOKED
+2012-09-25_14.34.46     Starting scrape for ewe
+2012-09-25_14.34.50     Scrape completed successfully.
+2012-09-25_14.34.50     SCRIPT ewe has FINISHED OK
+
+2012-09-25_14.38.04     SCRIPT ewe has been INVOKED
+2012-09-25_14.38.04     Starting scrape for ewe
+2012-09-25_14.38.05     Scrape completed successfully.
+2012-09-25_14.38.05     SCRIPT ewe has FINISHED OK
+

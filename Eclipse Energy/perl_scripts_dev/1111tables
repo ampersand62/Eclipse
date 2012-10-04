@@ -1,0 +1,1702 @@
+$VAR1 = [
+          {
+            'width' => '780',
+            'align' => 'center',
+            'background' => '../image/head_bg3.gif',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '39%',
+                                         'valign' => 'top',
+                                         'background' => '../image/logo.gif',
+                                         'data' => '<div align="right"><img src="../image/logoEng.gif" width="350" height="80"></div>'
+                                       },
+                                       {
+                                         'width' => '61%',
+                                         'valign' => 'top',
+                                         'data' => '
+        '
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ],
+            'height' => '80',
+            'border' => '0',
+            'cellspacing' => '0',
+            'cellpadding' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '49%',
+                                         'height' => '60'
+                                       },
+                                       {
+                                         'width' => '17%',
+                                         'data' => '<a href="javascript:history.go(-1);" onMouseOver="MM_swapImage(\'Image2\',\'\',\'../image/bu_back2.gif\',1)" onMouseOut="MM_swapImgRestore()"><img src="../image/bu_back1.gif" name="Image2" width="47" height="47" border="0" id="Image2" alt="Back"></a>'
+                                       },
+                                       {
+                                         'width' => '17%',
+                                         'data' => '<a href="../indexEng.jsp" onMouseOver="MM_swapImage(\'Image1\',\'\',\'../image/bu_home2.gif\',1)" onMouseOut="MM_swapImgRestore()"><img src="../image/bu_home1.gif" name="Image1" width="47" height="47" border="0" id="Image1" alt="Home"></a>'
+                                       },
+                                       {
+                                         'width' => '17%',
+                                         'data' => '<a href="javascript:history.go(+1);" onMouseOver="MM_swapImage(\'Image3\',\'\',\'../image/bu_next2.gif\',1)" onMouseOut="MM_swapImgRestore()"><img src="../image/bu_next1.gif" name="Image3" width="47" height="47" border="0" id="Image3" alt="Next"></a>'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '4',
+                                         'data' => ' '
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'height' => '80',
+            'border' => '0'
+          },
+          {
+            'width' => '780',
+            'align' => 'center',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '22%',
+                                         'bgcolor' => '#294994',
+                                         'data' => '<html>
+<head>
+<title>>> Thai Customs <<</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874">
+<style type="text/css">
+<!--
+a:link {color: #005CA2;	text-decoration: none;font-size: 14px;}
+a:visited { color: #005CA2; text-decoration: none;font-size: 14px;}
+a:active { color: #0099FF; text-decoration: none;font-size: 14px;}
+a:hover { color: #FF6600; text-decoration: none;font-size: 14px;}
+
+TD.gen	{font-size: 14px; stye:bold}
+TD.gen 	 A:link {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH: 100%;
+	 COLOR: black;  	 text-decoration: none;}
+TD.gen 	 A:visited {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH:100%; COLOR: navy;
+	 text-decoration: none}
+TD.gen 	 A:hover {
+	 COLOR: #993300;
+	 BACKGROUND-COLOR:#FFFFFF;
+	 text-decoration: none}
+	 
+TD.gene	{font-size: 14px; stye:bold}
+TD.gene 	 A:link {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH: 100%;
+	 COLOR: black;  	 text-decoration: none;}
+TD.gene 	 A:visited {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH:100%; COLOR: navy;
+	 text-decoration: none}
+TD.gene 	 A:hover {
+	 COLOR: #993300;
+	 BACKGROUND-COLOR:#FCF2AD;
+	 text-decoration: none}
+
+TD.gensub	{font-size: 14px; stye:bold}
+TD.gensub 	 A:link {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH: 100%;
+	 COLOR: black;  	 text-decoration: none;}
+TD.gensub 	 A:visited {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH:100%; COLOR: navy;
+	 text-decoration: none}
+TD.gensub 	 A:hover {
+	 COLOR:navy ;
+	 BACKGROUND-COLOR:#E0E6FE;
+	 text-decoration: none}
+
+.buttongreen	{color:#330099;
+	 background-color:#DCFAF1;
+	 border: #1CC492;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+.buttonyellow	{color:#330099;
+	 background-color:#F1E2E2;
+	 border: #990066;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+
+.buttonyellow1	{color:#330099;
+	 background-color:#FCF9E0;
+	 border: #EFBD10;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+.buttonlist	{color:#330099;
+	 background-color:#E9F1F9;
+	 border: #6699CC;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+.linkmenu{cursor:hand;
+	background-color:#DCFAF1}
+-->
+</style>
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="preload();populate()">
+
+
+  '
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+      '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'bordercolor' => 'white',
+            'width' => '166',
+            'bgcolor' => '#C6D8F4',
+            'cellspacing' => '2',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '100%',
+                                         'data' => ' 
+        '
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ],
+            'border' => '1'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'data' => '<img src="../image/ico_plus.gif"  id="transicon">'
+                                       },
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => '<a href="#"><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue> 
+            <b>
+			<div style="cursor:hand" onClick="expandit(this);showhide(transdisplay,transicon);">
+&nbsp;About&nbsp;Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+            </b></font></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'bgcolor' => '#F3FEDE',
+            'align' => 'center',
+            'cellspacing' => '1',
+            'class' => 'buttongreen',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../Administrator/Historical.jsp?menuNme=AboutUs\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif" width="15" height="9"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Historical <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Background</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../Administrator/VisionMission.jsp?menuNme=AboutUs\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif" width="15" height="9"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Vision/Mission</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../Functions/Functions.jsp?menuNme=AboutUs\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif" width="15" height="9"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Functions 
+            and <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Responsibilities</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => ' <a href=\'../AdministrativeOrg/AdministrativeOrg.jsp?menuNme=AboutUs\'> 
+            <div style="cursor:hand">&nbsp;&nbsp;<img src="../image/icon_greenline.gif" width="15" height="9"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Administrative 
+              <br>
+              &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Organization</font></div>
+            </a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => ' <a href=\'../Administrator/CustomsHouse.jsp?menuNme=AboutUs\'> 
+            <div style="cursor:hand">&nbsp;&nbsp;<img src="../image/icon_greenline.gif" width="15" height="9"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Customs House</font></div>
+            </a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../RevenueCollection/RevenueCollection.jsp?menuNme=AboutUs\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif" width="15" height="9"  border=0><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>&nbsp;Revenue 
+            Collection</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'data' => '<img src="../image/ico_plus.gif"  id="cargoicon">'
+                                       },
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => '<a href="#"><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>
+            <b>
+			<div style="cursor:hand" onClick="expandit(this);showhide(cargodisplay,cargoicon);">
+			&nbsp;Import / Export&nbsp;&nbsp;</div>
+            </b></font></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'bgcolor' => '#FDEBCC',
+            'align' => 'center',
+            'cellspacing' => '1',
+            'class' => 'buttongreen',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../CargoClearance/CargoClearance.jsp?menuNme=Cargo\'>&nbsp; 
+            <img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Customs Automation System</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => ' <a href=\'../CargoClearance/CargoClearance.jsp?menuNme=Cargo#import\'> 
+            <div style="cursor:hand">&nbsp;&nbsp;<img src="../image/icon_greenline.gif" border=0  id="admicon">&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>e-Import Procedures</font></div>
+            </a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../CargoClearance/CargoClearance.jsp?menuNme=Cargo#export\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif" border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>e-Export Procedures</font> </a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif"  id="tariffnoicon">'
+                                       },
+                                       {
+                                         'data' => '<a href="#">
+	<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>
+            <b>
+		<div style="cursor:hand" onClick="expandit(this);showhide(tariffnodisplay,tariffnoicon);">
+			&nbsp;Tariff&nbsp;Nomenclature</div>
+	</b></font></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'bgcolor' => '#FDEBCC',
+            'align' => 'center',
+            'cellspacing' => '1',
+            'class' => 'buttongreen',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../TariffNomenclature/TariffNomenclature.jsp?menuNme=Tariff\'>&nbsp; 
+            <img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Overview</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => ' <a href=\'../TariffNomenclature/TariffNomenclature.jsp?menuNme=Tariff#interpretation\'> 
+            <div style="cursor:hand">&nbsp;&nbsp;<img src="../image/icon_greenline.gif" border=0  id="admicon">&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Interpretation Rules</font></div>
+            </a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../Valuation/Valuation.jsp?menuNme=Valuation"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Valuation</font></b></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../Sample/Sample.jsp?menuNme=Sample"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Sample 
+      of Duty &nbsp;Assessment</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif"  id="expicon">'
+                                       },
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => '
+	<a href="#"><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue><b>
+	<div style="cursor:hand;" onClick="expandit(this);showhide(expdisplay,expicon);">
+	&nbsp;Export Promotion &nbsp;and Privileges</div>
+      </b></font></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'bgcolor' => '#DCFAF1',
+            'align' => 'center',
+            'cellspacing' => '1',
+            'class' => 'buttongreen',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../ExportPromotion/ExportPromotion.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Overview</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../DutyDrawback/DutyDrawback.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Duty 
+            Drawback</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../Bonded/Bonded.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Bonded 
+            Warehouse</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../FreeZone/FreeZone.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Free 
+            Zone</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../EPZ/EPZ.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Industrial&nbsp;Estate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EPZ)</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../DutyExemption/DutyExemption.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Duty 
+            Exemption &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under 
+            BOI</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../Comparison/Comparison.jsp?menuNme=FreeZone\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Comparison 
+            of Tax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measures</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../PostalParcels/PostalParcels.jsp?menuNme=PostalParcels"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Postal 
+      Parcels</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif"  id="hheicon">'
+                                       },
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => '
+	<a href="../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold"><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue><b>
+		<div style="cursor:hand;"  onClick="expandit(this);showhide(hhedisplay,hheicon);">
+	&nbsp;Household Effects</div></b></font></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'bgcolor' => '#DCFAF1',
+            'align' => 'center',
+            'cellspacing' => '1',
+            'class' => 'buttongreen',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#requirement\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Requirements for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duty Free Allowance</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#document\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Documentation</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#clearance\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<a href=\'../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#contact\'>&nbsp;&nbsp;<img src="../image/icon_greenline.gif"  border=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Contact</font></a>',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif"  id="psvicon">'
+                                       },
+                                       {
+                                         'valign' => 'bottom',
+                                         'data' => '
+	<a href="#"><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue><b>
+	<div style="cursor:hand;"  onClick="expandit(this);showhide(psvdisplay,psvicon);">
+	  &nbsp;Personal&nbsp;Vehicles</div>
+      </b></font></a>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'bgcolor' => '#DCFAF1',
+            'align' => 'center',
+            'cellspacing' => '1',
+            'class' => 'buttongreen',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '
+		  <a href=\'PersonalVehiclesTemp/carImport.pdf\' target=\'_blank\'>
+			<div style="cursor:hand" onClick="expandit(tempsvdisplay);showhide(\'sub\',tempsvicon);" onMouseOver="this.style.backgroundColor =\'#ffffff\';" onMouseOut="this.style.backgroundColor =\'#DCFAF1\';">&nbsp;&nbsp;<img src="../image/ico_up.gif"  border=0   id="tempsvicon">&nbsp;<font face="MS Sans Serif, Microsoft Sans Serif" size="2">Temporary Import</font></div></a>		 ',
+                                         'class' => 'gen'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+			
+			<span id="tempsvdisplay" style="display:"> 
+			
+              ',
+                                         'class' => 'gensub'
+                                       }
+                                     ],
+                          'data' => ' 
+          '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '15%'
+                                       },
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#1\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Documentation</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => ' 
+                '
+                        },
+                        {
+                          'cells' => [
+                                       {},
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#2\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Import 
+                  Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => '
+                '
+                        },
+                        {
+                          'cells' => [
+                                       {},
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#3\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Export 
+                  Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => '
+                '
+                        },
+                        {
+                          'cells' => [
+                                       {},
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#4\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Contact</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => '
+                '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '15%'
+                                       },
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#1\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font color="#000066" size="2">Criteria 
+                  for a Permanent Import</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => ' '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '15%'
+                                       },
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#2\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Documentation</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => ' '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '15%'
+                                       },
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#3\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Import Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => ' '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '15%'
+                                       },
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#4\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Tax and Duty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assessment</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => ' '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '15%'
+                                       },
+                                       {
+                                         'data' => '<a href=\'../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#5\'>&nbsp;<IMG SRC="../image/next.gif" BORDER=0>&nbsp;<font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'>Contact</font></a>',
+                                         'class' => 'buttonlist'
+                                       }
+                                     ],
+                          'data' => ' '
+                        }
+                      ]
+          },
+          {
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../Traveller/TravelEng.jsp?menuNme=Travel"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Traveler&nbsp;<BR>&nbsp;Information&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="ATACarnet/tempImport.pdf" target="_blank"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;A.T.A carnet</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../PrivilegedGoods/PrivilegedGoods.jsp?menuNme=Diplomatic"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Privileged Goods</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">	
+	<a href="../CustomsEnforcement/CustomsEnforcement.jsp?menuNme=CusEnforce"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Customs 
+      &nbsp;Enforcement</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../Notification/Notification.jsp?menuNme=Notification"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Notification</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+	<a href="../Publication/Publication.jsp?menuNme=Publication"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Press Release</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+			<div style="cursor:hand;">
+		  <a href="../Statistic/Statistic.jsp?menuNme=Statistic"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Trade Statistics</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => '
+  '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+			<div style="cursor:hand;">
+		  <a href="http://igtf.customs.go.th/igtf/en/main_frame.jsp" target="_blank"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Integrated Tariff Database</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => '
+  '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+			<div style="cursor:hand;">
+		  <a href="../Contact/ContactUs.jsp?menuNme=ContactUs"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Contact 
+            Us</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => '
+  '
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '1',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '12',
+                                         'align' => 'center',
+                                         'data' => '<img src="../image/ico_plus.gif">'
+                                       },
+                                       {
+                                         'data' => '
+	<div style="cursor:hand;">
+  <a href="../Link/Link.jsp?menuNme=Link"><b><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\' color=darkblue>&nbsp;Link</font></b></a></div>',
+                                         'class' => 'gene'
+                                       }
+                                     ],
+                          'data' => '
+  '
+                        }
+                      ]
+          },
+          {
+            'width' => '170',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<font color=white>
+				  </font>'
+                                       }
+                                     ]
+                        }
+                      ]
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'center',
+                                         'data' => '&nbsp;'
+                                       }
+                                     ],
+                          'data' => '
+               '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'center',
+                                         'data' => '
+                  '
+                                       }
+                                     ],
+                          'data' => '
+               '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '570',
+            'align' => 'center',
+            'background' => '../image/bar.gif',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '59%',
+                                         'data' => '<div align="center"><FONT SIZE="3" COLOR="#FFFFFF"></FONT></div>'
+                                       },
+                                       {
+                                         'width' => '41%',
+                                         'data' => '
+                        <div align="center"><FONT SIZE="3" COLOR="#FFFFFF"><b>
+                           
+                           Import Statistics
+                     </b></FONT></div>'
+                                       }
+                                     ],
+                          'data' => '
+                     '
+                        }
+                      ],
+            'height' => '25',
+            'border' => '0',
+            'bgcolor' => '#FFFFFF',
+            'cellspacing' => '0',
+            'cellpadding' => '0'
+          },
+          {
+            'width' => '98%',
+            'bgcolor' => '#FFFFFF',
+            'align' => 'center',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '
+                        
+                        <font color="#FF9900" size="1" face="MS Sans Serif"><strong>&nbsp;&nbsp;</strong></font>'
+                                       }
+                                     ],
+                          'data' => '
+                     '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '<font color="#FF9900" size="1" face="MS Sans Serif"><strong>** Click <font color="#FF6600">&quot;...more&quot;</font> to drill down to HS Code 4,8 and 11 digit level headings. </strong></font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#FF3300" size="1" face="MS Sans Serif"><strong>The quantity is provided at a 11 digit level heading only. </strong></font> &nbsp;'
+                                       }
+                                     ],
+                          'data' => '
+                     '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'right',
+                                         'colspan' => '7',
+                                         'data' => 'PAGE :
+                           
+                           
+                           <a href="StatisticResult2550.jsp?page=1&statType=import&month=11&year=2011&productCodeCheck=1&productCode=27111100000&countryCheck=null&country="><font  face="MS Sans Serif, Microsoft Sans Serif"  size="3" color="#FF6600"><b>1</b></font></a>&nbsp;
+                           
+&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                     ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'data' => '
+                        
+                           
+                           '
+                                       }
+                                     ],
+                          'data' => '
+                     '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '95%',
+            'align' => 'center',
+            'style' => 'border-collapse:collapse',
+            'cellspacing' => '0',
+            'cellpadding' => '2',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '16%',
+                                         'align' => 'center',
+                                         'data' => ' <strong>HS-Code</strong>'
+                                       },
+                                       {
+                                         'width' => '15%',
+                                         'align' => 'center',
+                                         'data' => '
+                                 2711.1100.000<br>( KGM )
+                              '
+                                       },
+                                       {
+                                         'colspan' => '5',
+                                         'data' => '&nbsp;&nbsp;Petroleum gases and other gaseous hydrocarbons.Naturalgas--Naturalgas'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'HeadTable'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => '&nbsp;'
+                                       },
+                                       {
+                                         'width' => '20%',
+                                         'align' => 'center',
+                                         'colspan' => '2',
+                                         'data' => 'NOV&nbsp;
+                                 2011',
+                                         'class' => 'HeadTable1'
+                                       },
+                                       {
+                                         'width' => '25%',
+                                         'align' => 'center',
+                                         'colspan' => '2',
+                                         'data' => ' JAN&nbsp;-&nbsp;NOV&nbsp;
+                                 2011',
+                                         'class' => 'HeadTable1'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'center',
+                                         'colspan' => '3',
+                                         'data' => ' <strong>COUNTRY</strong>'
+                                       },
+                                       {
+                                         'width' => '15%',
+                                         'align' => 'center',
+                                         'data' => '<strong>Quantity</strong> '
+                                       },
+                                       {
+                                         'width' => '17%',
+                                         'align' => 'center',
+                                         'data' => ' <strong>CIF   Value</strong>(Baht)'
+                                       },
+                                       {
+                                         'width' => '15%',
+                                         'align' => 'center',
+                                         'data' => ' <strong>Quantity</strong>'
+                                       },
+                                       {
+                                         'width' => '17%',
+                                         'align' => 'center',
+                                         'data' => ' <strong>CIF   Value</strong>(Baht)'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'HeadTable2'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => ' UNITED KINGDOM'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '0'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+                                 0
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '1
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '102,730'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => ' INDONESIA'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '0'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+                                 0
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '63,453,953
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '1,685,589,143'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => ' NIGERIA'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '0'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+                                 0
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '121,419,978
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '2,736,280,538'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => ' PERU'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '64,857,655'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+                                 1,890,358,936
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '208,418,291
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '5,479,018,592'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => ' QATAR'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '0'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+                                 0
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '252,475,172
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '5,117,923,069'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'colspan' => '3',
+                                         'data' => ' RUSSIAN FEDERATION'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '0'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '
+                                 0
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '62,370,222
+                              '
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '1,238,110,628'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'txt'
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'center',
+                                         'colspan' => '3',
+                                         'data' => ' Grand&nbsp;Total'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '64,857,655'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '1,890,358,936'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '708,137,617'
+                                       },
+                                       {
+                                         'align' => 'right',
+                                         'data' => '16,257,024,700'
+                                       }
+                                     ],
+                          'valign' => 'top',
+                          'data' => '
+                              ',
+                          'class' => 'TableGray2'
+                        }
+                      ],
+            'border' => '1'
+          },
+          {
+            'width' => '780',
+            'align' => 'center',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '22%',
+                                         'bgcolor' => '#294994',
+                                         'height' => '10'
+                                       },
+                                       {
+                                         'width' => '78%',
+                                         'bgcolor' => '#FFFFFF',
+                                         'data' => '<div align="center"><a href="#top"><img src="../image/back2.gif" width="117" height="20" border="0"></a></div>',
+                                         'height' => '30'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '780',
+            'align' => 'center',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '22%',
+                                         'bgcolor' => '#294994',
+                                         'height' => '10'
+                                       },
+                                       {
+                                         'width' => '78%',
+                                         'background' => '../image/b.gif',
+                                         'height' => '10'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '780',
+            'align' => 'center',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'bgcolor' => '#294994',
+                                         'height' => '5'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'bgcolor' => '#999999',
+                                         'height' => '2'
+                                       }
+                                     ],
+                          'data' => ' 
+    '
+                        },
+                        {
+                          'cells' => [
+                                       {
+                                         'align' => 'center',
+                                         'valign' => 'top',
+                                         'background' => '../image/footbg.gif',
+                                         'data' => ' <div align="right"> 
+        
+          ',
+                                         'height' => '40'
+                                       }
+                                     ],
+                          'valign' => 'middle',
+                          'data' => ' 
+    '
+                        }
+                      ],
+            'border' => '0'
+          },
+          {
+            'width' => '100%',
+            'cellspacing' => '0',
+            'cellpadding' => '0',
+            'rows' => [
+                        {
+                          'cells' => [
+                                       {
+                                         'width' => '41%',
+                                         'data' => '&nbsp;'
+                                       },
+                                       {
+                                         'width' => '59%',
+                                         'data' => '<div align="center"><font size="2" style=\'font-size:11.0pt;font-family:"MS Sans Serif"\'><font color="#FFFFFF">Best 
+                view with IE 5.0 or higher at 800x600 pixel and text size medium</font></font> 
+              </div>',
+                                         'height' => '30'
+                                       }
+                                     ],
+                          'data' => '
+            '
+                        }
+                      ],
+            'border' => '0'
+          }
+        ];

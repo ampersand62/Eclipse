@@ -1,0 +1,65 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::bbl_flows;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+use Data::Dumper;
+
+sub key { "bbl_flows"; }
+sub name { "bbl_flows";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://info.bblcompany.com/";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+	my $mech = $self->{mech};
+	$mech->get($URL);
+# Dig into the frameset
+	$mech->follow_link( url=> 'home.aspx');
+	print Dumper($mech);
+
+=pod
+#1)	INSTRUCTIONS:
+	1)PUT ALL CODE WHICH SCRAPES A WEBSITE IN HERE.
+	2)PUT LOG MSGS IN THE CODE USING THE info(...) method from log.pm
+	3)Go to the above link, and then click on 'Flow Information' and 'Historical flow' on the left. 
+	Choose interval 'Gas Day', choose from 6am a week ago to 6am this morning, choose BST for timebase, 
+	and click 'Download data'. From the resulting spreadsheet, we want the data in start date, physical flow, forward flow and reverse flow columns.
+	4) We'd like the data in a multi-dim array which we can then load into a database.
+	
+=cut
+
+
+	#final array
+	my @data;
+	
+	#this will print the array to a file in the backup dir
+	$self->updateDB("eeg.bbl_flows",["a","b","c"],["d"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

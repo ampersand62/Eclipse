@@ -1,0 +1,63 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::india_production;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+use Data::Dumper;
+our $DEBUG = 1;
+
+sub key { "india_production"; }
+sub name { "india_production";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://petroleum.nic.in/psbody.htm";
+
+sub scrape {
+    
+    my ($mon, $year) = (localtime)[4 .. 5];
+
+    #has the mechanize object. 
+    my $self = shift;
+    
+    $self->{mech}->get($URL);
+    
+    my ($year_select) = $self->{mech}->find_all_inputs( name => 'year');
+    print Dumper($year_select->possible_values) if $DEBUG;
+
+=pod
+#1)	INSTRUCTIONS:
+1) Go to http://petroleum.nic.in/psbody.htm
+2) Select the latest year and months. We should download the last 2 months.
+3) In the resulting pdf, we want the data in the last table. Its usually on the last page, but to make sure
+please use an assertion/ regex to make sure we are on the the correct one. I think you can do it by checking if the heading start
+with "Review of Natural Gas Production".
+4) You may need a separate column in the array to distinguish onshore/offshore. The date will be another column in the array, and can be extracted from the heading too and put in format YYYY-MM-01.
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.india_production_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

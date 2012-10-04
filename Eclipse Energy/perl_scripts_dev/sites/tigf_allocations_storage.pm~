@@ -1,0 +1,60 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::tigf_allocations_storage;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "tigf_allocations_storage"; }
+sub name { "tigf_allocations_storage";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://tetra.tigf.fr/SBT/public/Allocations.do?action=listeAllocations";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+1) go to http://tetra.tigf.fr/SBT/public/Allocations.do?action=listeAllocations								
+2) 1. At the link above there is a drop down menu at the top left of the page called pulications. Select "Allocated Quantities" from the list. 
+This will present a page with tick boxes to pick which data to download. Please select: Total PITD, Total PIC, PEG, PITT-GRTGAZSUD, PITT-LARRAU, PITT-BIRIATOU  and PITS. 
+The data range can be set at the top of the page. We'd like to collect last 7 days in each run.
+3) You can get the data straight from page, or the csv/xls from the bottom of the page. Date in usual <YYYY-MM-DD> format.
+4) So we'd like the final data in: <date,point_name,point_name,entry,exit>. You'll notice that PEG has traded numbers, but just put them in entry/exit cols.
+
+1) 2. From the same publications list, select "Storage". This time all that needs to be selected is the date range, b. Again, last 7 days please.
+2) We'd like all the columns from the resulting page. So the final array should be: <date,storage,withdrawal,injection,volume>;
+
+
+
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.enagas_monthly_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

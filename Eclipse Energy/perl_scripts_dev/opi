@@ -1,0 +1,507 @@
+$VAR1 = '<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="shortcut icon" href="/images/bps.ico" >
+	<TITLE>Statistics Indonesia</TITLE>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<META NAME="keywords" CONTENT="Indonesia data statistik">
+	<META NAME="description" CONTENT="The Indonesian Statistics Homepage">
+	<link rel="stylesheet" type="text/css" href="all.css" />
+	<link rel="stylesheet" type="text/css" href="template/general/css/bps.css" />
+	
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #333333}
+.style2 {
+	color: #000000;
+	font-weight: bold;
+}
+.style3 {font-size: 18pt}
+-->
+</style>
+</head>
+
+<body class="background"  bgcolor="#999999" text="#000000" link="#000000" vlink="#000000" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages(\'images/menu_about_us_b.gif\',\'images/menu_home_b.gif\',\'images/menu_law_ethics_b.gif\',\'images/menu_service_center_b.gif\',\'images/menu_our_publications_b.gif\',\'images/menu_statistical_b.gif\',\'images/menu_monthly_inflation_rate_trend_b.gif\',\'images/menu_abstracts_and_papers_b.gif\',\'images/menu_macro_economics_statistics_b.gif\')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td width="1" valign="top" background="images/black.gif" bgcolor="#8B8B8B"><img src="images/black.gif" width="1" height="1"></td>
+    <td width="900" height="100%" valign="top" bgcolor="#8B8B8B"><table width="100%" height="108" border="0" cellpadding="0" cellspacing="0" background="template/general/images/bg_header.gif">
+      <tr>
+        <td width="60%"><img src="template/general/images/logo.jpg" width="394" height="108"></td>
+        <td width="40%" valign="bottom">
+		</div>
+		<div align="center">
+          <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td><div align="center">
+                  <form name="form1" method="post" action="aboutus.php?search=1">
+                    <label> <a href="aboutus.php?link=1"><br>
+                    Link</a> | <a href="site_map/map1.php" target="_blank">Site Map</a> | <a href="aboutus.php?comment=1">Your Comment</a> | <a href="aboutus.php?updates=1">Register </a><br>
+                    <input type="text" name="cari">
+</label>
+                    <label>
+                    <input type="submit" name="Submit" value="Search">
+                    </label>
+                  </form>
+              </div></td>
+            </tr>
+			<tr><td align="right"><a href="/">Bahasa Indonesia</a></td></tr>
+          </table></div>
+		  
+       
+    </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><a href="index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Home\',\'\',\'images/menu_home_b.gif\',1)"><img src="images/menu_home_a.gif" alt="Home" name="Home" width="252" height="28" border="0"></a><a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Home\',\'\',\'images/menu_about_us_b.gif\',1)"></a></td>
+            </tr>
+            <tr>
+              <td><a href="aboutus.php?about=0" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Tentang BPS\',\'\',\'images/menu_about_us_b.gif\',1)"><img src="images/menu_about_us_a.gif" alt="About BPS" name="Tentang BPS" width="252" height="23" border="0"></a></td>
+            </tr>
+			<tr>
+              <td><a href="aboutus.php?renstra=1" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Rencana Strategis BPS\',\'\',\'images/menu_renstra_b.gif\',1)"><img src="images/menu_renstra_a.gif" alt="BPS Strategic Plan" name="Rencana Strategis BPS" width="252" height="23" border="0"></a></td>
+            </tr>
+              <td><a href="aboutus.php?service=1" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Pusat Layanan\',\'\',\'images/menu_service_center_b.gif\',1)"><img src="images/menu_service_center_a.gif" alt="Service Center" name="Pusat Layanan" width="252" height="23" border="0"></a></td>
+            </tr>
+            
+            <tr>
+              <td><a href="aboutus.php?glos=1" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Istilah Statistik\',\'\',\'images/menu_statistical_b.gif\',1)"><img src="images/menu_statistical_a.gif" alt="Statistical Glossary" name="Istilah Statistik" width="252" height="23" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><a href="aboutus.php?fungsional=1" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'fungsional\',\'\',\'images/menu_functional_staff_b.gif\',1)"><img src="images/menu_functional_staff_a.gif" alt="Functional Staff" name="fungsional" width="252" height="23" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><a href="http://sirusa.bps.go.id" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Sistem Informasi Rujukan Statistik\',\'\',\'images/menu_sirusa_b.gif\',1)"><img src="images/menu_sirusa_a.gif" alt="Clearing House" name="Sistem Informasi Rujukan Statistik" width="252" height="23" border="0"></a></td>
+            </tr>
+            <tr>
+              <td><a href="http://www.stis.ac.id" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Sekolah Tinggi Ilmu Statistik\',\'\',\'images/menu_institute_of_stat_b.gif\',1)"><img src="images/menu_institute_of_stat_a.gif" alt="Institute of Statistics" name="Sekolah Tinggi Ilmu Statistik" width="252" height="23" border="0"></a></td>
+            </tr>
+			<tr>
+              <td><a href="http://pusdiklat.bps.go.id" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage(\'Pusat Pendidikan dan Pelatihan BPS\',\'\',\'images/menu_pusdiklat_ENG_b.gif\',1)"><img src="images/menu_pusdiklat_ENG_a.gif" alt="Pusat Pendidikan dan Pelatihan BPS" name="Pusat Pendidikan dan Pelatihan BPS" width="252" height="23" border="0"></a></td>
+            </tr>
+           </table></td>
+          <td width="648" valign="top"><img src="template/general/images/header.jpg" width="648" height="212" border="0" usemap="#Map"></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="245" valign="top" bgcolor="#CCC7B3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td bgcolor="#828977"><img src="template/general/images/statistic_by_subjects.gif" width="245" height="29"></td>
+            </tr>
+          </table><table width="100%" border="0" cellspacing="0" cellpadding="0">  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=24 "><strong>Animal Husbandry                                  </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=25 "><strong>Business & Consumer Tendency Index                </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=02 "><strong>Communication                                     </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=04 "><strong>Construction                                      </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=03 "><strong>Consumer Prices Indices                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=05 "><strong>Consumption and Expenditure                       </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=28 "><strong>Education                                         </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=06 "><strong>Employment                                        </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=07 "><strong>Energy                                            </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=22 "><strong>Farmer Terms of Trade                             </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=56 "><strong>Fishery                                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=100"><strong>Flow of Funds                                     </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="../tnmn_pgn.php?eng=1"><strong>Food Crops                                        </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="exim-frame.php"><strong>Foreign Trade                                     </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=60 "><strong>Forestry                                          </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=11 "><strong>Gross Domestic Products                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=52 "><strong>Gross Regional Domestic Products                  </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=30 "><strong>Health                                            </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=55 "><strong>Horticulture                                      </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=29 "><strong>Housing                                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=26 "><strong>Human Development Indeces                         </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=19 "><strong>Labour Wages                                      </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=09 "><strong>Manufacturing                                     </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=10 "><strong>Mining                                            </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=54 "><strong>Plantation                                        </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=12 "><strong>Population                                        </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=23 "><strong>Poverty                                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=36 "><strong>Producer Price                                    </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=13 "><strong>Public Finance                                    </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=35 "><strong>Small-Scale & Micro Establishment                 </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=27 "><strong>Social & Culture                                  </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=34 "><strong>Social Resillience                                </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=16 "><strong>Tourism                                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=17 "><strong>Transportation                                    </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+  <tr>
+    <td width="22" background="images/bg_statistics_subjects.gif"><img src="images/bg_statistics_subjects.gif" width="1" height="20"></td>
+    <td width="222" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581" class=judul><a href="aboutus.php?tabel=1&id_subyek=20 "><strong>Wholesale Price Indices                           </strong></a></td>
+    <td width="7" background="images/bg_statistics_subjects.gif" bgcolor="#5A7581"><a href="#"></a></td>
+  </tr>
+			
+</table>
+            <br></td>
+          <td width="7" valign="top" bgcolor="#393E43">&nbsp;</td>
+          <td valign="top" bgcolor="#CCCCCC" background="images/bg_content.gif" ><table width="100%" border="0" cellspacing="0" cellpadding="15">
+            <tr>
+              <td><p class="style3">
+			  <p class="style3">Searching Result of <span class=cari></span></p><table width=100% border=0 align=center cellpadding=2 cellspacing=0><tr><td><span class=judul2>Press Releases </span><table width=100% border=1 align=center cellpadding=2 cellspacing=0 bgcolor=\'FFFFE8\'><tr  align=\'center\'><td class=judul1 bgcolor=#6699cc>Title</td></tr> <tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=751   target=_blank>The Farmer Terms of Trade Updates, Producer Prices of Unhusked Rice Updates And The Growth of Labor Wage in January 2012</a>&nbsp
+				<span class=date>2012-02-14</span><br>
+				<span class=detail><ul>
+<li>
+Table 1
+Farmer Terms of Trade by Sub Sector (2007=100)
+<li>Table 2
+Farmer Terms of Trade by Province and Percentage of Change January 2.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=753   target=_blank>The Wholesale Price Indices of Indonesia in January 2012</a>&nbsp
+				<span class=date>2012-02-14</span><br>
+				<span class=detail><ul type=disc>
+<li>
+Table 1
+The Changes of The Wholesale Price Indices (WPI) of Non-Oil & Gas in January 2012 by Sector (2005=100)
+<li>Table 2
+Th.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=750   target=_blank>The Overview of Indonesian Exports and Imports in December 2011</a>&nbsp
+				<span class=date>2012-02-14</span><br>
+				<span class=detail><ul type=disc>
+<li>
+Table 1
+The Summary of Indonesian Exports, January-December 2011
+<li>
+Table 2
+Non Oil and Gas Exports by Two Digits of HS Co.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=749   target=_blank>CPI in January 2012 was 130.90 or inflated 0.76 percent</a>&nbsp
+				<span class=date>2012-02-14</span><br>
+				<span class=detail>The Consumer Price Index (CPI) in January  2012 was 130.90 or inflated 0.76 percent from December 2011 at 129.91. In January 2012, the changes of each.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=752   target=_blank>The Overview of National Tourism and Transportation  in December 2011</a>&nbsp
+				<span class=date>2012-02-14</span><br>
+				<span class=detail><ul type=disc>
+<li>Table 1
+The Number of Foreign Tourists by Points of Entry
+<li>Table 2
+Profile of Foreign Tourists in 2010 and 2011
+<li>Table 3.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=748   target=_blank>CPI in Desember 2011 was 129.91 or inflated 0.57 percent</a>&nbsp
+				<span class=date>2012-02-07</span><br>
+				<span class=detail>The Consumer Price Index (CPI) in Desember 2011 was 129.91 or inflated 0.57 percent from November 2011 at 129.18. In Desember 2011, the changes of eac.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=747   target=_blank>CPI in November 2011 was 129.18 or inflated 0.34 %</a>&nbsp
+				<span class=date>2011-12-15</span><br>
+				<span class=detail>The Consumer Price Index (CPI) in November 2011 was 129.18 or inflated 0.34 percent from October 2011 at 128.74. In November 2011, the changes of each.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=746   target=_blank>CPI in October 2011 was 128.74 or deflated 0.12 %</a>&nbsp
+				<span class=date>2011-11-07</span><br>
+				<span class=detail>The Consumer Price Index (CPI) in October 2011 was 128.74 or deflated 0.12 percent from September 2011 at 128.89. In October 2011, the changes of each.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=745   target=_blank>CPI in September 2011 was 128.89 or inflated 0.27 percent</a>&nbsp
+				<span class=date>2011-10-11</span><br>
+				<span class=detail>The Consumer Price Index (CPI) in September 2011 was 128.89 or inflated 0.27 percent from August 2011 at 128.54. In September 2011, the changes of eac.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=index.php?news=744   target=_blank>CPI in August 2011 was 128.54 or inflated 0.93 percent</a>&nbsp
+				<span class=date>2011-10-03</span><br>
+				<span class=detail>The Consumer Price Index (CPI) in August 2011 was 128.54 or inflated 0.93 percent from July 2011 at 127.35. In August 2011, the changes of each expend.....</span>
+				</td></tr></table></td></tr><tr><td><a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=1> 1</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=2> 2</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=3> 3</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=4> 4</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=5> 5</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=6> 6</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=7> 7</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=8> 8</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=9> 9</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=10> 10</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=11> 11</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=12> 12</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=13> 13</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=14> 14</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=15> 15</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=16> 16</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=17> 17</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=18> 18</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=19> 19</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=20> 20</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=21> 21</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=22> 22</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=23> 23</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=24> 24</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=25> 25</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=26> 26</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=27> 27</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=28> 28</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=29> 29</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=30> 30</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=31> 31</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=32> 32</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=33> 33</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=34> 34</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=35> 35</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=36> 36</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=37> 37</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=38> 38</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=39> 39</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=40> 40</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=41> 41</a>&nbsp<a class=detail  href=?search=1&cari=&searchWhat=&nl=1&kl=42> 42</a>&nbsp</td></tr></table><span class=judul2>BPS Activity News</span><table width=100% border=1 align=center cellpadding=2 cellspacing=0 bgcolor=\'FFFFE8\'><tr  align=\'center\'><td class=judul1 bgcolor=#6699cc>Title</td></tr> </table><br><span class=judul2>Publication</span><table width=100% border=1 align=center cellpadding=2 cellspacing=0 bgcolor=\'FFFFE8\'><tr align=\'center\'><td class=judul1 bgcolor=#6699cc>Title</td></tr> <tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=46   target=_blank>Statistical Yearbook 2011
+</a> &nbsp
+				<span class=date>2012-01-09</span><br>
+				<span class=detail><br>Statistical Yearbook of Indonesia is an annual publication presenting various data from BPS-Statistics Indonesia and other agencies. The publicati.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=45   target=_blank>Statistical Yearbook 2010</a> &nbsp
+				<span class=date>2011-01-27</span><br>
+				<span class=detail><br>Statistical Yearbook of Indonesia is an annual publication presenting various data from BPS-Statistics Indonesia and other agencies. The publicati.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=40   target=_blank>Statistical Yearbook 2009</a> &nbsp
+				<span class=date>2010-08-25</span><br>
+				<span class=detail><b>Statistical Yearbook of Indonesia</b> is an annual publicationpresenting various data from BPS-Statistics Indonesia and other agencies.The publicat.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=41   target=_blank>Hotel and Other Accommodation Statistics in Indonesia 2009</a> &nbsp
+				<span class=date>2010-03-11</span><br>
+				<span class=detail>The publication of Hotel and Other Accommodation Statistics 2009 is an annual publication prepared by BPS-Statistics Indonesia. This publication cover.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=39   target=_blank>Production of Food Crops 2008</a> &nbsp
+				<span class=date>2009-02-26</span><br>
+				<span class=detail>Production of Food Crops is an annual series publication presenting information related to the growth of food crops production. Resources for the info.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=14   target=_blank>Hotel and Other Accommodation Statistics in Indonesia 2005</a> &nbsp
+				<span class=date>2009-02-25</span><br>
+				<span class=detail>The publication of Hotel and Other Accommodation Statistics 2005 is an annual publication prepared by BPS-Statistics Indonesia. This publication cover.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=13   target=_blank>Produces Price Statistics  Food and Smallholder Plantation Estate Crops 2000-2005</a> &nbsp
+				<span class=date>2007-02-12</span><br>
+				<span class=detail>.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=20   target=_blank>Construction Indicators 2004</a> &nbsp
+				<span class=date>2007-02-12</span><br>
+				<span class=detail>The Construction sector is one of important sectors in the Indonesian economy. In order to obtain information of this sector quarterly, BPS-Statistics.....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=21   target=_blank>Occupancy Rate of Hotel Room 2004</a> &nbsp
+				<span class=date>2007-02-12</span><br>
+				<span class=detail>The publication of The Room Occupancy Rate, 2004 is an annual publication which has been developed since 1976. Data presented in this publication are .....</span>
+				</td></tr><tr><td valign=top bgcolor=\'#CCC7B3\'>
+				<a class=judul href=?pub=1&pubs=12   target=_blank>Water Supply Statistics 1999-2003</a> &nbsp
+				<span class=date>2007-02-09</span><br>
+				<span class=detail>Water Supply Statistics 1999-2003 is the  BPS annual publication of the tenth edition. The data presented in this publication are some statistical tab.....</span>
+				</td></tr></table>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl1=1>1</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl1=2>2</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl1=3>3</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl1=4>4</a><br><span class=judul2>Tabel</span><table width=100% border=1 align=center cellpadding=2 cellspacing=0><tr align=\'center\'><td class=judul1 bgcolor=#6699cc>Title</td></tr> <tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=02 &notab=2&cari="" target=_blank>Number Of Telephone Subscriber, Indonesia 1989-2009</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=02 &notab=3&cari="" target=_blank>Production of Telephone, Indonesia 1988 - 2008</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=1&cari="" target=_blank>Inflation of Indonesia by Group of Commodities, 2006-2012</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=2&cari="" target=_blank>Consumer Price Indices and Inflation for Each of The 66 Cities ( 2007=100 ) 2009</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=3&cari="" target=_blank>Consumer Price Index and Inflation in 66 Cities ( 2007=100 ) 2010</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=4&cari="" target=_blank>Consumer Price Index and Inflation in 66 Cities ( 2007=100 ), 2011</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=5&cari="" target=_blank>Consumer Price Index and Inflation in 66 Cities (2007=100), 2012</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=6&cari="" target=_blank>Monthly Indonesia Consumers Price Indices and Inflations, 2005-2012</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=03 &notab=7&cari="" target=_blank>Headline, Core, Administered Price, and Volatile Good Inflation of Indonesia, 2009-2012</a>
+				</td></tr><tr  bgcolor=\'#CCC7B3\'><td valign=top>&nbsp&nbsp&nbsp&nbsp<img src=\'images/arrow1.gif\'>
+				<a class=detail href=?searchWhat=&tabel=1&id_subyek=04 &notab=1&cari="" target=_blank>Value of Construction Completed by Province, 2004 - 2009 (000 rupiah)</a>
+				</td></tr></table>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=1> 1</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=2> 2</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=3> 3</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=4> 4</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=5> 5</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=6> 6</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=7> 7</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=8> 8</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=9> 9</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=10> 10</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=11> 11</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=12> 12</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=13> 13</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=14> 14</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=15> 15</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=16> 16</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=17> 17</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=18> 18</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=19> 19</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=20> 20</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=21> 21</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=22> 22</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=23> 23</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=24> 24</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=25> 25</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=26> 26</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=27> 27</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=28> 28</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=29> 29</a>&nbsp;<a href=?search=2&cari=&searchWhat=&pl=1&kl2=30> 30</a><br><table><tr><td></td></tr></table>
+			  </p>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr><!--
+                    <td width="50%" valign="top"><table width="150" border="0" cellpadding="0" cellspacing="1" bgcolor="#000000">
+                        <tr>
+                          <td bgcolor="#FFFFFF"><a href="aboutus.php?se=0"><img src="images/banner/se_06_kecil.gif" width="150" height="75"></a></td>
+                        </tr>
+                    </table></td>-->
+                    <td width="50%" valign="top" align="center"><table width="150" border="0" cellpadding="0" cellspacing="1" bgcolor="#000000">
+                      <tr>
+                        <td bgcolor="#FFFFFF"><a href="index.php?news=680"><img src="images/banner/gdp.gif" height="75" width="150"></a></td>
+                      </tr>
+                    </table></td>
+                    <td width="50%" valign="top" align="center"><table width="150" border="0" cellpadding="0" cellspacing="1" bgcolor="#000000">
+                        <tr>
+                          <td bgcolor="#FFFFFF"><a href="index.php?news=775"><img src="images/banner/inflation.gif" height="75" width="150"></a></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                </table>                </td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td background="images/black.gif"><img src="images/black.gif" width="1" height="1"></td>
+        </tr>
+      </table>
+      <div align="center"><br>
+        <br>
+        <span class="style1">Badan Pusat Statistik Republik Indonesia (Statistics Indonesia of The Republic Indonesia)<br>
+        Jl. Dr. Sutomo 6-8 Jakarta 10710 Indonesia, Telp (62-21) 3841195, 3842508, 3810291, Faks (62-21) 3857046, Mailbox : bpshq@bps.go.id<br>
+        <br>
+        <span class="style2">Copyright &copy; 2009 Badan Pusat Statistik Republik Indonesia<br>
+All Rights Reserved</span></span><br>
+<br>
+        <br>
+    </div></td>
+    <td width="1" valign="top" background="images/black.gif"><img src="images/black.gif" width="1" height="1"></td>
+    <td valign="top">&nbsp;</td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="433,1,646,210" href="http://statcapcerdas.bps.go.id" alt="statcap">
+</map>
+</body>
+</html>
+';

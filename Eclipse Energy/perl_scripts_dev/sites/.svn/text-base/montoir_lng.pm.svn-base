@@ -1,0 +1,51 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::montoir_lng;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "montoir_lng"; }
+sub name { "montoir_lng";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://www.nantes.port.fr/live-at-the-port/vessel-movements-in-real-time/forecast-of-vessels-movements/?L=1";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+	1)PUT ALL CODE WHICH SCRAPES A WEBSITE IN HERE.
+	2)PUT LOG MSGS IN THE CODE USING THE info(...) method from log.pm
+	3)IN THE WEBSITE ABOVE WE WANT THE DATA IN THE COLUMNS ETA,ETD,VESSEL AND BERTH TO 
+	BE PUT INTO A MULTI DIM-ARRAY CALLED data.
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.montoir_lng_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

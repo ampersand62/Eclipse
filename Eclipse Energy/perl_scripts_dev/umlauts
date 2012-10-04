@@ -1,0 +1,10 @@
+dxo.itemsValue=['Gasspeicher Rüdersdorf H-Gas','Gasspeicher Nüttermoor H-Gas','Speicherzone Nüttermoor / Huntorf L-Gas'];
+value="Gasspeicher R쎼dersdorf H-Gas"
+value="Gasspeicher R볃dersdorf H-Gas"
+value="Gasspeicher RÃ¼dersdorf H-Gas"
+
+    $self ->{mech}->field( 'ASPxNetzPunkt', 'Gasspeicher Rudersdorf H-Gas');
+#'Gasspeicher N\N{U+00FC}ttermoor H-Gas');
+    # Extra fields to keep ASP happy
+#    $self ->{mech}->field( 'ASPxNetzPunkt_VI', 'Gasspeicher Rüdersdorf H-Gas');
+#    $self ->{mech}->field( 'ASPxNetzPunkt%24DDD%24L', 'Gasspeicher Rüdersdorf H-Gas');   

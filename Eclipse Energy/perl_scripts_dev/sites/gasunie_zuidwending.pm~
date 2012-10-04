@@ -1,0 +1,54 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::gasunie_zuidwending;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "gasunie_zuidwending"; }
+sub name { "gasunie_zuidwending";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+1) go to http://www.gasuniezuidwending.nl/flow-and-volume-information/flow-informatie
+2) put date from as today-7, end date as today -1. unit kwh. view as table, then apply.
+3) we want all the data in the resulting table. date in yyyy-mm-dd. so the final array: <date,in,out,physflow>
+
+1) go to http://www.gasuniezuidwending.nl/flow-and-volume-information/storage-informatie
+2) follow the steps as in 2. final array should look like: <date,gas_in_storage>
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.gasunie_zuidwending_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

@@ -1,0 +1,54 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::italian_storage;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "italian_storage"; }
+sub name { "italian_storage";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://www.snamretegas.it/en/services/Thermal_Year_2011_2012/Gas_transportation/Storage_operational_data/index.html";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+1) Go to http://www.snamretegas.it/en/services/Thermal_Year_2011_2012/Gas_transportation/Storage_operational_data/index.html
+2) We want to download both the stogit and edison stocagio excel sheets.
+3) From them we want the data for yesterday's month, as well as last month.
+4) We want the day, the daily flow (mwh) and stock level (mwh) data from both the spreadsheets. Date should be in format YYYY-mm-dd. Get rid of commas in the number fields.
+5) Load the data into 1 array. (date,operator,flow,stock_level).
+
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.italian_storage_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

@@ -1,0 +1,51 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::bayernets_demand;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "bayernets_demand"; }
+sub name { "bayernets_demand";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://www.bayernets.de/start_netzinformation_en.aspx?int_name=_70436";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+1) go to http://www.bayernets.de/start_netzinformation_en.aspx?int_name=_70436	.Might be easy to change the language to english!						
+2) click on "Sales volumes end consumer". Note you may/maynot have to click through the whole tree structure again, dependent on cookies.
+3) this brings up an excel. load everything into an array in format: <date_time,value>
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.enagas_monthly_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

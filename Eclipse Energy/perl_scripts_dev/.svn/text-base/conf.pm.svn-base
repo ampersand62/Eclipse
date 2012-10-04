@@ -1,0 +1,12 @@
+
+package conf;
+
+our $backup_dir = "backup/";
+
+our $data_file_name = "data.csv";
+
+our $log_file = 'log/eeg.log';
+
+
+1;
+

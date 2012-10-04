@@ -1,0 +1,66 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::indonesia_lng;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+use Data::Dumper;
+our $DEBUG = 1;
+
+sub key { "indonesia_lng"; }
+sub name { "indonesia_lng";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://dds.bps.go.id/eng/exim-frame.php";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+	
+	$self->{mech}->get($URL);
+	# Temp
+	$self->{mech}->field('thn', 2011);
+
+	$self->{mech}->field('sumber', 1);
+	$self->{mech}->field('hscd', 2);
+	$self->{mech}->field('nmhs', '27111100');
+	$self->{mech}->submit();
+
+	print Dumper $self->{mech}->content() if $DEBUG;
+
+=pod
+#1)	INSTRUCTIONS:
+1) Go to http://dds.bps.go.id/eng/exim-frame.php								
+2) On the left hand side, Select Export and the latest year (we dont get 2012 yet, so have to retry for previous year). Select the description radio button and then enter the code 27111100 in the Description text field
+3) Press 'Proses/Run'
+4) We want all the data in the resulting table. The month should be translated into a date field in format YYYY-MM-01.
+5) Otherwise, grab the price and weight columns and load into one multi-dim array of format <date,price,volume>
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.indonesia_lng_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

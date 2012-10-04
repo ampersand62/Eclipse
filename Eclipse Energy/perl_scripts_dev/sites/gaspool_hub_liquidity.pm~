@@ -1,0 +1,57 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::gaspool_hub_liquidity;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "gaspool_hub_liquidity"; }
+sub name { "gaspool_hub_liquidity";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+1. This has 2 parts; traded and delivered. For traded, go to: http://www.gaspool.de/hub_handelsvolumina.html?&L=1
+2. Download the Excel file
+3. Collect both the h-gas and l-gas columns
+4. Turn the month into a database date format YYYY-MM-01. The final array should look like: <date,type,h-gas value,l-gas value>
+5. For delivered, Go to: http://www.gaspool.de/hub_churn_rate.html?&L=1 
+6. Download pdf at the bottom of the page,  collect "Physical Quantities KWh" in both the h gas and l gas columns.
+7. date format should be YYYY-MM-01. Remove commas. The final array should look like: <date,type,h-gas value,l-gas value>
+
+
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.gaspool_hub_liquidity_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

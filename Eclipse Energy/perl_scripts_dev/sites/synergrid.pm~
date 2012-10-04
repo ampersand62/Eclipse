@@ -1,0 +1,58 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::synergrid;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use Data::Dumper;
+use base qw(Site);
+
+sub key { "synergrid"; }
+sub name { "synergrid";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://www.synergrid.be/index.cfm?PageID=18214";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+	$self->{mech}->get($URL);
+
+	print Dumper( $self->{mech}->content());
+
+=pod
+1) Go to http://www.synergrid.be/index.cfm?PageID=18214
+2) Select the download starting with "Overbrenging naar de eindklanten (maandelijkse gegevens)". The one that you choose is
+the one for the current year. If we are in the first 3 months of the year, then we should try to download the current years data and iF that is not available, then download the previous years file.
+3) From the file, we want the month in the first colum to be converted to a date format. I.e. YYYY-MM-01. You can use the hash %alt_french_months from misc.pm to convert french months to numbers.
+4) We also want the data in columns 2-4 including the headings which should be the "type" in the final array.
+Substitute the decimals with nothing (they are thousand separators) and substitue the commas for decimals in the percentages.
+5) So the final array should look like: (date,type,value,percentage).
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.synergrid_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

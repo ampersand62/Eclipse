@@ -1,0 +1,2540 @@
+Row, Col    = (1, 0)
+Type        = Text
+Value       = STOGIT -FEBRUARY 2012
+Unformatted = STOGIT -FEBRUARY 2012
+
+Row, Col    = (1, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (1, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (1, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (1, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (1, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (2, 0)
+Type        = Text
+Value       = Day
+Unformatted = Day
+
+Row, Col    = (2, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (2, 2)
+Type        = Text
+Value       = Daily Flow (GJ)
+Unformatted = Daily Flow (GJ)
+
+Row, Col    = (2, 3)
+Type        = Text
+Value       = Stock Level (GJ) (*)
+Unformatted = Stock Level (GJ) (*)
+
+Row, Col    = (2, 4)
+Type        = Text
+Value       = Daily Flow (MWh) 
+Unformatted = Daily Flow (MWh) 
+
+Row, Col    = (2, 5)
+Type        = Text
+Value       = Stock Level (MWh) (*)
+Unformatted = Stock Level (MWh) (*)
+
+Row, Col    = (3, 0)
+Type        = Date
+Value       = 40939
+Unformatted = 40939
+
+Row, Col    = (3, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (3, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (3, 3)
+Type        = Numeric
+Value       = 193,206,219.1
+Unformatted = 193206219.142518
+
+Row, Col    = (3, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (3, 5)
+Type        = Numeric
+Value       = 38,265,737.881
+Unformatted = 38265737.8814325
+
+Row, Col    = (3, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (3, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (4, 0)
+Type        = Date
+Value       = 40940
+Unformatted = 40940
+
+Row, Col    = (4, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (4, 2)
+Type        = Numeric
+Value       = -5,315,749.9
+Unformatted = -5315749.9
+
+Row, Col    = (4, 3)
+Type        = Numeric
+Value       = 187,890,469.2
+Unformatted = 187890469.242518
+
+Row, Col    = (4, 4)
+Type        = Numeric
+Value       = -1,476,597.194
+Unformatted = -1476597.19444563
+
+Row, Col    = (4, 5)
+Type        = Numeric
+Value       = 52,191,797.012
+Unformatted = 52191797.0118523
+
+Row, Col    = (4, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (4, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (5, 0)
+Type        = Date
+Value       = 40941
+Unformatted = 40941
+
+Row, Col    = (5, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (5, 2)
+Type        = Numeric
+Value       = -5,684,007.0
+Unformatted = -5684007
+
+Row, Col    = (5, 3)
+Type        = Numeric
+Value       = 182,206,462.2
+Unformatted = 182206462.242518
+
+Row, Col    = (5, 4)
+Type        = Numeric
+Value       = -1,578,890.833
+Unformatted = -1578890.8333346
+
+Row, Col    = (5, 5)
+Type        = Numeric
+Value       = 50,612,906.179
+Unformatted = 50612906.1785177
+
+Row, Col    = (5, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (5, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (6, 0)
+Type        = Date
+Value       = 40942
+Unformatted = 40942
+
+Row, Col    = (6, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (6, 2)
+Type        = Numeric
+Value       = -6,164,901.8
+Unformatted = -6164901.8
+
+Row, Col    = (6, 3)
+Type        = Numeric
+Value       = 176,041,560.4
+Unformatted = 176041560.442518
+
+Row, Col    = (6, 4)
+Type        = Numeric
+Value       = -1,712,472.722
+Unformatted = -1712472.72222359
+
+Row, Col    = (6, 5)
+Type        = Numeric
+Value       = 48,900,433.456
+Unformatted = 48900433.4562941
+
+Row, Col    = (6, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (6, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (7, 0)
+Type        = Date
+Value       = 40943
+Unformatted = 40943
+
+Row, Col    = (7, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (7, 2)
+Type        = Numeric
+Value       = -6,167,623.4
+Unformatted = -6167623.4
+
+Row, Col    = (7, 3)
+Type        = Numeric
+Value       = 169,873,937.0
+Unformatted = 169873937.042518
+
+Row, Col    = (7, 4)
+Type        = Numeric
+Value       = -1,713,228.722
+Unformatted = -1713228.72222359
+
+Row, Col    = (7, 5)
+Type        = Numeric
+Value       = 47,187,204.734
+Unformatted = 47187204.7340705
+
+Row, Col    = (7, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (7, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (8, 0)
+Type        = Date
+Value       = 40944
+Unformatted = 40944
+
+Row, Col    = (8, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (8, 2)
+Type        = Numeric
+Value       = -5,555,655.0
+Unformatted = -5555655
+
+Row, Col    = (8, 3)
+Type        = Numeric
+Value       = 164,318,282.0
+Unformatted = 164318282.042518
+
+Row, Col    = (8, 4)
+Type        = Numeric
+Value       = -1,543,237.500
+Unformatted = -1543237.50000123
+
+Row, Col    = (8, 5)
+Type        = Numeric
+Value       = 45,643,967.234
+Unformatted = 45643967.2340693
+
+Row, Col    = (8, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (8, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (9, 0)
+Type        = Date
+Value       = 40945
+Unformatted = 40945
+
+Row, Col    = (9, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (9, 2)
+Type        = Numeric
+Value       = -6,278,868.9
+Unformatted = -6278868.9
+
+Row, Col    = (9, 3)
+Type        = Numeric
+Value       = 158,039,413.1
+Unformatted = 158039413.142518
+
+Row, Col    = (9, 4)
+Type        = Numeric
+Value       = -1,744,130.250
+Unformatted = -1744130.25000139
+
+Row, Col    = (9, 5)
+Type        = Numeric
+Value       = 43,899,836.984
+Unformatted = 43899836.9840679
+
+Row, Col    = (9, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (9, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (10, 0)
+Type        = Date
+Value       = 40946
+Unformatted = 40946
+
+Row, Col    = (10, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (10, 2)
+Type        = Numeric
+Value       = -6,426,487.2
+Unformatted = -6426487.2
+
+Row, Col    = (10, 3)
+Type        = Numeric
+Value       = 151,612,925.9
+Unformatted = 151612925.942518
+
+Row, Col    = (10, 4)
+Type        = Numeric
+Value       = -1,785,135.333
+Unformatted = -1785135.33333476
+
+Row, Col    = (10, 5)
+Type        = Numeric
+Value       = 42,114,701.651
+Unformatted = 42114701.6507331
+
+Row, Col    = (10, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (10, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (11, 0)
+Type        = Date
+Value       = 40947
+Unformatted = 40947
+
+Row, Col    = (11, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (11, 2)
+Type        = Numeric
+Value       = -5,301,249.8
+Unformatted = -5301249.8
+
+Row, Col    = (11, 3)
+Type        = Numeric
+Value       = 146,311,676.1
+Unformatted = 146311676.142518
+
+Row, Col    = (11, 4)
+Type        = Numeric
+Value       = -1,472,569.389
+Unformatted = -1472569.38889007
+
+Row, Col    = (11, 5)
+Type        = Numeric
+Value       = 40,642,132.262
+Unformatted = 40642132.2618431
+
+Row, Col    = (11, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (11, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (12, 0)
+Type        = Date
+Value       = 40948
+Unformatted = 40948
+
+Row, Col    = (12, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (12, 2)
+Type        = Numeric
+Value       = -4,618,808.3
+Unformatted = -4618808.3
+
+Row, Col    = (12, 3)
+Type        = Numeric
+Value       = 141,692,867.8
+Unformatted = 141692867.842518
+
+Row, Col    = (12, 4)
+Type        = Numeric
+Value       = -1,283,002.306
+Unformatted = -1283002.30555658
+
+Row, Col    = (12, 5)
+Type        = Numeric
+Value       = 39,359,129.956
+Unformatted = 39359129.9562865
+
+Row, Col    = (12, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (12, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (13, 0)
+Type        = Date
+Value       = 40949
+Unformatted = 40949
+
+Row, Col    = (13, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (13, 2)
+Type        = Numeric
+Value       = -5,130,109.1
+Unformatted = -5130109.1
+
+Row, Col    = (13, 3)
+Type        = Numeric
+Value       = 136,562,758.7
+Unformatted = 136562758.742518
+
+Row, Col    = (13, 4)
+Type        = Numeric
+Value       = -1,425,030.306
+Unformatted = -1425030.3055567
+
+Row, Col    = (13, 5)
+Type        = Numeric
+Value       = 37,934,099.651
+Unformatted = 37934099.6507298
+
+Row, Col    = (13, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (13, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (14, 0)
+Type        = Date
+Value       = 40950
+Unformatted = 40950
+
+Row, Col    = (14, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (14, 2)
+Type        = Numeric
+Value       = -3,804,764.3
+Unformatted = -3804764.3
+
+Row, Col    = (14, 3)
+Type        = Numeric
+Value       = 132,757,994.4
+Unformatted = 132757994.442518
+
+Row, Col    = (14, 4)
+Type        = Numeric
+Value       = -1,056,878.972
+Unformatted = -1056878.97222307
+
+Row, Col    = (14, 5)
+Type        = Numeric
+Value       = 36,877,220.679
+Unformatted = 36877220.6785067
+
+Row, Col    = (14, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (14, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (15, 0)
+Type        = Date
+Value       = 40951
+Unformatted = 40951
+
+Row, Col    = (15, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (15, 2)
+Type        = Numeric
+Value       = -3,845,030.9
+Unformatted = -3845030.9
+
+Row, Col    = (15, 3)
+Type        = Numeric
+Value       = 128,912,963.5
+Unformatted = 128912963.542518
+
+Row, Col    = (15, 4)
+Type        = Numeric
+Value       = -1,068,064.139
+Unformatted = -1068064.13888974
+
+Row, Col    = (15, 5)
+Type        = Numeric
+Value       = 35,809,156.540
+Unformatted = 35809156.539617
+
+Row, Col    = (15, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (15, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (16, 0)
+Type        = Date
+Value       = 40952
+Unformatted = 40952
+
+Row, Col    = (16, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (16, 2)
+Type        = Numeric
+Value       = -5,419,116.3
+Unformatted = -5419116.3
+
+Row, Col    = (16, 3)
+Type        = Numeric
+Value       = 123,493,847.2
+Unformatted = 123493847.242518
+
+Row, Col    = (16, 4)
+Type        = Numeric
+Value       = -1,505,310.083
+Unformatted = -1505310.08333454
+
+Row, Col    = (16, 5)
+Type        = Numeric
+Value       = 34,303,846.456
+Unformatted = 34303846.4562824
+
+Row, Col    = (16, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (16, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (17, 0)
+Type        = Date
+Value       = 40953
+Unformatted = 40953
+
+Row, Col    = (17, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (17, 2)
+Type        = Numeric
+Value       = -4,551,200.9
+Unformatted = -4551200.9
+
+Row, Col    = (17, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (17, 4)
+Type        = Numeric
+Value       = -1,264,222.472
+Unformatted = -1264222.47222323
+
+Row, Col    = (17, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (17, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (17, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (18, 0)
+Type        = Date
+Value       = 40954
+Unformatted = 40954
+
+Row, Col    = (18, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (18, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (18, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (18, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (18, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (18, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (18, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (19, 0)
+Type        = Date
+Value       = 40955
+Unformatted = 40955
+
+Row, Col    = (19, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (19, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (19, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (19, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (19, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (19, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (19, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (20, 0)
+Type        = Date
+Value       = 40956
+Unformatted = 40956
+
+Row, Col    = (20, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (20, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (20, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (20, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (20, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (20, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (20, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (21, 0)
+Type        = Date
+Value       = 40957
+Unformatted = 40957
+
+Row, Col    = (21, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (21, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (21, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (21, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (21, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (21, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (21, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (22, 0)
+Type        = Date
+Value       = 40958
+Unformatted = 40958
+
+Row, Col    = (22, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (22, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (22, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (22, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (22, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (22, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (23, 0)
+Type        = Date
+Value       = 40959
+Unformatted = 40959
+
+Row, Col    = (23, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (23, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (23, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (23, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (23, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (23, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 0)
+Type        = Date
+Value       = 40960
+Unformatted = 40960
+
+Row, Col    = (24, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (24, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (24, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (24, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (24, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 0)
+Type        = Date
+Value       = 40961
+Unformatted = 40961
+
+Row, Col    = (25, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (25, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (25, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (25, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (25, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 0)
+Type        = Date
+Value       = 40962
+Unformatted = 40962
+
+Row, Col    = (26, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (26, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (26, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (26, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (26, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 0)
+Type        = Date
+Value       = 40963
+Unformatted = 40963
+
+Row, Col    = (27, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (27, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (27, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (27, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (27, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 0)
+Type        = Date
+Value       = 40964
+Unformatted = 40964
+
+Row, Col    = (28, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (28, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (28, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (28, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (28, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 0)
+Type        = Date
+Value       = 40965
+Unformatted = 40965
+
+Row, Col    = (29, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (29, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (29, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (29, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (29, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 0)
+Type        = Date
+Value       = 40966
+Unformatted = 40966
+
+Row, Col    = (30, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (30, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (30, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (30, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (30, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 0)
+Type        = Date
+Value       = 40967
+Unformatted = 40967
+
+Row, Col    = (31, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (31, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (31, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (31, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (31, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 0)
+Type        = Date
+Value       = 40968
+Unformatted = 40968
+
+Row, Col    = (32, 1)
+Type        = Text
+Value       = D
+Unformatted = D
+
+Row, Col    = (32, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 3)
+Type        = Numeric
+Value       = 118,942,646.3
+Unformatted = 118942646.342518
+
+Row, Col    = (32, 4)
+Type        = Numeric
+Value       = 0.000
+Unformatted = 0
+
+Row, Col    = (32, 5)
+Type        = Numeric
+Value       = 33,039,623.984
+Unformatted = 33039623.9840592
+
+Row, Col    = (32, 6)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 0)
+Type        = Text
+Value       = P= provisional; D= definitive; C= definitive after reconciliation.
+Unformatted = P= provisional; D= definitive; C= definitive after reconciliation.
+
+Row, Col    = (34, 0)
+Type        = Text
+Value       = + injection (not including fuel gas).
+Unformatted = + injection (not including fuel gas).
+
+Row, Col    = (34, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 0)
+Type        = Text
+Value       = - withdrawal (including fuel gas).
+Unformatted = - withdrawal (including fuel gas).
+
+Row, Col    = (35, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 0)
+Type        = Text
+Value       = (*) The stock level takes into account buy/sell of gas with Stogit and does not include strategic storage. 
+Unformatted = (*) The stock level takes into account buy/sell of gas with Stogit and does not include strategic storage. 
+
+Row, Col    = (7, 0)
+Type        = Text
+Value       = Edison Stoccaggio S.p.A - FEBRUARY 2012
+Unformatted = Edison Stoccaggio S.p.A - FEBRUARY 2012
+
+Row, Col    = (7, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (7, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (7, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (7, 4)
+Type        = Numeric
+Value       = 40940
+Unformatted = 40940
+
+Row, Col    = (7, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (8, 0)
+Type        = Text
+Value       = Day
+Unformatted = Day
+
+Row, Col    = (8, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (8, 2)
+Type        = Text
+Value       = Daily Flow (GJ)
+Unformatted = Daily Flow (GJ)
+
+Row, Col    = (8, 3)
+Type        = Text
+Value       = Stock Level (GJ) 
+Unformatted = Stock Level (GJ) 
+
+Row, Col    = (8, 4)
+Type        = Text
+Value       = Daily Flow (MWh) 
+Unformatted = Daily Flow (MWh) 
+
+Row, Col    = (8, 5)
+Type        = Text
+Value       = Stock Level (MWh) 
+Unformatted = Stock Level (MWh) 
+
+Row, Col    = (9, 0)
+Type        = Date
+Value       = 40939
+Unformatted = 40939
+
+Row, Col    = (9, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (9, 2)
+Type        = Numeric
+Value       = -139,593.0
+Unformatted = -139593
+
+Row, Col    = (9, 3)
+Type        = Numeric
+Value       = 6,427,843.7
+Unformatted = 6427843.7
+
+Row, Col    = (9, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (9, 5)
+Type        = Numeric
+Value       = 1,785,512.14
+Unformatted = 1785512.13888889
+
+Row, Col    = (10, 0)
+Type        = Date
+Value       = 2012-02-01
+Unformatted = 40940
+
+Row, Col    = (10, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (10, 2)
+Type        = Numeric
+Value       = -145,956.0
+Unformatted = -145956
+
+Row, Col    = (10, 3)
+Type        = Numeric
+Value       = 6,281,887.7
+Unformatted = 6281887.7
+
+Row, Col    = (10, 4)
+Type        = Numeric
+Value       = - 40,543.33 -
+Unformatted = -40543.3333333333
+
+Row, Col    = (10, 5)
+Type        = Numeric
+Value       = 1,744,968.81
+Unformatted = 1744968.80555556
+
+Row, Col    = (10, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (11, 0)
+Type        = Date
+Value       = 2012-02-02
+Unformatted = 40941
+
+Row, Col    = (11, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (11, 2)
+Type        = Numeric
+Value       = -143,438.0
+Unformatted = -143438
+
+Row, Col    = (11, 3)
+Type        = Numeric
+Value       = 6,138,449.7
+Unformatted = 6138449.7
+
+Row, Col    = (11, 4)
+Type        = Numeric
+Value       = - 39,843.89 -
+Unformatted = -39843.8888888889
+
+Row, Col    = (11, 5)
+Type        = Numeric
+Value       = 1,705,124.92
+Unformatted = 1705124.91666667
+
+Row, Col    = (11, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (12, 0)
+Type        = Date
+Value       = 2012-02-03
+Unformatted = 40942
+
+Row, Col    = (12, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (12, 2)
+Type        = Numeric
+Value       = -145,821.0
+Unformatted = -145821
+
+Row, Col    = (12, 3)
+Type        = Numeric
+Value       = 5,992,628.7
+Unformatted = 5992628.7
+
+Row, Col    = (12, 4)
+Type        = Numeric
+Value       = - 40,505.83 -
+Unformatted = -40505.8333333333
+
+Row, Col    = (12, 5)
+Type        = Numeric
+Value       = 1,664,619.08
+Unformatted = 1664619.08333333
+
+Row, Col    = (12, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (13, 0)
+Type        = Date
+Value       = 2012-02-04
+Unformatted = 40943
+
+Row, Col    = (13, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (13, 2)
+Type        = Numeric
+Value       = -138,792.0
+Unformatted = -138792
+
+Row, Col    = (13, 3)
+Type        = Numeric
+Value       = 5,853,836.7
+Unformatted = 5853836.7
+
+Row, Col    = (13, 4)
+Type        = Numeric
+Value       = - 38,553.33 -
+Unformatted = -38553.3333333333
+
+Row, Col    = (13, 5)
+Type        = Numeric
+Value       = 1,626,065.75
+Unformatted = 1626065.75
+
+Row, Col    = (13, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (13, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (14, 0)
+Type        = Date
+Value       = 2012-02-05
+Unformatted = 40944
+
+Row, Col    = (14, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (14, 2)
+Type        = Numeric
+Value       = -157,532.0
+Unformatted = -157532
+
+Row, Col    = (14, 3)
+Type        = Numeric
+Value       = 5,696,304.7
+Unformatted = 5696304.7
+
+Row, Col    = (14, 4)
+Type        = Numeric
+Value       = - 43,758.89 -
+Unformatted = -43758.8888888889
+
+Row, Col    = (14, 5)
+Type        = Numeric
+Value       = 1,582,306.86
+Unformatted = 1582306.86111111
+
+Row, Col    = (14, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (15, 0)
+Type        = Date
+Value       = 2012-02-06
+Unformatted = 40945
+
+Row, Col    = (15, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (15, 2)
+Type        = Numeric
+Value       = -169,896.0
+Unformatted = -169896
+
+Row, Col    = (15, 3)
+Type        = Numeric
+Value       = 5,526,408.7
+Unformatted = 5526408.7
+
+Row, Col    = (15, 4)
+Type        = Numeric
+Value       = - 47,193.33 -
+Unformatted = -47193.3333333333
+
+Row, Col    = (15, 5)
+Type        = Numeric
+Value       = 1,535,113.53
+Unformatted = 1535113.52777778
+
+Row, Col    = (15, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (16, 0)
+Type        = Date
+Value       = 2012-02-07
+Unformatted = 40946
+
+Row, Col    = (16, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (16, 2)
+Type        = Numeric
+Value       = -166,803.0
+Unformatted = -166803
+
+Row, Col    = (16, 3)
+Type        = Numeric
+Value       = 5,359,605.7
+Unformatted = 5359605.7
+
+Row, Col    = (16, 4)
+Type        = Numeric
+Value       = - 46,334.17 -
+Unformatted = -46334.1666666667
+
+Row, Col    = (16, 5)
+Type        = Numeric
+Value       = 1,488,779.36
+Unformatted = 1488779.36111111
+
+Row, Col    = (16, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (17, 0)
+Type        = Date
+Value       = 2012-02-08
+Unformatted = 40947
+
+Row, Col    = (17, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (17, 2)
+Type        = Numeric
+Value       = -139,967.0
+Unformatted = -139967
+
+Row, Col    = (17, 3)
+Type        = Numeric
+Value       = 5,219,638.7
+Unformatted = 5219638.7
+
+Row, Col    = (17, 4)
+Type        = Numeric
+Value       = - 38,879.72 -
+Unformatted = -38879.7222222222
+
+Row, Col    = (17, 5)
+Type        = Numeric
+Value       = 1,449,899.64
+Unformatted = 1449899.63888889
+
+Row, Col    = (17, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (18, 0)
+Type        = Date
+Value       = 2012-02-09
+Unformatted = 40948
+
+Row, Col    = (18, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (18, 2)
+Type        = Numeric
+Value       = -139,965.0
+Unformatted = -139965
+
+Row, Col    = (18, 3)
+Type        = Numeric
+Value       = 5,079,673.7
+Unformatted = 5079673.7
+
+Row, Col    = (18, 4)
+Type        = Numeric
+Value       = - 38,879.17 -
+Unformatted = -38879.1666666667
+
+Row, Col    = (18, 5)
+Type        = Numeric
+Value       = 1,411,020.47
+Unformatted = 1411020.47222222
+
+Row, Col    = (18, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (19, 0)
+Type        = Date
+Value       = 2012-02-10
+Unformatted = 40949
+
+Row, Col    = (19, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (19, 2)
+Type        = Numeric
+Value       = -139,960.4
+Unformatted = -139960.4
+
+Row, Col    = (19, 3)
+Type        = Numeric
+Value       = 4,939,713.3
+Unformatted = 4939713.3
+
+Row, Col    = (19, 4)
+Type        = Numeric
+Value       = - 38,877.89 -
+Unformatted = -38877.8888888889
+
+Row, Col    = (19, 5)
+Type        = Numeric
+Value       = 1,372,142.58
+Unformatted = 1372142.58333333
+
+Row, Col    = (19, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (20, 0)
+Type        = Date
+Value       = 2012-02-11
+Unformatted = 40950
+
+Row, Col    = (20, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (20, 2)
+Type        = Numeric
+Value       = -130,786.2
+Unformatted = -130786.2
+
+Row, Col    = (20, 3)
+Type        = Numeric
+Value       = 4,808,927.1
+Unformatted = 4808927.1
+
+Row, Col    = (20, 4)
+Type        = Numeric
+Value       = - 36,329.50 -
+Unformatted = -36329.5
+
+Row, Col    = (20, 5)
+Type        = Numeric
+Value       = 1,335,813.08
+Unformatted = 1335813.08333333
+
+Row, Col    = (20, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (21, 0)
+Type        = Date
+Value       = 2012-02-12
+Unformatted = 40951
+
+Row, Col    = (21, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (21, 2)
+Type        = Numeric
+Value       = -130,785.3
+Unformatted = -130785.3
+
+Row, Col    = (21, 3)
+Type        = Numeric
+Value       = 4,678,141.8
+Unformatted = 4678141.8
+
+Row, Col    = (21, 4)
+Type        = Numeric
+Value       = - 36,329.25 -
+Unformatted = -36329.25
+
+Row, Col    = (21, 5)
+Type        = Numeric
+Value       = 1,299,483.83
+Unformatted = 1299483.83333333
+
+Row, Col    = (21, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (22, 0)
+Type        = Date
+Value       = 2012-02-13
+Unformatted = 40952
+
+Row, Col    = (22, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (22, 2)
+Type        = Numeric
+Value       = -153,421.0
+Unformatted = -153421
+
+Row, Col    = (22, 3)
+Type        = Numeric
+Value       = 4,444,830.7
+Unformatted = 4444830.7
+
+Row, Col    = (22, 4)
+Type        = Numeric
+Value       = - 42,616.94 -
+Unformatted = -42616.9444444444
+
+Row, Col    = (22, 5)
+Type        = Numeric
+Value       = 1,234,675.19
+Unformatted = 1234675.19444444
+
+Row, Col    = (22, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (23, 0)
+Type        = Date
+Value       = 2012-02-14
+Unformatted = 40953
+
+Row, Col    = (23, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (23, 2)
+Type        = Numeric
+Value       = -136,843.5
+Unformatted = -136843.5
+
+Row, Col    = (23, 3)
+Type        = Numeric
+Value       = 4,307,987.2
+Unformatted = 4307987.2
+
+Row, Col    = (23, 4)
+Type        = Numeric
+Value       = - 38,012.08 -
+Unformatted = -38012.0833333333
+
+Row, Col    = (23, 5)
+Type        = Numeric
+Value       = 1,196,663.11
+Unformatted = 1196663.11111111
+
+Row, Col    = (23, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 0)
+Type        = Date
+Value       = 2012-02-15
+Unformatted = 40954
+
+Row, Col    = (24, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (24, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (24, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 0)
+Type        = Date
+Value       = 2012-02-16
+Unformatted = 40955
+
+Row, Col    = (25, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (25, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (25, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 0)
+Type        = Date
+Value       = 2012-02-17
+Unformatted = 40956
+
+Row, Col    = (26, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (26, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (26, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 0)
+Type        = Date
+Value       = 2012-02-18
+Unformatted = 40957
+
+Row, Col    = (27, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (27, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (27, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 0)
+Type        = Date
+Value       = 2012-02-19
+Unformatted = 40958
+
+Row, Col    = (28, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (28, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (28, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 0)
+Type        = Date
+Value       = 2012-02-20
+Unformatted = 40959
+
+Row, Col    = (29, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (29, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (29, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 0)
+Type        = Date
+Value       = 2012-02-21
+Unformatted = 40960
+
+Row, Col    = (30, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (30, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (30, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 0)
+Type        = Date
+Value       = 2012-02-22
+Unformatted = 40961
+
+Row, Col    = (31, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (31, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (31, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 0)
+Type        = Date
+Value       = 2012-02-23
+Unformatted = 40962
+
+Row, Col    = (32, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (32, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (32, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 0)
+Type        = Date
+Value       = 2012-02-24
+Unformatted = 40963
+
+Row, Col    = (33, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (33, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (33, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (34, 0)
+Type        = Date
+Value       = 2012-02-25
+Unformatted = 40964
+
+Row, Col    = (34, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (34, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (34, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (34, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (34, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (34, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (34, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 0)
+Type        = Date
+Value       = 2012-02-26
+Unformatted = 40965
+
+Row, Col    = (35, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (35, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (35, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 0)
+Type        = Date
+Value       = 2012-02-27
+Unformatted = 40966
+
+Row, Col    = (36, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (36, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (36, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (37, 0)
+Type        = Date
+Value       = 2012-02-28
+Unformatted = 40967
+
+Row, Col    = (37, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (37, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (37, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (37, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (37, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (37, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (37, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (38, 0)
+Type        = Date
+Value       = 2012-02-29
+Unformatted = 40968
+
+Row, Col    = (38, 1)
+Type        = Text
+Value       = P
+Unformatted = P
+
+Row, Col    = (38, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (38, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (38, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (38, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (38, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (38, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 0)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (39, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 0)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 4)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 5)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 7)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (40, 8)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (42, 0)
+Type        = Text
+Value       = P= provisional; D= definitive; C= definitive after reconciliation.
+Unformatted = P= provisional; D= definitive; C= definitive after reconciliation.
+
+Row, Col    = (42, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (42, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (42, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (43, 0)
+Type        = Text
+Value       = + injection (not including fuel gas).
+Unformatted = + injection (not including fuel gas).
+
+Row, Col    = (43, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (43, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (43, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (44, 0)
+Type        = Text
+Value       = - withdrawal (including fuel gas).
+Unformatted = - withdrawal (including fuel gas).
+
+Row, Col    = (44, 1)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (44, 2)
+Type        = Text
+Value       = 
+Unformatted = 
+
+Row, Col    = (44, 3)
+Type        = Text
+Value       = 
+Unformatted = 
+

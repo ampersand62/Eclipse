@@ -1,0 +1,498 @@
+
+<head>
+    <style type="text/css">
+        #form1
+        {
+	    width: 590px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+<form method="post" action="" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDU4NjUyMzQ2D2QWAgIBD2QWCAIBDzwrAAUBAA8WAh4FVmFsdWUGwHeJ5EppzwhkZAIDDzwrAAUBAzwrAAkBCBQrAAQWBB4SRW5hYmxlQ2FsbGJhY2tNb2RlaB4nRW5hYmxlU3luY2hyb25pemF0aW9uT25QZXJmb3JtQ2FsbGJhY2sgaGQPZBAWA2YCAQICFgMUKwABFgYeBFRleHQFHUdhc3NwZWljaGVyIFLDvGRlcnNkb3JmIEgtR2FzHwAFHUdhc3NwZWljaGVyIFLDvGRlcnNkb3JmIEgtR2FzHg5SdW50aW1lQ3JlYXRlZGcUKwABFgYfAwUdR2Fzc3BlaWNoZXIgTsO8dHRlcm1vb3IgSC1HYXMfAAUdR2Fzc3BlaWNoZXIgTsO8dHRlcm1vb3IgSC1HYXMfBGcUKwABFgYfAwUoU3BlaWNoZXJ6b25lIE7DvHR0ZXJtb29yIC8gSHVudG9yZiBMLUdhcx8ABShTcGVpY2hlcnpvbmUgTsO8dHRlcm1vb3IgLyBIdW50b3JmIEwtR2FzHwRnZGRkAgcPPCsAFgIADxYCHg9EYXRhU291cmNlQm91bmRnZAYPZBAWBGYCAQICAgMWBDwrAAsBABYGHglTb3J0SW5kZXgC/////w8eCkdyb3VwSW5kZXgC/////w8eCVNvcnRPcmRlcgspekRldkV4cHJlc3MuRGF0YS5Db2x1bW5Tb3J0T3JkZXIsIERldkV4cHJlc3MuRGF0YS52MTAuMiwgVmVyc2lvbj0xMC4yLjQuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iODhkMTc1NGQ3MDBlNDlhADwrAAsBABYGHwYC/////w8fBwL/////Dx8ICysEADwrAAsBABYGHwYC/////w8fBwL/////Dx8ICysEADwrAAsBABYGHwYC/////w8fBwL/////Dx8ICysEAA8WBAIBAgECAQIBFgEFmQFEZXZFeHByZXNzLldlYi5BU1B4R3JpZFZpZXcuR3JpZFZpZXdEYXRhVGV4dENvbHVtbiwgRGV2RXhwcmVzcy5XZWIuQVNQeEdyaWRWaWV3LnYxMC4yLCBWZXJzaW9uPTEwLjIuNC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWFkAgsPD2QPEBYCZgIBFgIWAh4OUGFyYW1ldGVyVmFsdWUGwHeJ5EppzwgWAh8JZRYCZmZkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBQURQVNQeFN0YXJ0RGF0ZSREREQFF0FTUHhTdGFydERhdGUkREREJEMkRk5QBRFBU1B4TmV0elB1bmt0JERERAUMQVNQeERhdGFWaWV3BQdBU1B4Q1NW6WirCmKoG+tIaPDd09Br9FZX39ShB/L701Irc4AOvCM=" />
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLz08L8CwLGtOGtDwL62+vlBcbzA1a9kHsTnGKCY0tOQs6AOxLsVABCBai1nv/Tmg2P" />
+<table cellpadding="0" cellspacing="0" style="margin-bottom: 16px">
+    <tr>
+        <td style="padding-right: 4px">
+            Startdatum<input type="hidden" id="ASPxStartDate_Raw" name="ASPxStartDate_Raw" value="1348587486524" /><script id="dxis_1568939630" src="/GasXLastfluss/DXR.axd?r=1_32-oEU75" type="text/javascript"></script><script id="dxis_1259834382" src="/GasXLastfluss/DXR.axd?r=1_61-oEU75" type="text/javascript"></script><script id="dxis_146543830" src="/GasXLastfluss/DXR.axd?r=2_22-mEU75" type="text/javascript"></script><script id="dxis_146453311" src="/GasXLastfluss/DXR.axd?r=2_29-mEU75" type="text/javascript"></script><script id="dxis_146723383" src="/GasXLastfluss/DXR.axd?r=2_21-mEU75" type="text/javascript"></script><script id="dxis_1569074922" src="/GasXLastfluss/DXR.axd?r=1_36-oEU75" type="text/javascript"></script><script id="dxis_331300638" src="/GasXLastfluss/DXR.axd?r=1_54-oEU75" type="text/javascript"></script><script id="dxis_331125185" src="/GasXLastfluss/DXR.axd?r=1_51-oEU75" type="text/javascript"></script><script id="dxis_690487939" src="/GasXLastfluss/DXR.axd?r=2_16-mEU75" type="text/javascript"></script><script id="dxis_146890388" src="/GasXLastfluss/DXR.axd?r=2_24-mEU75" type="text/javascript"></script><script id="dxis_1568836307" src="/GasXLastfluss/DXR.axd?r=1_39-oEU75" type="text/javascript"></script><script id="dxis_330958436" src="/GasXLastfluss/DXR.axd?r=1_52-oEU75" type="text/javascript"></script><script id="dxis_812397416" src="/GasXLastfluss/DXR.axd?r=3_7-mEU75" type="text/javascript"></script><script id="dxis_690667492" src="/GasXLastfluss/DXR.axd?r=2_15-mEU75" type="text/javascript"></script><script id="dxss_800627350" type="text/javascript">
+<!--
+window.__aspxServerFormID = 'form1';
+window.__aspxEmptyImageUrl = '/GasXLastfluss/DXR.axd?r=1_3-oEU75';
+//-->
+</script><script id="dxss_1742381301" type="text/javascript">
+<!--
+(function(){var a = ({'currNegPattern':8,'currPosPattern':3,'abbrDayNames':['So','Mo','Di','Mi','Do','Fr','Sa'],'monthNames':['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember',''],'numGroupSeparator':'.','currDecimalPoint':',','longTime':'HH:mm:ss','longDate':'dddd, d. MMMM yyyy','pm':'','currGroupSeparator':'.','shortDate':'dd.MM.yyyy','numNan':'n. def.','numPosInf':'+unendlich','abbrMonthNames':['Jan','Feb','Mrz','Apr','Mai','Jun','Jul','Aug','Sep','Okt','Nov','Dez',''],'am':'','ds':'.','numNegInf':'-unendlich','monthDay':'dd MMMM','currency':'€','yearMonth':'MMMM yyyy','numDecimalPoint':',','percentPattern':1,'dayNames':['Sonntag','Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag'],'genMonthNames':['Januar','Februar','März','April','Mai','Juni','Juli','August','September','Oktober','November','Dezember',''],'shortTime':'HH:mm'});for(var b in a) __aspxCultureInfo[b] = a[b];})();
+//-->
+</script><link rel="stylesheet" type="text/css" href="/GasXLastfluss/DXR.axd?r=2_2-mEU75" /><link rel="stylesheet" type="text/css" href="/GasXLastfluss/DXR.axd?r=2_1-mEU75" /><link rel="stylesheet" type="text/css" href="/GasXLastfluss/DXR.axd?r=2_0-mEU75" /><link rel="stylesheet" type="text/css" href="/GasXLastfluss/DXR.axd?r=3_1-mEU75" /><link rel="stylesheet" type="text/css" href="/GasXLastfluss/DXR.axd?r=3_0-mEU75" /><table class="dxeButtonEdit" cellspacing="1" cellpadding="0" id="ASPxStartDate">
+	<tr>
+		<td class="dxic" onmousedown="return aspxDDCloseUp(&#39;ASPxStartDate&#39;, event)" width="100%"><input class="dxeEditArea dxeEditAreaSys" onkeydown="aspxEKeyDown(&#39;ASPxStartDate&#39;, event)" name="ASPxStartDate" onkeyup="aspxEKeyUp(&#39;ASPxStartDate&#39;, event)" value="25.09.2012" id="ASPxStartDate_I" onblur="aspxELostFocus(&#39;ASPxStartDate&#39;)" onfocus="aspxEGotFocus(&#39;ASPxStartDate&#39;)" type="text" onchange="aspxETextChanged(&#39;ASPxStartDate&#39;)" style="margin-left:2px;margin-right:1px;margin-top:0px;margin-bottom:1px;padding-right:1px;" /></td><td id="ASPxStartDate_B-1" class="dxeButtonEditButton" onmousedown="return aspxDDDropDown(&#39;ASPxStartDate&#39;, event)"><table class="dxbebt" cellspacing="0" cellpadding="0" style="border-collapse:separate;">
+			<tr>
+				<td class="dx"><img id="ASPxStartDate_B-1Img" class="dxEditors_edtDropDown" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="v" title="" border="0" /></td>
+			</tr>
+		</table></td>
+	</tr>
+</table><input type="hidden" id="ASPxStartDate_DDDWS" name="ASPxStartDate_DDDWS" value="0:0:-1:-10000:-10000:0:-10000:-10000" /><div id="ASPxStartDate_DDD_PW-1" style="position:absolute;left:0px;top:0px;z-index:10000;visibility:hidden;display:none;">
+	<table id="ASPxStartDate_DDD_PWST-1" cellspacing="0" cellpadding="0" style="border-collapse:separate;position:relative;">
+		<tr>
+			<td onmousedown="aspxPWMDown(event,&#39;ASPxStartDate_DDD&#39;,-1,false)" width="200" style="cursor:default;"><table id="ASPxStartDate_DDD_CLW-1" cellspacing="0" cellpadding="0" width="200" style="border-collapse:separate;">
+				<tr>
+					<td id="ASPxStartDate_DDD_PWC-1"><table style="display:none;">
+						<tr>
+							<td id="ASPxStartDate_DDD_C_EC_D" class="dxeCalendarDay"></td><td id="ASPxStartDate_DDD_C_EC_DS" class="dxeCalendarSelected"></td><td id="ASPxStartDate_DDD_C_EC_DA" class="dxeCalendarOtherMonth"></td><td id="ASPxStartDate_DDD_C_EC_DW" class="dxeCalendarWeekend"></td><td id="ASPxStartDate_DDD_C_EC_DO" class="dxeCalendarOutOfRange"></td><td id="ASPxStartDate_DDD_C_EC_DT" class="dxeCalendarToday"></td><td id="ASPxStartDate_DDD_C_EC_DD" class="dxeDisabled"></td><td id="ASPxStartDate_DDD_C_EC_FNM" class="dxeCalendarFastNavMonth"></td><td id="ASPxStartDate_DDD_C_EC_FNMS" class="dxeCalendarFastNavMonthSelected"></td><td id="ASPxStartDate_DDD_C_EC_FNY" class="dxeCalendarFastNavYear"></td><td id="ASPxStartDate_DDD_C_EC_FNYS" class="dxeCalendarFastNavYearSelected"></td>
+						</tr>
+					</table><table class="dxeCalendar" cellspacing="0" cellpadding="0" id="ASPxStartDate_DDD_C">
+						<tr>
+							<td valign="top"><table cellpadding="0" width="100%" style="border-collapse:collapse;">
+								<tr>
+									<td class="dxeCalendarHeader" style="border-top:0;"><table cellpadding="0" width="100%" style="border-collapse:collapse;">
+										<tr>
+											<td id="ASPxStartDate_DDD_C_PYC" class="dxe" onclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, -12);" ondblclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, -12);"><img id="ASPxStartDate_DDD_C_PYCImg" class="dxEditors_edtCalendarPrevYear" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="&lt;&lt;" title="" border="0" /></td><td><div style="font-size:0px;">
+
+											</div></td><td id="ASPxStartDate_DDD_C_PMC" class="dxe" onclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, -1);" ondblclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, -1);"><img id="ASPxStartDate_DDD_C_PMCImg" class="dxEditors_edtCalendarPrevMonth" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="&lt;" title="" border="0" /></td><td id="ASPxStartDate_DDD_C_TC" class="dxe" width="100%" style="cursor:default;"><span id="ASPxStartDate_DDD_C_T" onclick="aspxCalTitleClick(&#39;ASPxStartDate_DDD_C&#39;, 0, 0)" style="cursor:pointer;">September 2012</span></td><td id="ASPxStartDate_DDD_C_NMC" class="dxe" onclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, 1);" ondblclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, 1);"><img id="ASPxStartDate_DDD_C_NMCImg" class="dxEditors_edtCalendarNextMonth" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt=">" title="" border="0" /></td><td><div style="font-size:0px;">
+
+											</div></td><td id="ASPxStartDate_DDD_C_NYC" class="dxe" onclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, 12);" ondblclick="aspxCalShiftMonth(&#39;ASPxStartDate_DDD_C&#39;, 12);"><img id="ASPxStartDate_DDD_C_NYCImg" class="dxEditors_edtCalendarNextYear" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt=">>" title="" border="0" /></td>
+										</tr>
+									</table></td>
+								</tr><tr>
+									<td id="ASPxStartDate_DDD_C_mc" class="dxMonthGridWithWeekNumbers"><table id="ASPxStartDate_DDD_C_mt" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:separate;">
+										<tr align="center">
+											<td></td><td class="dxeCalendarDayHeader">Mo</td><td class="dxeCalendarDayHeader">Di</td><td class="dxeCalendarDayHeader">Mi</td><td class="dxeCalendarDayHeader">Do</td><td class="dxeCalendarDayHeader">Fr</td><td class="dxeCalendarDayHeader">Sa</td><td class="dxeCalendarDayHeader">So</td>
+										</tr><tr>
+											<td class="dxeCalendarWeekNumber">35</td><td class="dxeCalendarDay dxeCalendarOtherMonth">27</td><td class="dxeCalendarDay dxeCalendarOtherMonth">28</td><td class="dxeCalendarDay dxeCalendarOtherMonth">29</td><td class="dxeCalendarDay dxeCalendarOtherMonth">30</td><td class="dxeCalendarDay dxeCalendarOtherMonth">31</td><td class="dxeCalendarDay dxeCalendarWeekend">1</td><td class="dxeCalendarDay dxeCalendarWeekend">2</td>
+										</tr><tr>
+											<td class="dxeCalendarWeekNumber">36</td><td class="dxeCalendarDay">3</td><td class="dxeCalendarDay">4</td><td class="dxeCalendarDay">5</td><td class="dxeCalendarDay">6</td><td class="dxeCalendarDay">7</td><td class="dxeCalendarDay dxeCalendarWeekend">8</td><td class="dxeCalendarDay dxeCalendarWeekend">9</td>
+										</tr><tr>
+											<td class="dxeCalendarWeekNumber">37</td><td class="dxeCalendarDay">10</td><td class="dxeCalendarDay">11</td><td class="dxeCalendarDay">12</td><td class="dxeCalendarDay">13</td><td class="dxeCalendarDay">14</td><td class="dxeCalendarDay dxeCalendarWeekend">15</td><td class="dxeCalendarDay dxeCalendarWeekend">16</td>
+										</tr><tr>
+											<td class="dxeCalendarWeekNumber">38</td><td class="dxeCalendarDay">17</td><td class="dxeCalendarDay">18</td><td class="dxeCalendarDay">19</td><td class="dxeCalendarDay">20</td><td class="dxeCalendarDay">21</td><td class="dxeCalendarDay dxeCalendarWeekend">22</td><td class="dxeCalendarDay dxeCalendarWeekend">23</td>
+										</tr><tr>
+											<td class="dxeCalendarWeekNumber">39</td><td class="dxeCalendarDay">24</td><td class="dxeCalendarDay dxeCalendarToday">25</td><td class="dxeCalendarDay">26</td><td class="dxeCalendarDay">27</td><td class="dxeCalendarDay">28</td><td class="dxeCalendarDay dxeCalendarWeekend">29</td><td class="dxeCalendarDay dxeCalendarWeekend">30</td>
+										</tr><tr>
+											<td class="dxeCalendarWeekNumber">40</td><td class="dxeCalendarDay dxeCalendarOtherMonth">1</td><td class="dxeCalendarDay dxeCalendarOtherMonth">2</td><td class="dxeCalendarDay dxeCalendarOtherMonth">3</td><td class="dxeCalendarDay dxeCalendarOtherMonth">4</td><td class="dxeCalendarDay dxeCalendarOtherMonth">5</td><td class="dxeCalendarDay dxeCalendarWeekend dxeCalendarOtherMonth">6</td><td class="dxeCalendarDay dxeCalendarWeekend dxeCalendarOtherMonth">7</td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr><tr>
+							<td class="dxeCalendarFooter"><table cellpadding="0" align="center" style="border-collapse:collapse;">
+								<tr>
+									<td><table cellspacing="0" cellpadding="0">
+										<tr>
+											<td id="ASPxStartDate_DDD_C_BT" class="dxeCalendarButton" onclick="aspxCalTodayClick(&#39;ASPxStartDate_DDD_C&#39;);"><table class="dxbebt" cellspacing="0" cellpadding="0" style="border-collapse:separate;">
+												<tr>
+													<td class="dx" width="100%">Today</td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td><td><div style="font-size:0px;">
+
+									</div></td><td><table cellspacing="0" cellpadding="0">
+										<tr>
+											<td id="ASPxStartDate_DDD_C_BC" class="dxeCalendarButton" onclick="aspxCalClearClick(&#39;ASPxStartDate_DDD_C&#39;);"><table class="dxbebt" cellspacing="0" cellpadding="0" style="border-collapse:separate;">
+												<tr>
+													<td class="dx" width="100%">Clear</td>
+												</tr>
+											</table></td>
+										</tr>
+									</table></td>
+								</tr>
+							</table></td>
+						</tr>
+					</table><input type="hidden" id="ASPxStartDate_DDD_C_FNPWS" name="ASPxStartDate_DDD_C_FNPWS" value="0:0:-1:-10000:-10000:0:0px:-10000" /><div id="ASPxStartDate_DDD_C_FNP_PW-1" style="position:absolute;left:0px;top:0px;z-index:10000;visibility:hidden;display:none;">
+						<table id="ASPxStartDate_DDD_C_FNP_PWST-1" cellspacing="0" cellpadding="0" style="border-collapse:separate;position:relative;">
+							<tr>
+								<td onmousedown="aspxPWMDown(event,&#39;ASPxStartDate_DDD_C_FNP&#39;,-1,false)" width="0" style="cursor:default;"><table id="ASPxStartDate_DDD_C_FNP_CLW-1" cellspacing="0" cellpadding="0" width="0" style="border-collapse:separate;">
+									<tr>
+										<td id="ASPxStartDate_DDD_C_FNP_PWC-1"><div class="dxeCalendarFastNav">
+											<div class="dxeCalendarFastNavMonthArea">
+												<table id="ASPxStartDate_DDD_C_FNP_m" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:separate;">
+													<tr>
+														<td class="dxeCalendarFastNavMonth">Jan</td><td class="dxeCalendarFastNavMonth">Feb</td><td class="dxeCalendarFastNavMonth">Mrz</td><td class="dxeCalendarFastNavMonth">Apr</td>
+													</tr><tr>
+														<td class="dxeCalendarFastNavMonth">Mai</td><td class="dxeCalendarFastNavMonth">Jun</td><td class="dxeCalendarFastNavMonth">Jul</td><td class="dxeCalendarFastNavMonth">Aug</td>
+													</tr><tr>
+														<td class="dxeCalendarFastNavMonth">Sep</td><td class="dxeCalendarFastNavMonth">Okt</td><td class="dxeCalendarFastNavMonth">Nov</td><td class="dxeCalendarFastNavMonth">Dez</td>
+													</tr>
+												</table>
+											</div><div class="dxeCalendarFastNavYearArea">
+												<table id="ASPxStartDate_DDD_C_FNP_y" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:separate;margin-top:8px;">
+													<tr>
+														<td onclick="aspxCalFNYShuffle(&#39;ASPxStartDate_DDD_C&#39;, -10)" ondblclick="aspxCalFNYShuffle(&#39;ASPxStartDate_DDD_C&#39;, -10)" rowspan="2" style="padding-right:8px;cursor:pointer;"><img class="dxEditors_edtCalendarFNPrevYear" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="&lt;" title="" border="0" /></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td onclick="aspxCalFNYShuffle(&#39;ASPxStartDate_DDD_C&#39;, 10)" ondblclick="aspxCalFNYShuffle(&#39;ASPxStartDate_DDD_C&#39;, 10)" rowspan="2" style="padding-left:8px;cursor:pointer;"><img class="dxEditors_edtCalendarFNNextYear" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt=">" title="" border="0" /></td>
+													</tr><tr>
+														<td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td><td class="dxeCalendarFastNavYear"></td>
+													</tr>
+												</table>
+											</div>
+										</div><div class="dxeCalendarFastNavFooter" style="text-align:center;">
+											<table cellspacing="0" cellpadding="0" align="center">
+												<tr>
+													<td id="ASPxStartDate_DDD_C_FNP_BO" class="dxeCalendarButton" onclick="aspxCalFNBClick(&#39;ASPxStartDate_DDD_C&#39;, &#39;ok&#39;)"><table class="dxbebt" cellspacing="0" cellpadding="0" style="border-collapse:separate;">
+														<tr>
+															<td class="dx" width="100%">OK</td>
+														</tr>
+													</table></td><td><div>
+
+													</div></td><td id="ASPxStartDate_DDD_C_FNP_BC" class="dxeCalendarButton" onclick="aspxCalFNBClick(&#39;ASPxStartDate_DDD_C&#39;, &#39;cancel&#39;)"><table class="dxbebt" cellspacing="0" cellpadding="0" style="border-collapse:separate;">
+														<tr>
+															<td class="dx" width="100%">Cancel</td>
+														</tr>
+													</table></td>
+												</tr>
+											</table>
+										</div></td>
+									</tr>
+								</table></td><td id="ail1565422905" style="background:url('/GasXLastfluss/DXR.axd?r=1_18-oEU75') no-repeat left top;//background:none;"><script id="dxss_731548565" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail1565422905", "/GasXLastfluss/DXR.axd?r=1_18-oEU75");
+
+//-->
+</script></td>
+							</tr><tr>
+								<td id="ail1233321880" style="background:url('/GasXLastfluss/DXR.axd?r=1_17-oEU75') no-repeat left top;//background:none;"><script id="dxss_290750058" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail1233321880", "/GasXLastfluss/DXR.axd?r=1_17-oEU75");
+
+//-->
+</script></td><td id="ail541412520" style="background:url('/GasXLastfluss/DXR.axd?r=1_19-oEU75') no-repeat left top;//background:none;"><div>
+
+								</div><script id="dxss_229493187" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail541412520", "/GasXLastfluss/DXR.axd?r=1_19-oEU75");
+
+//-->
+</script></td>
+							</tr>
+						</table>
+					</div><iframe id="ASPxStartDate_DDD_C_FNP_DXPWIF-1" src="javascript:false" scrolling="no" frameborder="0" style="position:absolute;display:none;z-index:9999;filter:progid:DXImageTransform.Microsoft.Alpha(Style=0, Opacity=0);">
+
+					</iframe><script id="dxss_1421608945" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientPopupControl('ASPxStartDate_DDD_C_FNP');
+window['ASPxStartDate_DDD_C_FNP'] = dxo;
+dxo.uniqueID = 'ASPxStartDate$DDD$C$FNP';
+dxo.renderIFrameForPopupElements = true;
+dxo.adjustInnerControlsSizeOnShow=false;
+dxo.height=0;
+dxo.InlineInitialize();
+
+//-->
+</script><input id="ASPxStartDate_DDD_C_STATE" name="ASPxStartDate$DDD$C" type="hidden" /><script id="dxss_1565720608" type="text/javascript">
+<!--
+aspxAddHoverItems('ASPxStartDate_DDD_C',[[['dxeCalendarButtonHover'],[''],['BT','BC','FNP_BO','FNP_BC']],[['dxeCalendarFastNavMonthHover'],[''],['FNP_M0','FNP_M1','FNP_M2','FNP_M3','FNP_M4','FNP_M5','FNP_M6','FNP_M7','FNP_M8','FNP_M9','FNP_M10','FNP_M11']],[['dxeCalendarFastNavYearHover'],[''],['FNP_Y0','FNP_Y1','FNP_Y2','FNP_Y3','FNP_Y4','FNP_Y5','FNP_Y6','FNP_Y7','FNP_Y8','FNP_Y9']]]);
+aspxAddPressedItems('ASPxStartDate_DDD_C',[[['dxeCalendarButtonPressed'],[''],['BT','BC','FNP_BO','FNP_BC']]]);
+
+var dxo = new ASPxClientCalendar('ASPxStartDate_DDD_C');
+window['ASPxStartDate_DDD_C'] = dxo;
+dxo.uniqueID = 'ASPxStartDate$DDD$C';
+dxo.renderIFrameForPopupElements = true;
+dxo.RequireStyleDecoration();
+dxo.styleDecoration.AddStyle('F','dxeFocused','');
+dxo.visibleDate = new Date(2012,8,25);
+dxo.selection.AddArray([new Date(2012,8,25,0,0,0,0)]);
+dxo.firstDayOfWeek = 1;
+dxo.isDateEditCalendar = true;
+dxo.InlineInitialize();
+
+//-->
+</script></td>
+				</tr>
+			</table></td><td id="ail256955905" style="background:url('/GasXLastfluss/DXR.axd?r=1_18-oEU75') no-repeat left top;//background:none;"><script id="dxss_2133202400" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail256955905", "/GasXLastfluss/DXR.axd?r=1_18-oEU75");
+
+//-->
+</script></td>
+		</tr><tr>
+			<td id="ail1026944165" style="background:url('/GasXLastfluss/DXR.axd?r=1_17-oEU75') no-repeat left top;//background:none;"><script id="dxss_655596471" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail1026944165", "/GasXLastfluss/DXR.axd?r=1_17-oEU75");
+
+//-->
+</script></td><td id="ail460605390" style="background:url('/GasXLastfluss/DXR.axd?r=1_19-oEU75') no-repeat left top;//background:none;"><div>
+
+			</div><script id="dxss_246594438" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail460605390", "/GasXLastfluss/DXR.axd?r=1_19-oEU75");
+
+//-->
+</script></td>
+		</tr>
+	</table>
+</div><iframe id="ASPxStartDate_DDD_DXPWIF-1" src="javascript:false" scrolling="no" frameborder="0" style="position:absolute;display:none;z-index:9999;filter:progid:DXImageTransform.Microsoft.Alpha(Style=0, Opacity=0);">
+
+</iframe><script id="dxss_1442026121" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientPopupControl('ASPxStartDate_DDD');
+window['ASPxStartDate_DDD'] = dxo;
+dxo.uniqueID = 'ASPxStartDate$DDD';
+dxo.renderIFrameForPopupElements = true;
+dxo.Shown.AddHandler(function (s, e) { aspxDDBPCShown('ASPxStartDate', e); });
+dxo.adjustInnerControlsSizeOnShow=false;
+dxo.closeAction='CloseButton';
+dxo.popupHorizontalAlign='LeftSides';
+dxo.popupVerticalAlign='Below';
+dxo.width=0;
+dxo.height=0;
+dxo.InlineInitialize();
+
+//-->
+</script><script id="dxss_2033473430" type="text/javascript">
+<!--
+aspxAddHoverItems('ASPxStartDate',[[['dxeButtonEditButtonHover'],[''],['B-1'],,[['']],['Img']]]);
+aspxAddPressedItems('ASPxStartDate',[[['dxeButtonEditButtonPressed'],[''],['B-1'],,[['']],['Img']]]);
+document.getElementById("ASPxStartDate_I").setAttribute("autocomplete", "off");
+
+var dxo = new ASPxClientDateEdit('ASPxStartDate');
+window['ASPxStartDate'] = dxo;
+dxo.renderIFrameForPopupElements = true;
+dxo.widthCorrectionRequired = true;
+dxo.RequireStyleDecoration();
+dxo.styleDecoration.AddStyle('F','dxeFocused','');
+dxo.date = new Date(2012,8,25,15,38,6,524);
+dxo.dateFormatter = ASPxDateFormatter.Create('dd.MM.yyyy');
+dxo.InlineInitialize();
+
+//-->
+</script>
+        </td>
+        <td style="padding-right: 4px">
+            
+            Standort<table class="dxeButtonEdit" cellspacing="1" cellpadding="0" id="ASPxNetzPunkt" width="260">
+	<tr>
+		<td style="display:none;"><input id="ASPxNetzPunkt_VI" name="ASPxNetzPunkt_VI" type="hidden" /></td><td class="dxic" onmousedown="return aspxDDDropDown(&#39;ASPxNetzPunkt&#39;, event)" width="100%"><input class="dxeEditArea dxeEditAreaSys" onkeydown="aspxEKeyDown(&#39;ASPxNetzPunkt&#39;, event)" name="ASPxNetzPunkt" value="Gasspeicher R쎼dersdorf H-Gas" id="ASPxNetzPunkt_I" onblur="aspxELostFocus(&#39;ASPxNetzPunkt&#39;)" onfocus="aspxEGotFocus(&#39;ASPxNetzPunkt&#39;)" type="text" onchange="aspxETextChanged(&#39;ASPxNetzPunkt&#39;)" readonly="readonly" style="margin-left:2px;margin-right:1px;margin-top:0px;margin-bottom:1px;cursor:default;padding-right:1px;" /></td><td id="ASPxNetzPunkt_B-1" class="dxeButtonEditButton" onmousedown="return aspxDDDropDown(&#39;ASPxNetzPunkt&#39;, event)"><table class="dxbebt" cellspacing="0" cellpadding="0" style="border-collapse:separate;">
+			<tr>
+				<td class="dx"><img id="ASPxNetzPunkt_B-1Img" class="dxEditors_edtDropDown" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="v" title="" border="0" /></td>
+			</tr>
+		</table></td>
+	</tr>
+</table><input type="hidden" id="ASPxNetzPunkt_DDDWS" name="ASPxNetzPunkt_DDDWS" value="0:0:-1:-10000:-10000:0:-10000:-10000" /><div id="ASPxNetzPunkt_DDD_PW-1" style="position:absolute;left:0px;top:0px;z-index:10000;visibility:hidden;display:none;">
+	<table id="ASPxNetzPunkt_DDD_PWST-1" cellspacing="0" cellpadding="0" style="border-collapse:separate;position:relative;">
+		<tr>
+			<td onmousedown="aspxPWMDown(event,&#39;ASPxNetzPunkt_DDD&#39;,-1,false)" width="200" style="cursor:default;"><table id="ASPxNetzPunkt_DDD_CLW-1" cellspacing="0" cellpadding="0" width="200" style="border-collapse:separate;">
+				<tr>
+					<td id="ASPxNetzPunkt_DDD_PWC-1"><table class="dxeListBox" cellspacing="0" cellpadding="0" id="ASPxNetzPunkt_DDD_L" style="border-collapse:separate;">
+						<tr>
+							<td valign="top"><div id="ASPxNetzPunkt_DDD_L_D" class="dxlbd" style="overflow-x:hidden;overflow-y:auto;">
+								<input id="ASPxNetzPunkt_DDD_L_VI" type="hidden" name="ASPxNetzPunkt$DDD$L" /><table id="ASPxNetzPunkt_DDD_L_LBT" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:separate;">
+									<tr class="dxeListBoxItemRow">
+										<td class="dxeListBoxItem">Gasspeicher R&#252;dersdorf H-Gas</td>
+									</tr><tr class="dxeListBoxItemRow">
+										<td class="dxeListBoxItem">Gasspeicher N&#252;ttermoor H-Gas</td>
+									</tr><tr class="dxeListBoxItemRow">
+										<td class="dxeListBoxItem">Speicherzone N&#252;ttermoor / Huntorf L-Gas</td>
+									</tr>
+								</table>
+							</div></td>
+						</tr>
+					</table><script id="dxss_1818547697" type="text/javascript">
+<!--
+aspxAddDisabledItems('ASPxNetzPunkt_DDD_L',[[['dxeDisabled'],[''],['']]]);
+
+var dxo = new ASPxClientListBox('ASPxNetzPunkt_DDD_L');
+window['ASPxNetzPunkt_DDD_L'] = dxo;
+dxo.uniqueID = 'ASPxNetzPunkt$DDD$L';
+dxo.renderIFrameForPopupElements = true;
+dxo.SelectedIndexChanged.AddHandler(function (s, e) { aspxCBLBSelectedIndexChanged('ASPxNetzPunkt', e); });
+dxo.ItemClick.AddHandler(function (s, e) { aspxCBLBItemMouseUp('ASPxNetzPunkt', e); });
+dxo.RequireStyleDecoration();
+dxo.styleDecoration.AddStyle('F','dxeFocused','');
+dxo.itemsValue=['Gasspeicher Rüdersdorf H-Gas','Gasspeicher Nüttermoor H-Gas','Speicherzone Nüttermoor / Huntorf L-Gas'];
+dxo.isComboBoxList = true;
+dxo.hoverClasses=['dxeListBoxItemHover'];
+dxo.selectedClasses=['dxeListBoxItemSelected'];
+dxo.disabledClasses=['dxeDisabled'];
+dxo.InlineInitialize();
+
+//-->
+</script></td>
+				</tr>
+			</table></td><td id="ail816191531" style="background:url('/GasXLastfluss/DXR.axd?r=1_18-oEU75') no-repeat left top;//background:none;"><script id="dxss_902889453" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail816191531", "/GasXLastfluss/DXR.axd?r=1_18-oEU75");
+
+//-->
+</script></td>
+		</tr><tr>
+			<td id="ail755408261" style="background:url('/GasXLastfluss/DXR.axd?r=1_17-oEU75') no-repeat left top;//background:none;"><script id="dxss_832275935" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail755408261", "/GasXLastfluss/DXR.axd?r=1_17-oEU75");
+
+//-->
+</script></td><td id="ail635478780" style="background:url('/GasXLastfluss/DXR.axd?r=1_19-oEU75') no-repeat left top;//background:none;"><div>
+
+			</div><script id="dxss_1407786951" type="text/javascript">
+<!--
+
+    _aspxEnsureAlphaImageLoaderApplierRegistered();    
+    _aspxAddAlphaImageLoaderTarget("ail635478780", "/GasXLastfluss/DXR.axd?r=1_19-oEU75");
+
+//-->
+</script></td>
+		</tr>
+	</table>
+</div><iframe id="ASPxNetzPunkt_DDD_DXPWIF-1" src="javascript:false" scrolling="no" frameborder="0" style="position:absolute;display:none;z-index:9999;filter:progid:DXImageTransform.Microsoft.Alpha(Style=0, Opacity=0);">
+
+</iframe><script id="dxss_644950147" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientPopupControl('ASPxNetzPunkt_DDD');
+window['ASPxNetzPunkt_DDD'] = dxo;
+dxo.uniqueID = 'ASPxNetzPunkt$DDD';
+dxo.renderIFrameForPopupElements = true;
+dxo.Shown.AddHandler(function (s, e) { aspxDDBPCShown('ASPxNetzPunkt', e); });
+dxo.adjustInnerControlsSizeOnShow=false;
+dxo.closeAction='CloseButton';
+dxo.popupHorizontalAlign='LeftSides';
+dxo.popupVerticalAlign='Below';
+dxo.width=0;
+dxo.height=0;
+dxo.InlineInitialize();
+
+//-->
+</script><script id="dxss_103128305" type="text/javascript">
+<!--
+aspxAddHoverItems('ASPxNetzPunkt',[[['dxeButtonEditButtonHover'],[''],['B-1'],,[['']],['Img']]]);
+aspxAddPressedItems('ASPxNetzPunkt',[[['dxeButtonEditButtonPressed'],[''],['B-1'],,[['']],['Img']]]);
+document.getElementById("ASPxNetzPunkt_I").setAttribute("autocomplete", "off");
+
+var dxo = new ASPxClientComboBox('ASPxNetzPunkt');
+window['ASPxNetzPunkt'] = dxo;
+dxo.renderIFrameForPopupElements = true;
+dxo.RequireStyleDecoration();
+dxo.styleDecoration.AddStyle('F','dxeFocused','');
+dxo.autoResizeWithContainer = true;
+dxo.InlineInitialize();
+
+//-->
+</script>
+        </td>
+        <td style="padding-right: 4px">
+            <input type="submit" name="ASPxOK" value="OK" id="ASPxOK" />
+    </table>
+<table class="dxgvControl" cellspacing="0" cellpadding="0" id="ASPxDataView" width="100%" style="border-collapse:separate;">
+	<tr>
+		<td style="padding-left:0px;padding-right:0px;padding-top:0px;padding-bottom:0px;"><table id="ASPxDataView_DXMainTable" class="dxgvTable" cellspacing="0" cellpadding="0" width="100%" style="empty-cells:show;">
+			<tr id="ASPxDataView_DXHeadersRow">
+				<td id="ASPxDataView_DX-GSDT-col0" class="dxgvHeader" onmousedown="aspxGVHeaderMouseDown(&#39;ASPxDataView&#39;, this, event);" style="border-top-width:0px;border-left-width:0px;"><table cellspacing="0" cellpadding="0" width="100%">
+					<tr>
+						<td>Datum</td>
+					</tr>
+				</table></td><td id="ASPxDataView_DX-GSDT-col1" class="dxgvHeader" onmousedown="aspxGVHeaderMouseDown(&#39;ASPxDataView&#39;, this, event);" style="border-top-width:0px;border-left-width:0px;"><table cellspacing="0" cellpadding="0" width="100%">
+					<tr>
+						<td>Einlagerung [m³/d]</td>
+					</tr>
+				</table></td><td id="ASPxDataView_DX-GSDT-col2" class="dxgvHeader" onmousedown="aspxGVHeaderMouseDown(&#39;ASPxDataView&#39;, this, event);" style="border-top-width:0px;border-left-width:0px;"><table cellspacing="0" cellpadding="0" width="100%">
+					<tr>
+						<td>Auslagerung [m³/d]</td>
+					</tr>
+				</table></td><td id="ASPxDataView_DX-GSDT-col3" class="dxgvHeader" onmousedown="aspxGVHeaderMouseDown(&#39;ASPxDataView&#39;, this, event);" style="border-top-width:0px;border-left-width:0px;border-right-width:0px;"><table cellspacing="0" cellpadding="0" width="100%">
+					<tr>
+						<td>Füllstand AGV [m³]</td>
+					</tr>
+				</table></td>
+			</tr><tr class="dxgvEmptyDataRow">
+				<td class="dxgv" colspan="4" style="border-bottom-width:0px;"><div>
+					Keine Daten
+				</div></td>
+			</tr>
+		</table><img id="ASPxDataView_IADD" class="dxGridView_gvDragAndDropArrowDown" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="|" title="" border="0" style="position:absolute;visibility:hidden;top:-100px;" /><img id="ASPxDataView_IADU" class="dxGridView_gvDragAndDropArrowUp" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="|" title="" border="0" style="position:absolute;visibility:hidden;top:-100px;" /><img id="ASPxDataView_IDHF" class="dxGridView_gvDragAndDropHideColumn" src="/GasXLastfluss/DXR.axd?r=1_3-oEU75" alt="Hide" title="" border="0" style="position:absolute;visibility:hidden;top:-100px;" /><table id="ASPxDataView_LP" class="dxgvLoadingPanel" cellspacing="0" cellpadding="0" style="left:0px;top:0px;z-index:30000;display:none;">
+			<tr>
+				<td class="dx"><img src="/GasXLastfluss/DXR.axd?r=3_3-mEU75" alt="" align="middle" border="0" /></td><td class="dx" style="padding-left:0px;">Loading&hellip;</td>
+			</tr>
+		</table><div id="ASPxDataView_LD" class="dxgvLoadingDiv" style="display:none;z-index:29999;position:absolute;">
+
+		</div><input type="hidden" name="ASPxDataView$DXSelInput" id="ASPxDataView_DXSelInput" /><table id="ASPxDataView_DXStyleTable" style="display:none;">
+			<tr>
+				<td></td>
+			</tr><tr class="dxgvEditingErrorRow">
+				<td class="dxgv" colspan="4" style="border-right-width:0px;"></td>
+			</tr><tr class="dxgvSelectedRow">
+				<td></td>
+			</tr><tr class="dxgvFocusedRow">
+				<td></td>
+			</tr><tr class="dxgvFocusedGroupRow">
+				<td></td>
+			</tr>
+		</table><input type="hidden" name="ASPxDataView$CallbackState" id="ASPxDataView_CallbackState" value="/wEWBB4ERGF0YQXwAUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFCQUFBQUFWRVlYUjFiUVZFWVhSMWJRY0JBQk5GYVc1c1lXZGxjblZ1WnlCYmJjS3pMMlJkRTBWcGJteGhaMlZ5ZFc1bklGdHR3ck12WkYwRkFRQVRRWFZ6YkdGblpYSjFibWNnVzIzQ3N5OWtYUk5CZFhOc1lXZGxjblZ1WnlCYmJjS3pMMlJkQlFFQUZFYkR2R3hzYzNSaGJtUWdRVWRXSUZ0dHdyTmRGRWJEdkd4c2MzUmhibVFnUVVkV0lGdHR3ck5kQlFFQUFBQUFBQWNBQndBPR4FU3RhdGUFUEJ3UUhBQUlCQndFQ0FRY0NBZ0VIQXdJQkJ3QUhBQWNBQndBRkFBQUFnQWtDQUFrQ0FBSUFBd2NFQWdBSEFBSUJCd0FIQUFJQkJ3QUhBQT09" /></td>
+	</tr>
+</table><script id="dxss_2085764277" type="text/javascript">
+<!--
+
+var dxo = new ASPxClientGridView('ASPxDataView');
+window['ASPxDataView'] = dxo;
+dxo.callBack = function(arg) { WebForm_DoCallback('ASPxDataView',arg,aspxCallback,'ASPxDataView',aspxCallbackError,true); };
+dxo.renderIFrameForPopupElements = true;
+dxo.callBacksEnabled=true;
+dxo.pageRowCount=0;
+dxo.pageRowSize=10;
+dxo.pageIndex=-1;
+dxo.pageCount=0;
+dxo.selectedWithoutPageRowCount=0;
+dxo.visibleStartIndex=0;
+dxo.focusedRowIndex=-1;
+dxo.allowFocusedRow=false;
+dxo.isColumnsResizable=false;
+dxo.isVerticalScrolling=false;
+dxo.isHorizontalScrolling=false;
+dxo.isMainControlResizable=false;
+dxo.callbackOnFocusedRowChanged=false;
+dxo.callbackOnSelectionChanged=false;
+dxo.autoFilterDelay='1200';
+dxo.ClearColumns();
+dxo.CreateColumn('',0,'Datum',1,'');
+dxo.CreateColumn('',1,'Einlagerung [m³/d]',1,'');
+dxo.CreateColumn('',2,'Auslagerung [m³/d]',1,'');
+dxo.CreateColumn('',3,'Füllstand AGV [m³]',1,'');
+dxo.editState=0;
+dxo.wholeCommandCellLikeCheckBox=false;
+dxo.InlineInitialize();
+
+//-->
+</script>
+<table cellspacing="0" cellpadding="0" id="ASPxCSV" style="border-collapse:separate;">
+	<tr>
+		<td id="ASPxCSV_B" class="dxbButton" align="center"><div id="ASPxCSV_CD" class="dxb">
+			<span>CSV Export</span>
+		</div></td><td width="0%"><input value="" onfocus="aspxBGotFocus(&#39;ASPxCSV&#39;)" type="button" border="0" style="padding:0px;" /></td>
+	</tr>
+</table><script id="dxss_1811457749" type="text/javascript">
+<!--
+aspxAddHoverItems('ASPxCSV',[[['dxbButtonHover'],[''],['B'],['','TC'],[['']],['Img']]]);
+aspxAddPressedItems('ASPxCSV',[[['dxbButtonPressed'],[''],['B'],['','TC'],[['']],['Img']]]);
+
+var dxo = new ASPxClientButton('ASPxCSV');
+window['ASPxCSV'] = dxo;
+dxo.autoPostBack = true;
+dxo.renderIFrameForPopupElements = true;
+dxo.RegisterServerEventAssigned(['Click']);
+aspxAddSelectedItems('ASPxCSV',[[['dxbf'],[''],['CD']]]);
+dxo.autoPostBackFunction = function(postBackArg) { WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ASPxCSV",  postBackArg, true, "", "", false, true)); };
+dxo.useSubmitBehavior = false;
+dxo.InlineInitialize();
+
+//-->
+</script>
+
+
+</form>
+</body>

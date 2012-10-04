@@ -1,0 +1,62 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::japan_lng;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "japan_lng"; }
+sub name { "japan_lng";}
+sub usesWWW { 1; }
+#
+use Data::Dumper;
+
+#URL of website to scrape
+my $URL = "http://www.customs.go.jp/toukei/srch/indexe.htm?M=01&P=0,2,,,,,,,,3,0,2009,0,4,4,2,271111000,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,";
+my $corrected_URL = "http://www.customs.go.jp/toukei/srch/jccht01e.htm?P=0,2,,,,,,,,3,0,2009,0,4,4,2,271111000,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,";
+my $third_URL = "http://www.customs.go.jp/toukei/srch/jccht00d.htm?P=0,2,,,,,,,,3,0,2009,0,4,4,2,271111000,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,";
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+
+	my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) =
+	    localtime(time);
+
+
+	$self->{mech}->get($third_URL);
+	print Dumper( $self->{mech}->content());
+		
+=pod
+#1)	INSTRUCTIONS:
+	1) Go to the URL
+	2) There is one year field and 2 month fields. 
+	Set both the month fields to last month and the month before (based on todays date). They dont always have data for last month but worth trying anyway.
+	3) Click search.We want everything in the country and quanitity2 columns. So the final array should look like: (date,country,quantity).
+
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.japan_lng_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

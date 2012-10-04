@@ -1,0 +1,65 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::wmo;
+our $DEBUG = 1;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "wmo"; }
+sub name { "wmo";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://worldweather.wmo.int/europe.htm";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+
+	$self->{mech}->get($URL);
+
+	# Cheating here slightly, since the links we want all have the
+	# same <font> tag...
+	foreach my $link (
+	    $self->{mech}->find_all_links(
+		text_regex => qr/<font class="text15">.*<\/font>/
+	    )
+	    ) {
+	    
+	    $self->{mech}->get($link->url());
+	    
+	    print $self->{mech}->content() if $DEBUG;
+	}
+=pod
+1) go to http://worldweather.wmo.int/europe.htm
+2). for each and every country in the first table, choose each and every region for that country. then we want the data in the first table.date in yyyy-mm-dd format.
+the final array should look like: <date,min_temp.max_temp,weather>. 
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.wmo_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

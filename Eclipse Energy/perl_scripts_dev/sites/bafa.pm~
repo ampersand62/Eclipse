@@ -1,0 +1,57 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::bafa;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "bafa"; }
+sub name { "bafa";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://www.bafa.de/bafa/de/energie/erdgas/index.html";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+=pod
+#1)	INSTRUCTIONS:
+1) Go to http://www.bafa.de/bafa/de/energie/erdgas/index.html
+2) Click on the 2nd link called "Aufkommen und Export von Erdgas sowie die Entwicklung der Grenzübergangspreise ab 1991 XLS (xls 83 KByte)" which is on the right hand side of the page
+3) In the excel sheet, grab all the columns in the first tab called "Bilanz...". We dont need the last 3 rows, just the ones with monthly numbers.
+4) get rid of commas and turn the months into a date format YYYY-MM-01.
+5) So the final array should look like: (date,type,value)
+
+6) Then go to the second tab called "Imp Preise". We want the data from the whole table. NOte 2012 data will be added soon so we have to write the script in order for it to find it when it arrives and not hard code the cells we look for.
+7) Get rid of commas. We also dont need the last row "gesamp".
+8) so the final array should look like: (date,type,value).
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.bafa_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

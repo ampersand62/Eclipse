@@ -1,0 +1,60 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::thailand_lng;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+use Data::Dumper;
+our $DEBUG = 1;
+
+sub key { "thailand_lng"; }
+sub name { "thailand_lng";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://search.customs.go.th:8090/Customs-Eng/Statistic/Statistic.jsp?menuNme=Statistic";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+
+		
+=pod
+#1)	INSTRUCTIONS:
+1) Go to http://search.customs.go.th:8090/Customs-Eng/Statistic/Statistic.jsp?menuNme=Statistic
+2) Click on "Import - Export Statistics from January 2007 to Current"
+3) Check "HS Code". Use code: 27111100000. Check "Import"
+4) We want to download the data from the last 3 months, so maybe have a loop for each month.
+5) In the resulting table,we want the data in the left hand side of the table (for the month we searched for). We want the month
+and year from the header to make the date in yyyy-mm-01 format,the country , quantity and CIF Value(Baht) columns. No
+need for the total row at the bottom.
+6) So the final array should look like: (date,country,quantity,value)
+
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.thailand_lng_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+

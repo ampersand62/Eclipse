@@ -1,0 +1,1102 @@
+$VAR1 = "<html>
+<head>
+<title>Import - Export Statistics :: Thai Customs Department</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-874\">
+<style type=\"text/css\">
+<!-- 
+A:visited { text-decoration: none; color: #646464}  
+A:link { text-decoration: none; color: #006699}  
+A:hover { text-decoration: none; font-weight: underline; color :  #FF6600} 
+.txtwhite { font-family: MS Sans Serif, Microsoft Sans Serif; color: #FFFFFF; Font-size: 18px;  font-weight: bold }
+.txt { font-family: MS Sans Serif, Microsoft Sans Serif; Font-size: 14px;  font-weight: normal }
+
+
+.Table
+{
+	 font-family:  \"MS Sans Serif, Tahoma, sans-serif\";
+	 font-size: 14px;
+	 font-weight: normal;
+	 background-color:#E8E8E8;
+	 padding-right : 1px;  padding-left:1px;
+	 border: solid 1 #5276B5;
+	 border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px
+}
+.HeadTable
+{
+ font-family:  \"MS Sans Serif, Tahoma, sans-serif\";
+	 font-size: 14px;
+	 font-weight: normal;
+	 background-color:#DEEFFF;
+	 color :  #003366;
+}
+.HeadTable1
+{
+ font-family:  \"MS Sans Serif, Tahoma, sans-serif\";
+	 font-size: 14px;
+	 font-weight: bold;
+	 background-color:#A5B6C6;
+	 color :  #333366;
+}
+.HeadTable2
+{
+ font-family:  \"MS Sans Serif, Tahoma, sans-serif\";
+	 font-size: 14px;
+	 font-weight: normal;
+	 background-color:#7691A9;
+	 color :  #FFFFFF;
+}
+
+
+.TableGray2
+{
+ font-family:  \"MS Sans Serif, Tahoma, sans-serif\";
+	 font-size: 14px;
+	 font-weight: bold;
+	 background-color:#DDDDDD;
+	 color :  #000000;
+}
+
+.TableGray
+{
+ font-family:  \"MS Sans Serif, Tahoma, sans-serif\";
+	 font-size: 14px;
+	 font-weight: normal;
+	 background-color:#EFEFEF;
+
+}
+
+
+
+-->
+</style>
+<script language=\"JavaScript\" type=\"text/JavaScript\">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf(\"#\")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf(\"?\"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+
+
+
+
+
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-874\">
+</head>
+
+<body background=\"../image/bg.gif\" link=\"#0000CC\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\">
+<!-- ++  HEAD ++-->
+<table width=\"780\" height=\"80\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" background=\"../image/head_bg3.gif\">
+  <tr> 
+    <td width=\"39%\" valign=\"top\" background=\"../image/logo.gif\"><div align=\"right\"><img src=\"../image/logoEng.gif\" width=\"350\" height=\"80\"></div></td>
+    <td width=\"61%\" valign=\"top\"><table width=\"100%\" height=\"80\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">
+        <tr> 
+          <td width=\"49%\" height=\"60\"></td>
+          <td width=\"17%\"><a href=\"javascript:history.go(-1);\" onMouseOver=\"MM_swapImage('Image2','','../image/bu_back2.gif',1)\" onMouseOut=\"MM_swapImgRestore()\"><img src=\"../image/bu_back1.gif\" name=\"Image2\" width=\"47\" height=\"47\" border=\"0\" id=\"Image2\" alt=\"Back\"></a></td>
+          <td width=\"17%\"><a href=\"../indexEng.jsp\" onMouseOver=\"MM_swapImage('Image1','','../image/bu_home2.gif',1)\" onMouseOut=\"MM_swapImgRestore()\"><img src=\"../image/bu_home1.gif\" name=\"Image1\" width=\"47\" height=\"47\" border=\"0\" id=\"Image1\" alt=\"Home\"></a></td>
+          <td width=\"17%\"><a href=\"javascript:history.go(+1);\" onMouseOver=\"MM_swapImage('Image3','','../image/bu_next2.gif',1)\" onMouseOut=\"MM_swapImgRestore()\"><img src=\"../image/bu_next1.gif\" name=\"Image3\" width=\"47\" height=\"47\" border=\"0\" id=\"Image3\" alt=\"Next\"></a></td>
+        </tr>
+        <tr valign=\"top\"> 
+          <td colspan=\"4\"> </td>
+        </tr>
+      </table> </td>
+
+  </tr>
+</table>
+<!-- ++ END HEAD ++-->
+
+<!--<body background=\"../internet/bg.gif\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\">-->
+
+<table width=\"780\"  border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\">
+   <tr valign=\"top\">
+      <td width=\"22%\"  bgcolor=\"#294994\"><html>
+<head>
+<title>>> Thai Customs <<</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-874\">
+<style type=\"text/css\">
+<!--
+a:link {color: #005CA2;	text-decoration: none;font-size: 14px;}
+a:visited { color: #005CA2; text-decoration: none;font-size: 14px;}
+a:active { color: #0099FF; text-decoration: none;font-size: 14px;}
+a:hover { color: #FF6600; text-decoration: none;font-size: 14px;}
+
+TD.gen	{font-size: 14px; stye:bold}
+TD.gen 	 A:link {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH: 100%;
+	 COLOR: black;  	 text-decoration: none;}
+TD.gen 	 A:visited {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH:100%; COLOR: navy;
+	 text-decoration: none}
+TD.gen 	 A:hover {
+	 COLOR: #993300;
+	 BACKGROUND-COLOR:#FFFFFF;
+	 text-decoration: none}
+	 
+TD.gene	{font-size: 14px; stye:bold}
+TD.gene 	 A:link {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH: 100%;
+	 COLOR: black;  	 text-decoration: none;}
+TD.gene 	 A:visited {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH:100%; COLOR: navy;
+	 text-decoration: none}
+TD.gene 	 A:hover {
+	 COLOR: #993300;
+	 BACKGROUND-COLOR:#FCF2AD;
+	 text-decoration: none}
+
+TD.gensub	{font-size: 14px; stye:bold}
+TD.gensub 	 A:link {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH: 100%;
+	 COLOR: black;  	 text-decoration: none;}
+TD.gensub 	 A:visited {
+	 PADDING-LEFT: 1px;
+	 PADDING-RIGHT: 1px;
+	 FONT-WEIGHT: none;
+	 WIDTH:100%; COLOR: navy;
+	 text-decoration: none}
+TD.gensub 	 A:hover {
+	 COLOR:navy ;
+	 BACKGROUND-COLOR:#E0E6FE;
+	 text-decoration: none}
+
+.buttongreen	{color:#330099;
+	 background-color:#DCFAF1;
+	 border: #1CC492;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+.buttonyellow	{color:#330099;
+	 background-color:#F1E2E2;
+	 border: #990066;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+
+.buttonyellow1	{color:#330099;
+	 background-color:#FCF9E0;
+	 border: #EFBD10;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+.buttonlist	{color:#330099;
+	 background-color:#E9F1F9;
+	 border: #6699CC;
+	 border-style: solid;
+	 border-top-width: 1px; 	 
+	 border-right-width: 1px;
+	 border-bottom-width: 1px;
+	 border-left-width: 1px}
+.linkmenu{cursor:hand;
+	background-color:#DCFAF1}
+-->
+</style>
+</head>
+<body leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\" onLoad=\"preload();populate()\">
+
+<table width=\"166\" border=\"1\" cellspacing=\"2\" cellpadding=\"0\" bgcolor=\"#C6D8F4\" bordercolor=white>
+  <tr> 
+    <td width='100%'> <table width=\"100%\" cellspacing=\"1\">
+        <tr> 
+          <td align=center width='12'><img src=\"../image/ico_plus.gif\"  id=\"transicon\"></td>
+          <td valign=bottom class=\"gene\"><a href=\"#\"><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue> 
+            <b>
+			<div style=\"cursor:hand\" onClick=\"expandit(this);showhide(transdisplay,transicon);\">
+&nbsp;About&nbsp;Us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+            </b></font></a></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td> 
+      <!-- Menu : About Us -->
+      <span id=\"transdisplay\" style=\"display:\"> 
+      <table width=\"100%\" border=\"0\" align=\"center\" cellspacing=\"1\"  bgcolor=\"#F3FEDE\" class=\"buttongreen\">
+        <tr> 
+          <td class=\"gen\"><a href='../Administrator/Historical.jsp?menuNme=AboutUs'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" width=\"15\" height=\"9\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Historical <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Background</font></a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\"><a href='../Administrator/VisionMission.jsp?menuNme=AboutUs'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" width=\"15\" height=\"9\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Vision/Mission</font></a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\"><a href='../Functions/Functions.jsp?menuNme=AboutUs'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" width=\"15\" height=\"9\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Functions 
+            and <br>
+            &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Responsibilities</font></a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\" valign=bottom> <a href='../AdministrativeOrg/AdministrativeOrg.jsp?menuNme=AboutUs'> 
+            <div style=\"cursor:hand\">&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" width=\"15\" height=\"9\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Administrative 
+              <br>
+              &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Organization</font></div>
+            </a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\" valign=bottom> <a href='../Administrator/CustomsHouse.jsp?menuNme=AboutUs'> 
+            <div style=\"cursor:hand\">&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" width=\"15\" height=\"9\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Customs House</font></div>
+            </a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\"><a href='../RevenueCollection/RevenueCollection.jsp?menuNme=AboutUs'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" width=\"15\" height=\"9\"  border=0><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>&nbsp;Revenue 
+            Collection</font></a></td>
+        </tr>
+      </table>
+      </span> 
+      <!-- End Menu : About Us -->    </td>
+  </tr>
+  <tr> 
+    <td width='100%'> <table width=\"100%\" cellspacing=\"1\">
+        <tr> 
+          <td align=center width='12'><img src=\"../image/ico_plus.gif\"  id=\"cargoicon\"></td>
+          <td valign=bottom class=\"gene\"><a href=\"#\"><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>
+            <b>
+			<div style=\"cursor:hand\" onClick=\"expandit(this);showhide(cargodisplay,cargoicon);\">
+			&nbsp;Import / Export&nbsp;&nbsp;</div>
+            </b></font></a></td>
+        </tr>
+      </table></td>
+  </tr>
+
+  <tr>
+    <td> 
+      <!-- Menu : Cargo Clearance -->
+      <span id=\"cargodisplay\" style=\"display:\"> 
+      <table width=\"100%\" border=\"0\" align=\"center\" cellspacing=\"1\"  bgcolor=\"#FDEBCC\" class=\"buttongreen\">
+        <tr> 
+          <td class=\"gen\"><a href='../CargoClearance/CargoClearance.jsp?menuNme=Cargo'>&nbsp; 
+            <img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Customs Automation System</font></a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\" valign=bottom> <a href='../CargoClearance/CargoClearance.jsp?menuNme=Cargo#import'> 
+            <div style=\"cursor:hand\">&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" border=0  id=\"admicon\">&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>e-Import Procedures</font></div>
+            </a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\"><a href='../CargoClearance/CargoClearance.jsp?menuNme=Cargo#export'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>e-Export Procedures</font> </a></td>
+        </tr>
+      </table>
+      </span> 
+      <!-- End Menu : Cargo Clearance -->    </td>
+  </tr>
+  <tr> 
+    <td width='100%'>
+	<table width=\"100%\" cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"  id=\"tariffnoicon\"></td>
+    <td class=\"gene\"><a href=\"#\">
+	<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>
+            <b>
+		<div style=\"cursor:hand\" onClick=\"expandit(this);showhide(tariffnodisplay,tariffnoicon);\">
+			&nbsp;Tariff&nbsp;Nomenclature</div>
+	</b></font></a></td>
+  </tr>
+  </table>  </td>
+  </tr>
+  <tr>
+    <td> 
+      <!-- Menu : Tariff Nomenclature -->
+      <span id=\"tariffnodisplay\" style=\"display:\"> 
+      <table width=\"100%\" border=\"0\" align=\"center\" cellspacing=\"1\"  bgcolor=\"#FDEBCC\" class=\"buttongreen\">
+        <tr> 
+          <td class=\"gen\"><a href='../TariffNomenclature/TariffNomenclature.jsp?menuNme=Tariff'>&nbsp; 
+            <img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Overview</font></a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\" valign=bottom> <a href='../TariffNomenclature/TariffNomenclature.jsp?menuNme=Tariff#interpretation'> 
+            <div style=\"cursor:hand\">&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\" border=0  id=\"admicon\">&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Interpretation Rules</font></div>
+            </a></td>
+        </tr>
+      </table>
+      </span> 
+      <!-- End Menu : Tariff Nomenclature -->    </td>
+  </tr>
+
+
+  <tr> 
+    <td width='100%'>
+	<table width=\"100%\" cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../Valuation/Valuation.jsp?menuNme=Valuation\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Valuation</font></b></a></td>
+  </tr>
+  </table>  </td>
+  </tr>  <tr> 
+    <td width='100%'>
+	<table cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../Sample/Sample.jsp?menuNme=Sample\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Sample 
+      of Duty &nbsp;Assessment</font></b></a></div></td>
+  </tr>
+  </table>  </td>
+  </tr>  
+  <tr> 
+    <td width='100%'><table cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"  id=\"expicon\"></td>
+    <td valign=bottom class=\"gene\">
+	<a href=\"#\"><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue><b>
+	<div style=\"cursor:hand;\" onClick=\"expandit(this);showhide(expdisplay,expicon);\">
+	&nbsp;Export Promotion &nbsp;and Privileges</div>
+      </b></font></a></td>
+  </tr></table></td>
+  </tr>
+  <tr>
+    <td> 
+      <!-- Menu : Export Promotion and Privileges -->
+      <span id=\"expdisplay\" style=\"display:\"> 
+      <table width=\"100%\" border=\"0\" align=\"center\" cellspacing=\"1\"  bgcolor=\"#DCFAF1\" class=\"buttongreen\">
+        <tr> 
+          <td class=\"gen\"><a href='../ExportPromotion/ExportPromotion.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Overview</font></a></td>
+        </tr>
+        <tr> 
+          <td class=\"gen\"><a href='../DutyDrawback/DutyDrawback.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Duty 
+            Drawback</font></a></td>
+        </tr>
+		 <tr> 
+          <td class=\"gen\"><a href='../Bonded/Bonded.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Bonded 
+            Warehouse</font></a></td>
+        </tr>
+		 <tr> 
+          <td class=\"gen\"><a href='../FreeZone/FreeZone.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Free 
+            Zone</font></a></td>
+        </tr>
+<!-- 		 <tr> 
+          <td class=\"gen\"><a href='#'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Tax 
+            and Duty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compensation</font></a></td>
+        </tr>
+ -->		 <tr> 
+          <td class=\"gen\"><a href='../EPZ/EPZ.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Industrial&nbsp;Estate &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EPZ)</font></a></td>
+        </tr>
+		 <tr> 
+          <td class=\"gen\"><a href='../DutyExemption/DutyExemption.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Duty 
+            Exemption &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under 
+            BOI</font></a></td>
+        </tr>
+		<tr> 
+          <td class=\"gen\"><a href='../Comparison/Comparison.jsp?menuNme=FreeZone'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Comparison 
+            of Tax &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measures</font></a></td>
+        </tr>
+      </table>
+      </span> 
+      <!-- End Menu : Export Promotion and Privileges -->    </td>
+  </tr>
+  <tr> 
+    <td width='100%' ><table width=\"100%\" cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../PostalParcels/PostalParcels.jsp?menuNme=PostalParcels\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Postal 
+      Parcels</font></b></a></div></td>
+  </tr></table></td>
+  </tr>
+  <tr> 
+    <td width='100%'><table width=\"100%\" cellspacing=\"1\"> <tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"  id=\"hheicon\"></td>
+    <td valign=bottom class=\"gene\">
+	<a href=\"../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold\"><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue><b>
+		<div style=\"cursor:hand;\"  onClick=\"expandit(this);showhide(hhedisplay,hheicon);\">
+	&nbsp;Household Effects</div></b></font></a></td>
+  </tr></table></td>
+  </tr>
+  <tr>
+    <td> 
+      <!-- Menu : Household Effects -->
+      <span id=\"hhedisplay\" style=\"display:\"> 
+      <table width=\"100%\" border=\"0\" align=\"center\" cellspacing=\"1\"  bgcolor=\"#DCFAF1\" class=\"buttongreen\">
+        <tr> 
+          <td class=\"gen\"><a href='../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#requirement'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Requirements for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duty Free Allowance</font></a></td>
+        </tr>
+		 <tr> 
+          <td class=\"gen\"><a href='../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#document'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Documentation</font></a></td>
+        </tr>
+		 <tr> 
+          <td class=\"gen\"><a href='../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#clearance'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a></td>
+        </tr>
+		 <tr> 
+          <td class=\"gen\"><a href='../HouseholdEffects/HouseholdEffects.jsp?menuNme=HouseHold#contact'>&nbsp;&nbsp;<img src=\"../image/icon_greenline.gif\"  border=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Contact</font></a></td>
+        </tr>
+      </table>
+      </span> 
+      <!-- End Menu : Household Effects -->    </td>
+  </tr>
+  <tr> 
+    <td width='100%'>
+	<table width=\"100%\" cellspacing=\"1\"> <tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"  id=\"psvicon\"></td>
+    <td valign=bottom class=\"gene\">
+	<a href=\"#\"><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue><b>
+	<div style=\"cursor:hand;\"  onClick=\"expandit(this);showhide(psvdisplay,psvicon);\">
+	  &nbsp;Personal&nbsp;Vehicles</div>
+      </b></font></a></td>
+  </tr></table></td>
+  </tr>
+  <tr>
+    <td> 
+      <!-- Menu : Personal Vehicles -->
+      <span id=\"psvdisplay\" style=\"display:\"> 
+      <table width=\"100%\" border=\"0\" align=\"center\" cellspacing=\"1\"  bgcolor=\"#DCFAF1\" class=\"buttongreen\">
+        <tr> 
+          <td class=\"gen\">
+		  <a href='PersonalVehiclesTemp/carImport.pdf' target='_blank'>
+			<div style=\"cursor:hand\" onClick=\"expandit(tempsvdisplay);showhide('sub',tempsvicon);\" onMouseOver=\"this.style.backgroundColor ='#ffffff';\" onMouseOut=\"this.style.backgroundColor ='#DCFAF1';\">&nbsp;&nbsp;<img src=\"../image/ico_up.gif\"  border=0   id=\"tempsvicon\">&nbsp;<font face=\"MS Sans Serif, Microsoft Sans Serif\" size=\"2\">Temporary Import</font></div></a>		 </td>
+        </tr>
+        <tr> 
+          <td align=right  class=\"gensub\">
+			<!-- Sub Menu : Personal Vehicles / Temporary Import -->
+			<span id=\"tempsvdisplay\" style=\"display:\"> 
+			<table width='100%'>
+              <tr> 
+                <td width=\"15%\"></td>
+                <td class=\"buttonlist\"><a href='../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#1'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Documentation</font></a></td>
+              </tr>
+              <tr>
+                <td></td>
+                <td class=\"buttonlist\"><a href='../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#2'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Import 
+                  Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a></td>
+              </tr>
+              <tr>
+                <td></td>
+                <td class=\"buttonlist\"><a href='../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#3'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Export 
+                  Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a></td>
+              </tr>
+              <tr>
+                <td></td>
+                <td class=\"buttonlist\"><a href='../PersonalVehiclesTemp/TemporaryImport.jsp?menuNme=PersonalTem#4'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Contact</font></a></td>
+              </tr>
+            </table>
+			</span>
+			<!-- End Sub Menu : Personal Vehicles / Temporary Import -->		  </td>
+        </tr>
+
+        <tr> 
+          <td class=\"gen\">
+		   <a href='../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer'>
+			<div style=\"cursor:hand\" onClick=\"expandit(perpsvdisplay);showhide('sub',perpsvicon);\" onMouseOver=\"this.style.backgroundColor ='#ffffff';\" onMouseOut=\"this.style.backgroundColor ='#DCFAF1';\">&nbsp;&nbsp;<img src=\"../image/ico_up.gif\"  border=0   id=\"perpsvicon\">&nbsp;<font face=\"MS Sans Serif, Microsoft Sans Serif\" size=\"2\">Permanent Import</font></div></a>		 </td>
+        </tr>
+        <tr> 
+          <td align=right  class=\"gensub\">
+			<!-- Sub Menu : Personal Vehicles / Permanent Import -->
+			<span id=\"perpsvdisplay\" style=\"display:\"> 
+			<table width='100%'>
+				<tr> <td width=\"15%\"></td>
+				  
+                <td class=\"buttonlist\"><a href='../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#1'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font color=\"#000066\" size=\"2\">Criteria 
+                  for a Permanent Import</font></a></td>
+				</tr>
+				<tr> <td width=\"15%\"></td>
+				  <td class=\"buttonlist\"><a href='../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#2'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Documentation</font></a></td>
+				</tr>
+				<tr> <td width=\"15%\"></td>
+				  <td class=\"buttonlist\"><a href='../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#3'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Import Clearance &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures</font></a></td>
+				</tr>
+				<tr> <td width=\"15%\"></td>
+				  <td class=\"buttonlist\"><a href='../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#4'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Tax and Duty &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assessment</font></a></td>
+				</tr>
+				<tr> <td width=\"15%\"></td>
+				  <td class=\"buttonlist\"><a href='../PersonalVehiclesPermanent/PermanentImport.jsp?menuNme=PersonalPer#5'>&nbsp;<IMG SRC=\"../image/next.gif\" BORDER=0>&nbsp;<font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'>Contact</font></a></td>
+				</tr>
+			</table>
+			</span>
+			<!-- End Sub Menu : Personal Vehicles / Permanent Import -->		  </td>
+        </tr>
+      </table>
+      </span> 
+      <!-- End Menu : Personal Vehicles -->    </td>
+  </tr>
+  <tr> 
+    <td  width='100%'><table cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../Traveller/TravelEng.jsp?menuNme=Travel\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Traveler&nbsp;<BR>&nbsp;Information&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></a></div></td>
+  </tr></table></td>
+  </tr>
+  <tr> 
+    <td  width='100%'><table width=\"100%\" cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"ATACarnet/tempImport.pdf\" target=\"_blank\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;A.T.A carnet</font></b></a></div></td>
+  </tr></table></td>
+  </tr>
+  <tr> 
+    <td  width='100%'><table cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../PrivilegedGoods/PrivilegedGoods.jsp?menuNme=Diplomatic\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Privileged Goods</font></b></a></div></td>
+  </tr></table></td>
+  </tr>  
+  <tr> 
+    <td width='100%' valign=top colspan=\"2\">
+	<table cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">	
+	<a href=\"../CustomsEnforcement/CustomsEnforcement.jsp?menuNme=CusEnforce\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Customs 
+      &nbsp;Enforcement</font></b></a></div></td>
+     </tr></table></td>
+  </tr>
+  <tr> 
+    <td width='100%' valign=top colspan=\"2\">
+	<table width=\"100%\" cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../Notification/Notification.jsp?menuNme=Notification\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Notification</font></b></a></div></td>
+     </tr></table></td>
+  </tr>
+  <tr> 
+    <td width='100%' valign=top colspan=\"2\">
+	<table width=\"100%\" cellspacing=\"1\"><tr> 
+    <td align=center width='12' valign=top><img src=\"../image/ico_plus.gif\"></td>
+    <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+	<a href=\"../Publication/Publication.jsp?menuNme=Publication\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Press Release</font></b></a></div></td>
+     </tr></table></td>
+  </tr>
+
+
+  
+  <tr>
+  <td width=\"100%\"><table width=\"100%\" cellspacing=\"1\">  <tr>
+  <td align=center width='12'><img src=\"../image/ico_plus.gif\"></td>
+          <td class=\"gene\">
+			<div style=\"cursor:hand;\">
+		  <a href=\"../Statistic/Statistic.jsp?menuNme=Statistic\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Trade Statistics</font></b></a></div></td>
+  </tr></table></td>
+  </tr>  
+  
+  <tr>
+  <td width=\"100%\"><table width=\"100%\" cellspacing=\"1\">  <tr>
+  <td align=center width='12'><img src=\"../image/ico_plus.gif\"></td>
+          <td class=\"gene\">
+			<div style=\"cursor:hand;\">
+		  <a href=\"http://igtf.customs.go.th/igtf/en/main_frame.jsp\" target=\"_blank\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Integrated Tariff Database</font></b></a></div></td>
+  </tr></table></td>
+  </tr>
+  <tr>
+  <td width=\"100%\"><table width=\"100%\" cellspacing=\"1\">  <tr>
+  <td align=center width='12'><img src=\"../image/ico_plus.gif\"></td>
+          <td class=\"gene\">
+			<div style=\"cursor:hand;\">
+		  <a href=\"../Contact/ContactUs.jsp?menuNme=ContactUs\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Contact 
+            Us</font></b></a></div></td>
+  </tr></table></td>
+  </tr>
+
+  <tr>
+  <td width=\"100%\"><table width=\"100%\" cellspacing=\"1\">  <tr>
+  <td align=center width='12'><img src=\"../image/ico_plus.gif\"></td>
+  <td class=\"gene\">
+	<div style=\"cursor:hand;\">
+  <a href=\"../Link/Link.jsp?menuNme=Link\"><b><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"' color=darkblue>&nbsp;Link</font></b></a></div></td>
+  </tr>
+  </table></td>
+  </tr>
+  <tr>
+    <td class=\"gene\"><a href=\"http://www.customs.go.th/FTA/ReportFTA.jsp?type=tariffrule&country=au\" target=\"_blank\"><img src=\"../../internet/bu_tafta.gif\" border=0 width=\"100%\"></a></td>
+  </tr>
+  <tr>
+  <td class=\"gene\"><a href=\"http://www.customs.go.th/FTA/ReportFTA.jsp?type=tariffrule&country=nz\" target=\"_blank\"><img src=\"../../internet/bu_tnzcep.gif\" border=0 width=\"100%\"></a></a></td>
+  </tr>
+</table>
+\x{a0} 
+<table width=\"170\"><tr><td><font color=white>
+				  </font></td></tr></table>
+<script language=\"JavaScript1.2\">
+var menuNme=''
+var ns6=document.getElementById&&!document.all?1:0
+var head=\"display:none''\"
+var folder=''
+window.onload+=preload();
+//alert(menuNme);
+
+function preload(){
+	if(document.images){
+		Open = new Image(10,10)
+		Closed = new Image(10,10)
+		SubOpen = new Image(10,10)
+		SubClosed = new Image(10,10)
+		Open.src = \"../image/ico_plus.gif\"
+		Closed.src = \"../image/ico_sub.gif\"
+		SubOpen.src = \"../image/ico_up.gif\"
+		SubClosed.src = \"../image/ico_down.gif\"
+	}
+	/* Hide All Menu , Show menu : Export Promotion and Privileges */
+	if(menuNme!='FreeZone'){
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';}
+	else{
+		expicon.src=Closed.src
+	}
+
+	/* Hide All Menu , Show menu : About Us/Administrative */
+	if(menuNme!='AboutUs'){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+	}else{
+		transicon.src=Closed.src
+	}
+
+	/* Hide All Menu , Show menu : Cargo Clearance */
+	if(menuNme!='Cargo'){
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+	}else{
+		cargoicon.src=Closed.src
+	}
+
+	/* Hide All Menu , Show menu : Tariff Nomenclature */
+	if(menuNme!='Tariff'){
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+	}else{
+		tariffnoicon.src=Closed.src
+	}
+
+	/* Hide All Menu , Show menu : Household	Effects */
+	if(menuNme!='HouseHold'){
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+	}else{
+		hheicon.src=Closed.src
+	}
+	
+
+
+	/* Hide All Menu , Show menu : Personal Vehicles (Tem) */
+	if(menuNme!='PersonalTem' & menuNme!='PersonalPer'){
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		ns6?tempsvdisplay.nextSibling.nextSibling.style:document.all[tempsvdisplay.sourceIndex+1].style.display = 'none';
+		ns6?perpsvdisplay.nextSibling.nextSibling.style:document.all[perpsvdisplay.sourceIndex+1].style.display = 'none';
+	}else{
+		if(menuNme=='PersonalTem'){
+			psvicon.src=Closed.src
+			tempsvicon.src=SubClosed.src
+			ns6?perpsvdisplay.nextSibling.nextSibling.style:document.all[perpsvdisplay.sourceIndex+1].style.display = 'none';
+		}else if(menuNme=='PersonalPer'){
+			psvicon.src=Closed.src
+			perpsvicon.src=SubClosed.src
+			ns6?tempsvdisplay.nextSibling.nextSibling.style:document.all[tempsvdisplay.sourceIndex+1].style.display = 'none';
+		}
+		/* Hide All Menu , Show menu : statisitic */
+	if(menuNme!='Statistic'){
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+	}else{
+		staticon.src=Closed.src
+	}
+	}
+
+	/* Hide All Menu , Show menu : Personal Vehicles */
+	/*if(menuNme!='PersonalTem'){
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		ns6?tempsvdisplay.nextSibling.nextSibling.style:document.all[tempsvdisplay.sourceIndex+1].style.display = 'none';
+	}else{
+		psvicon.src=Closed.src
+		tempsvicon.src=Closed.src
+	}*/
+
+}
+
+function expandit(curobj){
+	folder=ns6?curobj.nextSibling.nextSibling.style:document.all[curobj.sourceIndex+1].style
+	if (folder.display==\"none\"){	folder.display=\"\"}
+	else{	folder.display=\"none\"	}
+					//this.style.backgroundColor ='#DCFAF1';
+
+	/* Hide Other Layer (Except : transdisplay) */
+	if(curobj.sourceIndex+1==transdisplay.sourceIndex-3){
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';
+		expicon.src=Open.src
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+		cargoicon.src=Open.src
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+		tariffnoicon.src=Open.src
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+		hheicon.src=Open.src
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		psvicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+	}
+	/* Hide Other Layer (Except : expdisplay) */	
+	else if(curobj.sourceIndex+1==expdisplay.sourceIndex-3){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+		transicon.src=Open.src
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+		cargoicon.src=Open.src
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+		tariffnoicon.src=Open.src
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+		hheicon.src=Open.src
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		psvicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+	}
+	/* Hide Other Layer (Except : cargodisplay) */	
+	else if(curobj.sourceIndex+1==cargodisplay.sourceIndex-3){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+		transicon.src=Open.src
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+		tariffnoicon.src=Open.src
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';
+		expicon.src=Open.src
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+		hheicon.src=Open.src
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		psvicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+	}
+	/* Hide Other Layer (Except : tariffnodisplay) */	
+	else if(curobj.sourceIndex+1==tariffnodisplay.sourceIndex-3){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+		transicon.src=Open.src
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+		cargoicon.src=Open.src
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';
+		expicon.src=Open.src
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+		hheicon.src=Open.src
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		psvicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+	}
+	/* Hide Other Layer (Except : hhedisplay) */	
+	else if(curobj.sourceIndex+1==hhedisplay.sourceIndex-3){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+		transicon.src=Open.src
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+		tariffnoicon.src=Open.src
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';
+		expicon.src=Open.src
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+		cargoicon.src=Open.src
+		ns6?psvdisplay.nextSibling.nextSibling.style:document.all[psvdisplay.sourceIndex-3].style.display = 'none';
+		psvicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+	}
+	/* Hide Other Layer (Except : psvdisplay) */	
+	else if(curobj.sourceIndex+1==psvdisplay.sourceIndex-3){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+		transicon.src=Open.src
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+		tariffnoicon.src=Open.src
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';
+		expicon.src=Open.src
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+		cargoicon.src=Open.src
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+		hheicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+
+	}
+	
+	/* Hide Other Layer (Except : statdisplay) */	
+	else if(curobj.sourceIndex+1==psvdisplay.sourceIndex-3){
+		ns6?transdisplay.nextSibling.nextSibling.style:document.all[transdisplay.sourceIndex-3].style.display = 'none';
+		transicon.src=Open.src
+		ns6?tariffnodisplay.nextSibling.nextSibling.style:document.all[tariffnodisplay.sourceIndex-3].style.display = 'none';
+		tariffnoicon.src=Open.src
+		ns6?expdisplay.nextSibling.nextSibling.style:document.all[expdisplay.sourceIndex-3].style.display = 'none';
+		expicon.src=Open.src
+		ns6?cargodisplay.nextSibling.nextSibling.style:document.all[cargodisplay.sourceIndex-3].style.display = 'none';
+		cargoicon.src=Open.src
+		ns6?hhedisplay.nextSibling.nextSibling.style:document.all[hhedisplay.sourceIndex-3].style.display = 'none';
+		hheicon.src=Open.src
+		ns6?statdisplay.nextSibling.nextSibling.style:document.all[statdisplay.sourceIndex-3].style.display = 'none';
+		staticon.src=Open.src
+
+	}
+	
+	/* Hide Other Layer (Except : perpsvdisplay) */
+	else if(curobj.sourceIndex==tempsvdisplay.sourceIndex){
+		ns6?perpsvdisplay.nextSibling.nextSibling.style:document.all[perpsvdisplay.sourceIndex+1].style.display = 'none';
+		perpsvicon.src=SubOpen.src
+	}
+	/* Hide Other Layer (Except : tempsvdisplay) */
+	else if(curobj.sourceIndex==perpsvdisplay.sourceIndex){
+		ns6?tempsvdisplay.nextSibling.nextSibling.style:document.all[tempsvdisplay.sourceIndex+1].style.display = 'none';
+		tempsvicon.src=SubOpen.src
+	}
+}
+
+function showhide(what,what2){
+		//if (what.style.display=='none'){
+		if (folder.display=='none'){
+			if(what!='sub')	what2.src=Open.src
+			else	what2.src=SubOpen.src
+		}
+		else{
+			if(what!='sub')	what2.src=Closed.src
+			else	what2.src=SubClosed.src
+		}
+}
+//-->
+</script>
+</body>
+</html>  </td>
+      <td   width=\"78%\" bgcolor=\"white\"><table width=\"100%\"  border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+            <tr>
+               <td align=\"center\">&nbsp;</td>
+            </tr>
+            <tr>
+               <td align=\"center\"><table width=\"570\" height=\"25\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" background=\"../image/bar.gif\" bgcolor=\"#FFFFFF\">
+                  <tr>
+                     <td width=\"59%\"><div align=\"center\"><FONT SIZE=\"3\" COLOR=\"#FFFFFF\"></FONT></div></td>
+                     <td width=\"41%\">
+                        <div align=\"center\"><FONT SIZE=\"3\" COLOR=\"#FFFFFF\"><b>
+                           <!-- Foreign Trade Statistics  -->
+                           Import Statistics
+                     </b></FONT></div></td>
+                  </tr>
+               </table></td>
+            </tr>
+            <tr>
+               <td><table width=\"98%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" bgcolor=\"#FFFFFF\" >
+                  <!-- ****************************  print table display of not checking product hscode ************************** -->
+                  
+                  <tr>
+                     <td>
+                        <!-- ***************   print table display of checking product hscode (< 8 digits :: has no quantity) ******************  -->
+                        <font color=\"#FF9900\" size=\"1\" face=\"MS Sans Serif\"><strong>&nbsp;&nbsp;</strong></font></td>
+                  </tr>
+                  <tr>
+                     <td><font color=\"#FF9900\" size=\"1\" face=\"MS Sans Serif\"><strong>** Click <font color=\"#FF6600\">&quot;...more&quot;</font> to drill down to HS Code 4,8 and 11 digit level headings. </strong></font><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=\"#FF3300\" size=\"1\" face=\"MS Sans Serif\"><strong>The quantity is provided at a 11 digit level heading only. </strong></font> &nbsp;</td>
+                  </tr>
+                  <!-- ++++++++++++++  DISPLAY PAGE  +++++++++++++ -->
+                  <tr valign=\"top\" class=\"txt\">
+                     <td colspan=\"7\" align=\"right\">PAGE :
+                           <!---- ++++++++++++++++++++++++++++ -->
+                           
+                           <a href=\"StatisticResult2550.jsp?page=1&statType=import&month=11&year=2011&productCodeCheck=1&productCode=27111100000&countryCheck=null&country=\"><font  face=\"MS Sans Serif, Microsoft Sans Serif\"  size=\"3\" color=\"#FF6600\"><b>1</b></font></a>&nbsp;
+                           
+&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                  </tr>
+                  <!-- ++++++++++++++ END DISPLAY PAGE  +++++++++++++ -->
+                  <tr>
+                     <td>
+                        <table width=\"95%\" border=\"1\" align=\"center\" cellpadding=\"2\" cellspacing=\"0\" style=\"border-collapse:collapse\">
+                           
+                           <tr valign=\"top\" class=\"HeadTable\">
+                              <td width=\"16%\" align=\"center\"> <strong>HS-Code</strong></td>
+                              <td width=\"15%\"  align=\"center\">
+                                 2711.1100.000<br>( KGM )
+                              </td>
+                              <td colspan=\"5\" >&nbsp;&nbsp;Petroleum gases and other gaseous hydrocarbons.Naturalgas--Naturalgas</td>
+                           </tr>
+                           
+                           <tr valign=\"top\">
+                              <td colspan=\"3\">&nbsp;</td>
+                              <td  colspan=\"2\" align=\"center\" class=\"HeadTable1\" width=\"20%\">NOV&nbsp;
+                                 2011</td>
+                              <td colspan=\"2\" align=\"center\" class=\"HeadTable1\"  width=\"25%\"> JAN&nbsp;-&nbsp;NOV&nbsp;
+                                 2011</td>
+                           </tr>
+                           
+                           <tr valign=\"top\" class=\"HeadTable2\">
+                              <td  colspan=\"3\" align=\"center\" > <strong>COUNTRY</strong></td>
+                              <td width=\"15%\"  align=\"center\"><strong>Quantity</strong> </td>
+                              <td width=\"17%\"  align=\"center\"> <strong>CIF   Value</strong>(Baht)</td>
+                              <td width=\"15%\"  align=\"center\"> <strong>Quantity</strong></td>
+                              <td width=\"17%\"  align=\"center\"> <strong>CIF   Value</strong>(Baht)</td>
+                           </tr>
+                           
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"txt\">
+                              <td colspan=\"3\"> UNITED KINGDOM</td>
+                              <td align=\"right\">0</td>
+                              <td align=\"right\">
+                                 0
+                              </td>
+                              <td align=\"right\">1
+                              </td>
+                              <td align=\"right\">102,730</td>
+                           </tr>
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"txt\">
+                              <td colspan=\"3\"> INDONESIA</td>
+                              <td align=\"right\">0</td>
+                              <td align=\"right\">
+                                 0
+                              </td>
+                              <td align=\"right\">63,453,953
+                              </td>
+                              <td align=\"right\">1,685,589,143</td>
+                           </tr>
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"txt\">
+                              <td colspan=\"3\"> NIGERIA</td>
+                              <td align=\"right\">0</td>
+                              <td align=\"right\">
+                                 0
+                              </td>
+                              <td align=\"right\">121,419,978
+                              </td>
+                              <td align=\"right\">2,736,280,538</td>
+                           </tr>
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"txt\">
+                              <td colspan=\"3\"> PERU</td>
+                              <td align=\"right\">64,857,655</td>
+                              <td align=\"right\">
+                                 1,890,358,936
+                              </td>
+                              <td align=\"right\">208,418,291
+                              </td>
+                              <td align=\"right\">5,479,018,592</td>
+                           </tr>
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"txt\">
+                              <td colspan=\"3\"> QATAR</td>
+                              <td align=\"right\">0</td>
+                              <td align=\"right\">
+                                 0
+                              </td>
+                              <td align=\"right\">252,475,172
+                              </td>
+                              <td align=\"right\">5,117,923,069</td>
+                           </tr>
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"txt\">
+                              <td colspan=\"3\"> RUSSIAN FEDERATION</td>
+                              <td align=\"right\">0</td>
+                              <td align=\"right\">
+                                 0
+                              </td>
+                              <td align=\"right\">62,370,222
+                              </td>
+                              <td align=\"right\">1,238,110,628</td>
+                           </tr>
+                           
+                           
+                           
+                           <tr valign=\"top\" class=\"TableGray2\">
+                              <td colspan=\"3\" align=\"center\"> Grand&nbsp;Total</td>
+                              <td  align=\"right\">64,857,655</td>
+                              <td align=\"right\">1,890,358,936</td>
+                              <td align=\"right\" >708,137,617</td>
+                              <td align=\"right\" >16,257,024,700</td>
+                           </tr>
+                           
+                     </table></td>
+                  </tr>
+                  
+                  <!-- 1111111111111111111111111111111111111111111111111111 -->
+               </table></td>
+            </tr>
+         </table></td>
+   </tr>
+	        <tr>
+            <td colspan=\"2\"><html>
+<head>
+<title>>> Thai Customs <<</title>
+
+<style type=\"text/css\">
+TD.genD A:link {COLOR: #FFFFFF;  text-decoration: none; font-size: 12px; font-family: \"MS Sans Serif\";}
+TD.genD A:visited {COLOR: #FFFFCC;  text-decoration: none; font-size: 12px; font-family: \"MS Sans Serif\";}
+TD.genD A:active {COLOR: #0099FF;  text-decoration: none; font-size: 12px; font-family: \"MS Sans Serif\";}
+TD.genD A:hover {COLOR: #FF9E00;  text-decoration: none; font-size: 12px; font-family: \"MS Sans Serif\";}
+</style>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-874\"></head>
+<body leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\">
+<table width=\"780\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">
+  <tr> 
+    <td width=\"22%\" height=\"10\" bgcolor=\"#294994\"></td>
+    <td width=\"78%\" height=\"30\" bgcolor=\"#FFFFFF\"><div align=\"center\"><a href=\"#top\"><img src=\"../image/back2.gif\" width=\"117\" height=\"20\" border=\"0\"></a></div></td>
+  </tr>
+</table>
+<table width=\"780\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">
+  <tr> 
+    <td width=\"22%\" height=\"10\" bgcolor=\"#294994\"></td>
+    <td width=\"78%\" height=\"10\" background=\"../image/b.gif\"></td>
+  </tr>
+</table>
+<table width=\"780\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">
+  <tr> 
+    <td height=\"5\" bgcolor=\"#294994\"></td>
+  </tr>
+  <tr> 
+    <td height=\"2\" bgcolor=\"#999999\"></td>
+  </tr>
+  <tr valign=middle> 
+    <td height=\"40\" align=center valign=\"top\" background=\"../image/footbg.gif\"> <div align=\"right\"> 
+        <table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">
+          <tr>
+            <td width=\"41%\">&nbsp;</td>
+            <td width=\"59%\" height=\"30\"><div align=\"center\"><font size=\"2\" style='font-size:11.0pt;font-family:\"MS Sans Serif\"'><font color=\"#FFFFFF\">Best 
+                view with IE 5.0 or higher at 800x600 pixel and text size medium</font></font> 
+              </div></td>
+          </tr>
+        </table>
+        <font face=\"MS Sans Serif, Microsoft Sans Serif\" size=\"2\" color=\"black\"> 
+        </font></div></td>
+  </tr>
+</table>
+</body>
+</html>
+</td>
+         </tr>
+</table>
+
+</body>
+</html>
+
+
+
+";

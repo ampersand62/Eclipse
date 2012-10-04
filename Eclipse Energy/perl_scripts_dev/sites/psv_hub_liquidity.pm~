@@ -1,0 +1,77 @@
+=pod
+Description: --- Put Description of Code Here ---
+Created by: --- Put Name Here ---
+Date: --- Put Date Here ---
+=cut
+
+
+# --- Please dont' edit anything in this section. Feel free to add Perl modules to use --- #
+package Site::psv_hub_liquidity;
+our $DEBUG = 1;
+use File::Temp;
+
+use warnings;
+use strict;
+use Date::Calc qw(Delta_Days Add_Delta_Days Today Now);
+use misc qw(%monthToNum %txtToNum %frenchMon %alt_french_months GetBetween 
+			getTables slurp clean parseDate parseDateMonText trim commaNumber get_gas_year 
+			readFile formatDate getGasDate removeComma);
+use log;
+use base qw(Site);
+
+sub key { "psv_hub_liquidity"; }
+sub name { "psv_hub_liquidity";}
+sub usesWWW { 1; }
+#
+
+#URL of website to scrape
+my $URL = "http://www.snamretegas.it/en/services/Thermal_Year_2011_2012/info-to-users/dati-logistica-gas-index.html";
+
+sub scrape {
+	
+	#has the mechanize object. 
+	my $self = shift;
+		
+	$self->{mech}->get($URL);
+
+	$self->{mech}->follow_link(
+	    url_regex => qr/progressivi/
+	    );
+
+	my $pdf = File::Temp->new(
+	    suffix => '.pdf'
+	    );
+
+	print $pdf $self->{mech}->content();
+
+	my $body = File::Temp->new();
+
+	print $body `pdftotext -q -layout $pdf - `;
+
+	$body->seek(0, 0);
+
+	while(<$body>) {
+	    print $_ if $DEBUG;
+	}
+	
+=pod
+#1)	INSTRUCTIONS:
+1) - Go to http://www.snamretegas.it/en/services/Thermal_Year_2011_2012/info-to-users/dati-logistica-gas-index.html
+2) Under the section "Final Gas Transactions at VTP", select the most recent pdf download
+3) In the first page of the pdf pick up the gas traded data from the table (overlays graph) (input as "Traded" in database)
+4) The . should be removed and the comma should be a decimal. the year could be taken from the axis or/link name.
+5) date should be in format YYYY-MM-01. the final array should look like: <date,value>
+
+=cut
+	my @data;
+	
+	$self->updateDB("eeg.enagas_monthly_arrivals",["eta","etd","vessel"],["berth"],\@data,name());
+		
+	#exits the method
+	return 1;
+	
+}
+
+1;
+
+
